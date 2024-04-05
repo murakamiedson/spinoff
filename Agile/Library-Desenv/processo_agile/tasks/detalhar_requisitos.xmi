@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-POW1gYwSqnVtujZMkNeK5w" name="detalhar_requisitos,_7f0acGaUEeeSdMzcHvBvqg" guid="-POW1gYwSqnVtujZMkNeK5w" changeDate="2017-07-24T09:57:14.085-0300">
+  <sections xmi:id="_-iXfkGe_Eee98KTxJdQ4aA" name="Levantar requisitos com o cliente" guid="_-iXfkGe_Eee98KTxJdQ4aA">
+    <sectionDescription>&lt;p>&#xD;
+    Depois que o escopo e o planejamento estão prontos inicia-se a fase de detalhamento do sistema, que são registradas em&#xD;
+    &lt;a class=&quot;elementLink&quot; href=&quot;./../../processo_agile/workproducts/especificacao_caso_uso_F597CE3A.html&quot;&#xD;
+    guid=&quot;_PAGkwGb5Eeelx-d4QgVk5A&quot;>Especificação de Caso de Uso&lt;/a>&amp;nbsp;ou &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../processo_agile/guidances/templates/template_historia_de_usurio_2EDF05D8.html&quot;&#xD;
+    guid=&quot;_XYMDAOhWEeqpRpaT9ayfbA&quot;>Historia de Usuário&lt;/a>.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Para o levantamento, ou elicitação, dos requisitos existem várias técnicas, a mais comumente utilizada é a Entrevista&#xD;
+    (ver&amp;nbsp;o &lt;a class=&quot;elementLink&quot; href=&quot;./../../processo_agile/guidances/guidelines/guia_entrevista_B399ADE5.html&quot;&#xD;
+    guid=&quot;_enS8EGb5Eeelx-d4QgVk5A&quot;>Guia - Técnica de Entrevista&lt;/a>). Para isso, são&amp;nbsp;utilizadas reuniões com o&#xD;
+    cliente. Deve-se fazer tantas reuniões quantas forem necessárias para o detalhamento.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Prepare a entrevista antes da reunião, ver&amp;nbsp;o &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../processo_agile/guidances/guidelines/guia_entrevista_B399ADE5.html&quot; guid=&quot;_enS8EGb5Eeelx-d4QgVk5A&quot;>Guia -&#xD;
+    Técnica de Entrevista&lt;/a>,&amp;nbsp;para realizar o levantamento de requisitos útilizando a Técnica de Entrevista. Utilize&#xD;
+    a &lt;a class=&quot;elementLink&quot; href=&quot;./../../processo_agile/workproducts/ata_reuniao_7A07402B.html&quot;&#xD;
+    guid=&quot;_sC0tEGb5Eeelx-d4QgVk5A&quot;>Ata de Reunião&lt;/a> para registrar as questões e posteriormente complemente-a com as&#xD;
+    respostas. Lembrando que é uma boa prática gravar as entrevistas para depois, logo após a reunião,&amp;nbsp;consolidar o&#xD;
+    entendimento utilizando a &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../processo_agile/guidances/guidelines/guia_workshop_requisitos_132EE002.html&quot;&#xD;
+    guid=&quot;_gxAakGb5Eeelx-d4QgVk5A&quot;>Guia - Workshop de Requisitos&lt;/a>.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Os requisitos não funcionais devem ser registrados no &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../processo_agile/workproducts/visao_BC2A1584.html&quot; guid=&quot;_XenvAGaSEeeSdMzcHvBvqg&quot;>Visão&lt;/a>, quando afetar&#xD;
+    o sistema como um todo ou na própria especificação da funcionalidade quando for referente&amp;nbsp;apenas a esta&#xD;
+    funcionalidade. Ver &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../processo_agile/guidances/guidelines/guia_requisitos_EE5BB647.html&quot; guid=&quot;_7QQV8KDuEeqZReOXvi3sdQ&quot;>Guia -&#xD;
+    Requisitos de Sistema de Software&lt;/a>.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_uG_gsHBvEees4PtkW9T4JA" name="Criar modelos de análise" guid="_uG_gsHBvEees4PtkW9T4JA">
+    <sectionDescription>&lt;p>&#xD;
+    Utilize ténicas de modelagem, sempre que necessário, para entender o problema ou a&amp;nbsp;necessidade do cliente.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Atualize o &lt;a class=&quot;elementLink&quot; href=&quot;./../../processo_agile/workproducts/modelo_caso_uso_8529B232.html&quot;&#xD;
+    guid=&quot;_cWdAoGaSEeeSdMzcHvBvqg&quot;>Modelo de Caso de Uso&lt;/a>, criado na definição do sistema,&amp;nbsp;e faça os detalhamentos&#xD;
+    necessários.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Crie o &lt;a class=&quot;elementLink&quot; href=&quot;./../../processo_agile/workproducts/modelo_analise_design_503F6397.html&quot;&#xD;
+    guid=&quot;_6v8CYIkrEeiXk-0tNEdcvA&quot;>Modelo de Análise e Design&lt;/a> a partir dos objetos (entidades) encontradas, defina seus&#xD;
+    relacionamentos e suas propriedades. Normalmente são identificados por substantivos que dão nome a esses objetos do&#xD;
+    mundo real. Para criar o Modelo de Negócio utilize o Diagrama de Classes da UML.&lt;br />&#xD;
+    &lt;br />&#xD;
+    &lt;br />&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_7f0ac2aUEeeSdMzcHvBvqg" name="Criar protótipos" guid="_7f0ac2aUEeeSdMzcHvBvqg">
+    <sectionDescription>&lt;p>&#xD;
+    Nesta atividade, o &lt;a class=&quot;elementLink&quot; href=&quot;./../../processo_agile/roles/desenvolvedor_137361E8.html&quot;&#xD;
+    guid=&quot;_jg34QE0dEeeZC78fRt21fQ&quot;>Desenvolvedor&lt;/a> deve construir um &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../processo_agile/workproducts/prototipo_C7FEB626.html&quot; guid=&quot;_hjKj0GaXEeeSdMzcHvBvqg&quot;>Protótipo&lt;/a> para&#xD;
+    ser apresentado ao owner e/ou cliente. O objetivo é mostrar o entendimento dos Requisitos levantados. O protótipo deve&#xD;
+    servir apenas para identificar as informações e comportamentos para a realização do casos de uso. Não se deve perder&#xD;
+    tempo implementando. Utilize ferramentas de desenho ou rascunhe em papel.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Seguindo a característica do processo &quot;Dirigido por casos de uso&quot;, crie protótipos por caso de uso.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Prototipação é uma técnica muito importante para obter o entendimento dos requisitos funcionais do sistema. Quanto&#xD;
+    maior o grau de dinamismo de um&amp;nbsp; protótipo, mais poderoso ele se torna para alcançar esse objetivo. No entanto,&#xD;
+    deve-se tomar cuidado para que os usuários entendam que o protótipo não materializa a solução final para o sistema.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;br />&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_7f0acWaUEeeSdMzcHvBvqg" name="Especificar requisitos" guid="_7f0acWaUEeeSdMzcHvBvqg">
+    <sectionDescription>&lt;p>&#xD;
+    Esta atividade tem o objetivo de gerar as &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../processo_agile/workproducts/especificacao_caso_uso_F597CE3A.html&quot;&#xD;
+    guid=&quot;_PAGkwGb5Eeelx-d4QgVk5A&quot;>Especificação de Caso de Uso&lt;/a>&amp;nbsp;ou &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../processo_agile/guidances/templates/template_historia_de_usurio_2EDF05D8.html&quot;&#xD;
+    guid=&quot;_XYMDAOhWEeqpRpaT9ayfbA&quot;>Historia de Usuário&lt;/a> a partir do &lt;strong>Modelo&lt;/strong> &lt;strong>de Casos de Uso,&#xD;
+    Visão e Glossário&lt;/strong>, de maneira que esses requisitos sejam suficientes para retratar todo o comportamento&#xD;
+    funcional do sistema.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Nesta atividade, o &lt;a class=&quot;elementLink&quot; href=&quot;./../../processo_agile/roles/desenvolvedor_137361E8.html&quot;&#xD;
+    guid=&quot;_jg34QE0dEeeZC78fRt21fQ&quot;>Desenvolvedor&lt;/a> deve documentar os detalhes dos Requisitos, especificando os seguintes&#xD;
+    itens:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Pré-condições&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Cenários (fluxos)&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Entradas e saídas&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Restrições de segurança e permissões&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Exceções e Regras de negócio&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></sectionDescription>
+  </sections>
+  <sections xmi:id="_J4PIwLWEEeqIE8PTmZnm3A" name="Normalizar requisitos" guid="_J4PIwLWEEeqIE8PTmZnm3A">
+    <sectionDescription>&lt;p>&#xD;
+    No processo de análise de sistemas, ao levantar as informações referentes “ao que tem que ser feito”, são identificados&#xD;
+    os requisitos necessários para a completude do projeto. Estes requisitos identificados podem ter dentro de si, uma&#xD;
+    quantidade de outros requisitos implícitos. Pode haver também requisitos pequenos, que já permitam um entendimento e&#xD;
+    estimativa dos mesmos.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Para verificar a completude&amp;nbsp;e normalizar os requisitos utilize a técnica INVEST, ver&amp;nbsp;&lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../processo_agile/guidances/guidelines/guia_invest_4C58FC06.html&quot; guid=&quot;_97ZYwLWCEeqIE8PTmZnm3A&quot;>Guia -&#xD;
+    INVEST&lt;/a>.&#xD;
+&lt;/p>&#xD;
+&lt;br /></sectionDescription>
+  </sections>
+  <sections xmi:id="_C0lWoGaXEeeSdMzcHvBvqg" name="Aprovar requisitos" guid="_C0lWoGaXEeeSdMzcHvBvqg">
+    <sectionDescription>&lt;p>&#xD;
+    O &lt;a class=&quot;elementLink&quot; href=&quot;./../../processo_agile/roles/desenvolvedor_137361E8.html&quot;&#xD;
+    guid=&quot;_jg34QE0dEeeZC78fRt21fQ&quot;>Desenvolvedor&lt;/a> deve apresentar as especificações dos requisitos do sistema ao owner&#xD;
+    e/ou cliente para validá-los. Utilize os protótipos para guiar a apresentação, mostrando a interação do usuário com o&#xD;
+    sistema.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Toda mudança deve ser registrada e em &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../processo_agile/workproducts/ata_reuniao_7A07402B.html&quot; guid=&quot;_sC0tEGb5Eeelx-d4QgVk5A&quot;>Ata de Reunião&lt;/a>&#xD;
+    e seguir o processo de Gerenciamento de Configuração e Mudanças. Ver a tarefa &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../processo_agile/tasks/controlar_mudanca_E732D53A.html&quot; guid=&quot;_PqTZgGcTEeelx-d4QgVk5A&quot;>Controlar Mudanças&#xD;
+    no Sistema&lt;/a>.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <purpose>&lt;span lang=&quot;PT-BR&quot;&#xD;
+style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 'Arial','sans-serif'; COLOR: black; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: PT-BR; mso-fareast-language: PT-BR; mso-bidi-language: AR-SA; mso-bidi-font-weight: bold&quot;>&#xD;
+Especificar os requisitos identificados, Funcionais e não Funcionais, analisar o problema, criar modelos e protótipos&#xD;
+funcionais e consolidar os requisitos detalhados.&lt;/span></purpose>
+</org.eclipse.epf.uma:TaskDescription>

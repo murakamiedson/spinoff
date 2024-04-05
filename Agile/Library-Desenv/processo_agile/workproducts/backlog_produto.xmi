@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-hiH3bhGtzMYVY4S-B6smLg" name="new_artifact,_7UTzAGZdEee1huV63HakZg" guid="-hiH3bhGtzMYVY4S-B6smLg" changeDate="2017-07-11T14:25:55.631-0300">
+  <mainDescription>&lt;p>&#xD;
+    Este artefato é resultante do primeiro Sprint. Ele lista todas as funcionalidades e atividades do projeto,&amp;nbsp;que&#xD;
+    define o escopo inicial.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    No entanto, a partir daí, o Backlog do Produto deverá crescer e mudar na medida em que se conhece mais detalhes sobre o&#xD;
+    produto e os clientes.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    O Backlog do Produto é uma lista organizada e priorizada pelo Product Owner conforme a necessidade e expectativa do&#xD;
+    cliente.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Os Sprints Backlog são sublistas do Product Backlog.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Itens do&amp;nbsp;Backlog do Produto podem ser tarefas técnicas como, criar o modelo de entidade e relacionamento.&#xD;
+&lt;/p>&#xD;
+&lt;br /></mainDescription>
+</org.eclipse.epf.uma:ArtifactDescription>

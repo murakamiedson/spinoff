@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-zMneFXLG10Htmovb8ougag" name=",_dkp68A3BEeWXfeurpSMKlg" guid="-zMneFXLG10Htmovb8ougag">
+  <sections xmi:id="_o1YtcWcJEeelx-d4QgVk5A" name="Implantar o produto" guid="_o1YtcWcJEeelx-d4QgVk5A">
+    <sectionDescription>&lt;p>&#xD;
+    O Desenvolvedor com base no &lt;strong>&lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../processo_agile/workproducts/guia_implantacao_F58FAD34.html&quot; guid=&quot;_9TMOYGcJEeelx-d4QgVk5A&quot;>Guia de&#xD;
+    Implantação&lt;/a>&lt;/strong> e após certificar-se de que houve a homologação do produto ou incremente&amp;nbsp;pelo&#xD;
+    responsável, realiza a implantação.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+</org.eclipse.epf.uma:TaskDescription>

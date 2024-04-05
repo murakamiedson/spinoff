@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-UqqSSSNhW_ef4A4ie1y5UQ" name=",_VWEVkP1-EeSHjoQpHnfszQ" guid="-UqqSSSNhW_ef4A4ie1y5UQ" changeDate="2020-07-15T10:44:40.231-0300">
+  <mainDescription>&lt;p>&#xD;
+    A &lt;strong>arquitetura de software&lt;/strong> de um sistema consiste na definição dos componentes de software, suas&#xD;
+    propriedades externas, e seus relacionamentos com outros softwares. O termo também se refere à documentação da&#xD;
+    arquitetura de software do sistema. O Desenvolvedor deve criar o &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../processo_agile/workproducts/modelo_arquitetura_4779B597.html&quot; guid=&quot;_9UCO0Gb8Eeelx-d4QgVk5A&quot;>Modelo de&#xD;
+    Arquitetura&lt;/a> para registrar todas as definições da arquitetura.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    A documentação da arquitetura do software:&#xD;
+&lt;/p>&#xD;
+&lt;ol>&#xD;
+    &lt;li>&#xD;
+        Facilita a comunicação entre as partes interessadas;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Registra as decisões iniciais acerca do projeto de alto-nível;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        E permite o reúso de componentes e padrões entre projetos.&#xD;
+    &lt;/li>&#xD;
+&lt;/ol></mainDescription>
+  <keyConsiderations>&lt;p>&#xD;
+    &amp;nbsp;&#xD;
+&lt;/p></keyConsiderations>
+  <sections xmi:id="_-yt6s2b5Eeelx-d4QgVk5A" name="Desenvolver a Arquitetura" guid="_-yt6s2b5Eeelx-d4QgVk5A">
+    <sectionDescription>&lt;p class=&quot;MsoNormal&quot; style=&quot;MARGIN: 0cm 0cm 0pt&quot;>&#xD;
+    &lt;span lang=&quot;PT-BR&quot;>A análise arquitetural concentra-se em definir uma sugestão de arquitetura e restringir as técnicas&#xD;
+    de arquitetura a serem utilizadas no projeto. Ela conta com a experiência obtida com projetos de domínios de problemas&#xD;
+    semelhantes para não desperdiçar esforço na 'redescoberta arquitetural'.&lt;/span>&#xD;
+&lt;/p>&#xD;
+&lt;br class=&quot;MsoNormal&quot; style=&quot;MARGIN: 0cm 0cm 0pt&quot; />&#xD;
+&lt;p class=&quot;MsoNormal&quot; style=&quot;MARGIN: 0cm 0cm 0pt&quot;>&#xD;
+    &lt;span lang=&quot;PT-BR&quot;>Para realizar a análise arquitetural e definir a arquitetura o Desenvolvedor, com base nos&#xD;
+    documentos: &lt;strong>Visão&lt;/strong>, &lt;strong>Modelo de Caso de Uso&lt;/strong> e &lt;strong>Arquitetura de Referência&lt;/strong>&#xD;
+    deve fazer:&lt;/span>&#xD;
+&lt;/p>&#xD;
+&lt;br class=&quot;MsoNormal&quot; style=&quot;MARGIN: 0cm 0cm 0pt&quot; />&#xD;
+&lt;br />&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;div class=&quot;MsoNormal&quot; style=&quot;MARGIN: 0cm 0cm 0pt&quot;>&#xD;
+            &lt;span lang=&quot;PT-BR&quot;>Desenvolver a Visão Geral da Arquitetura refletindo sobre:&lt;/span>&#xD;
+        &lt;/div>&#xD;
+        &lt;ul>&#xD;
+            &lt;li>&#xD;
+                &lt;div class=&quot;MsoNormal&quot; style=&quot;MARGIN: 0cm 0cm 0pt&quot;>&#xD;
+                    &lt;span lang=&quot;PT-BR&quot;>As hipóteses de trabalho (ambiente existente de hardware e software);&lt;/span>&#xD;
+                &lt;/div>&#xD;
+            &lt;/li>&#xD;
+            &lt;li>&#xD;
+                &lt;div class=&quot;MsoNormal&quot; style=&quot;MARGIN: 0cm 0cm 0pt&quot;>&#xD;
+                    &lt;span lang=&quot;PT-BR&quot;>As decisões iniciais relativas à arquitetura física e lógica;&lt;/span>&#xD;
+                &lt;/div>&#xD;
+            &lt;/li>&#xD;
+            &lt;li>&#xD;
+                &lt;div class=&quot;MsoNormal&quot; style=&quot;MARGIN: 0cm 0cm 0pt&quot;>&#xD;
+                    &lt;span lang=&quot;PT-BR&quot;>Os requisitos não-funcionais como escalabilidade, interoperabilidade, facilidade de&#xD;
+                    manutenção, desempenho, portabilidade e segurança.&lt;/span>&#xD;
+                &lt;/div>&#xD;
+            &lt;/li>&#xD;
+        &lt;/ul>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;div class=&quot;MsoNormal&quot; style=&quot;MARGIN: 0cm 0cm 0pt&quot;>&#xD;
+            &lt;span lang=&quot;PT-BR&quot;>Definir estratégias de reuso para o projeto com base na visão geral da arquitetura,&#xD;
+            restrições e requisitos;&lt;/span>&#xD;
+        &lt;/div>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;div class=&quot;MsoNormal&quot; style=&quot;MARGIN: 0cm 0cm 0pt&quot;>&#xD;
+            &lt;span lang=&quot;PT-BR&quot;>Identificar recursos que podem ser reutilizados ou adquiridos, por exemplo, Padrões de&#xD;
+            Projeto e componentes de software.;&lt;/span>&#xD;
+        &lt;/div>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Avaliar a viabilidade da implementação do sistema. O modelo de implantação preliminar deve ser elaborado e&#xD;
+        documentado na visão de implementação do Documento de Arquitetura. O objetivo é verificar se o modelo suportará os&#xD;
+        usuários nos locais em que estarão executando o sistema. Deve também atender a restrições e requisitos&#xD;
+        não-funcionais;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;div class=&quot;MsoNormal&quot; style=&quot;MARGIN: 0cm 0cm 0pt&quot;>&#xD;
+            Realizar (projetar) os cenários significativos do ponto de vista da arquitetura;&#xD;
+        &lt;/div>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;div class=&quot;MsoNormal&quot; style=&quot;MARGIN: 0cm 0cm 0pt&quot;>&#xD;
+            Revisar&amp;nbsp;os mecanismos de arquitetura, subsistemas, pacotes e entidades que foram identificados para se&#xD;
+            certificar de que estão completos e são consistentes. Os cenários significativos devem ser utilizados para&#xD;
+            validar as opções arquiteturais;&#xD;
+        &lt;/div>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;div class=&quot;MsoNormal&quot; style=&quot;MARGIN: 0cm 0cm 0pt&quot;>&#xD;
+            Registrar todas as informações resultantes dessa análise no &lt;a class=&quot;elementLink&quot;&#xD;
+            href=&quot;./../../processo_agile/workproducts/modelo_arquitetura_4779B597.html&quot;&#xD;
+            guid=&quot;_9UCO0Gb8Eeelx-d4QgVk5A&quot;>Modelo de Arquitetura&lt;/a>.&#xD;
+        &lt;/div>&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></sectionDescription>
+  </sections>
+  <sections xmi:id="_-yt6sWb5Eeelx-d4QgVk5A" name="Desenvolver Guia de Implementação" guid="_-yt6sWb5Eeelx-d4QgVk5A">
+    <sectionDescription>&lt;p>&#xD;
+    &lt;span lang=&quot;PT-BR&quot;&#xD;
+    style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 'Arial','sans-serif'; COLOR: black; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: PT-BR; mso-fareast-language: PT-BR; mso-bidi-language: AR-SA&quot;>&#xD;
+    O &lt;strong>&lt;a class=&quot;elementLink&quot; href=&quot;./../../processo_agile/workproducts/guia_implementação_E3C99C55.html&quot;&#xD;
+    guid=&quot;_vlXKQGb6Eeelx-d4QgVk5A&quot;>Guia de Implementação&lt;/a>&lt;em>&amp;nbsp;&lt;/em>&lt;/strong>deve especificar a apresentação do&#xD;
+    layout do código e de comentários, o uso de convenções de nomeação e características da linguagem e outros detalhes de&#xD;
+    implementação como boas práticas.&lt;/span>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;span lang=&quot;PT-BR&quot;&#xD;
+    style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 'Arial','sans-serif'; COLOR: black; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: PT-BR; mso-fareast-language: PT-BR; mso-bidi-language: AR-SA&quot;>&#xD;
+    Se existir &lt;strong>Padrões de Codificação&lt;/strong> da linguagem selecionada este guia deve referenciá-la.&lt;/span>&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_2dW4oGcBEeelx-d4QgVk5A" name="Implementar uma funcionalidade para testar arquitetura" guid="_2dW4oGcBEeelx-d4QgVk5A">
+    <sectionDescription>&lt;p>&#xD;
+    Depois de definir a arquitetura o Desenvolvedor deve selecionar uma funcionalidade que forneça maior risco à solução&#xD;
+    técnica escolhida para implementar e testar a arquitetura.&lt;br />&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_lrIcIGcCEeelx-d4QgVk5A" name="Refinar a arquitetura" guid="_lrIcIGcCEeelx-d4QgVk5A">
+    <sectionDescription>&lt;p>&#xD;
+    É comum que com a implementação a arquitetura sofra alterações. Essas alterações devem ser documentadas no &lt;a&#xD;
+    class=&quot;elementLink&quot; href=&quot;./../../processo_agile/workproducts/modelo_arquitetura_4779B597.html&quot;&#xD;
+    guid=&quot;_9UCO0Gb8Eeelx-d4QgVk5A&quot;>Modelo de Arquitetura&lt;/a> e no &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../processo_agile/workproducts/guia_implementação_E3C99C55.html&quot; guid=&quot;_vlXKQGb6Eeelx-d4QgVk5A&quot;>Guia de&#xD;
+    Implementação&lt;/a>.&lt;br />&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_tePzIGcCEeelx-d4QgVk5A" name="Apresentar a arquitetura aos desenvolvedores" guid="_tePzIGcCEeelx-d4QgVk5A">
+    <sectionDescription>Depois que a arquitetura estiver definida e testada o Desenvolvedor responsável deve apresentá-la ao time de&#xD;
+desenvolvimento. Pois a arquitetura é a referência aos demais desenvolvedores, para que todos a sigam.</sectionDescription>
+  </sections>
+</org.eclipse.epf.uma:TaskDescription>

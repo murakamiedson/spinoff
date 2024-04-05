@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-iJ1QrR7nc1o00UUCPC21Uw" name="product_owner,_0sP_IE0dEeeZC78fRt21fQ" guid="-iJ1QrR7nc1o00UUCPC21Uw" changeDate="2017-07-11T13:14:21.255-0300">
+  <mainDescription>&lt;p>&#xD;
+    O Product Owner (PO) é a única pessoa responsável por gerenciar o Backlog do Produto. É o principal responsável pelo&#xD;
+    gerenciamento do backlog do produto, que&amp;nbsp;inclui:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Definir as funcionalidades do produto;&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; TEXT-ALIGN: left&quot;>&#xD;
+        Decidir a data de liberação e conteúdo do Produto;&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; TEXT-ALIGN: left&quot;>&#xD;
+        Responder pela rentabilidade do produto (ROI);&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Expressar claramente as funcionalidades/itens do Backlog do Produto;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Ordenar os itens do Backlog do Produto para alcançar melhor as metas e missões;&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; TEXT-ALIGN: left&quot;>&#xD;
+        Ajustar funcionalidades e prioridades a cada 30 dias, conforme necessário; e&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; TEXT-ALIGN: left&quot;>&#xD;
+        Aceitar ou Rejeitar os resultados de trabalho.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+  <keyConsiderations>&lt;ul class=&quot;noindent&quot;>&#xD;
+    &lt;li style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; TEXT-ALIGN: left&quot;>&#xD;
+        Uma única pessoa dedicada ao projeto - deve estar disponível para responder às dúvidas do time&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; TEXT-ALIGN: left&quot;>&#xD;
+        Um membro extra do time que participa das reuniões de Planejamento do Projeto (Sprint Planning) e Revisão do&#xD;
+        Produto (Sprint Review)&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; TEXT-ALIGN: left&quot;>&#xD;
+        Tipicamente, alguém do Marketing ou um usuário chave em desenvolvimentos internos&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; TEXT-ALIGN: left&quot;>&#xD;
+        Pode ser um representante do cliente ou um procurador do cliente&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></keyConsiderations>
+</org.eclipse.epf.uma:RoleDescription>

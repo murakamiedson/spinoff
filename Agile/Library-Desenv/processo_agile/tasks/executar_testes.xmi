@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-P-_CmNcm3TT1UsQQC9ji4Q" name=",_zgEgMA3_EeWY3eZySvU8_A" guid="-P-_CmNcm3TT1UsQQC9ji4Q">
+  <sections xmi:id="_2C70MWcGEeelx-d4QgVk5A" name="Executar testes" guid="_2C70MWcGEeelx-d4QgVk5A">
+    <sectionDescription>&lt;p>&#xD;
+    De acordo com a abordagem escolhida o &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../processo_agile/roles/desenvolvedor_137361E8.html&quot; guid=&quot;_jg34QE0dEeeZC78fRt21fQ&quot;>Desenvolvedor&lt;/a>&#xD;
+    realiza os testes com base no&amp;nbsp;&lt;strong>&lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../processo_agile/workproducts/roteiro_testes_8FC8C567.html&quot; guid=&quot;_4mDRMGcGEeelx-d4QgVk5A&quot;>Roteiro de&#xD;
+    Testes&lt;/a>&lt;/strong>.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Os resultados dos testes devem ser registrados nos respectivos ciclos de teste contidos no &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../processo_agile/workproducts/roteiro_testes_8FC8C567.html&quot; guid=&quot;_4mDRMGcGEeelx-d4QgVk5A&quot;>Roteiro de&#xD;
+    Testes&lt;/a>.&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Todos os defeitos devem ser registrados e acompanhados até a sua solução.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_7hD-4GcIEeelx-d4QgVk5A" name="Corrigir defeitos" guid="_7hD-4GcIEeelx-d4QgVk5A">
+    <sectionDescription>&lt;p>&#xD;
+    O&amp;nbsp;&lt;a class=&quot;elementLink&quot; href=&quot;./../../processo_agile/roles/desenvolvedor_137361E8.html&quot;&#xD;
+    guid=&quot;_jg34QE0dEeeZC78fRt21fQ&quot;>Desenvolvedor&lt;/a> deve corrigir todos os defeitos encontrados na execução dos testes.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    As atividades de correção podem ser encaminhadas a outro desenvolvedor. Se for este o caso, uma atividade de correção&#xD;
+    deve ser criada e incluída no &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../processo_agile/workproducts/backlog_sprint_213D7178.html&quot; guid=&quot;_GfkJgGZpEee1huV63HakZg&quot;>Backlog de&#xD;
+    Sprint (Sprint Backlog)&lt;/a>.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+</org.eclipse.epf.uma:TaskDescription>

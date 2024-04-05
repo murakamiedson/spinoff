@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-bXYrvUFMj8QepP3QwLM1PA" name=",_DE43UBT_EeqXs563M0S9KA" guid="-bXYrvUFMj8QepP3QwLM1PA" changeDate="2019-12-02T10:39:42.521-0200">
+  <sections xmi:id="_-1yHsBUAEeqXs563M0S9KA" name="Elaborar o Termo de Abertura do Projeto (TAP)" guid="_-1yHsBUAEeqXs563M0S9KA">
+    <sectionDescription>Após a primeira reunião com o interessado o &lt;a class=&quot;elementLink&quot;&#xD;
+href=&quot;./../../processo_agile/roles/product_owner_D4B73F24.html&quot; guid=&quot;_0sP_IE0dEeeZC78fRt21fQ&quot;>Product Owner (PO)&lt;/a> deve&#xD;
+elaborar o &lt;a class=&quot;elementLink&quot; href=&quot;./../../processo_agile/guidances/templates/template_tap_765C3F17.html&quot;&#xD;
+guid=&quot;_FYfaUGf2EeeJroYH56TLOQ&quot;>Template do Termo de Abertura do Projeto (TAP)&lt;/a>, que define os compromissos das partes&#xD;
+para executarem o projeto.&amp;nbsp;</sectionDescription>
+  </sections>
+  <sections xmi:id="_8hm-8OhREeqpRpaT9ayfbA" name="Customizar o SpinOff" guid="_8hm-8OhREeqpRpaT9ayfbA">
+    <sectionDescription>&lt;p class=&quot;MsoNormal&quot; style=&quot;MARGIN: 0cm 0cm 0pt&quot;>&#xD;
+    &lt;span style=&quot;COLOR: windowtext&quot;>Dependendo do tipo, tamanho ou complexidade&amp;nbsp;do projeto pode ser necessário&#xD;
+    customizar o SpinOff para o projeto.&lt;/span>&#xD;
+&lt;/p>&#xD;
+&lt;p class=&quot;MsoNormal&quot; style=&quot;MARGIN: 0cm 0cm 0pt&quot;>&#xD;
+    &amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;p class=&quot;MsoNormal&quot; style=&quot;MARGIN: 0cm 0cm 0pt&quot;>&#xD;
+    &lt;span style=&quot;COLOR: windowtext&quot;>Neste caso o &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../processo_agile/roles/scrum_master_BEC8226F.html&quot; guid=&quot;_Zj1nYE0dEeeZC78fRt21fQ&quot;>Scrum Master&lt;/a> deve&#xD;
+    criar o documento &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../processo_agile/workproducts/caso_de_desenvolvimento_AEDF03E9.html&quot; guid=&quot;_hQ6N4OhREeqpRpaT9ayfbA&quot;>Caso de&#xD;
+    Desenvolvimento&lt;/a> e orientar o &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../processo_agile/roles/time_desenvolvimento_837780B8.html&quot; guid=&quot;_VUDXwE0eEeeZC78fRt21fQ&quot;>Time de&#xD;
+    Desenvolvimento&lt;/a> sobre as customizações realizadas.&amp;nbsp;O objetivo é orientar os membros do time e novos membros&#xD;
+    das mudanças realizadas em relação ao processo padrão SpinOff.&lt;/span>&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+</org.eclipse.epf.uma:TaskDescription>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-_qfPyXeToXlV9yJk8pfD1g" name=",_PqTZgGcTEeelx-d4QgVk5A" guid="-_qfPyXeToXlV9yJk8pfD1g">
+  <sections xmi:id="_VW8zQGcTEeelx-d4QgVk5A" name="Analisar Impacto da Mudança" guid="_VW8zQGcTEeelx-d4QgVk5A">
+    <sectionDescription>&lt;p>&#xD;
+    O Owner pode solicitar mudança, que pode impactar em custo e prazo, desse modo é necessário analisar os impactos no&#xD;
+    projeto.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Para isso o Desenvolvedor deve criar uma requisição de mudanças, seguindo as&amp;nbsp;orientações contidas no próprio&#xD;
+    template da&amp;nbsp;&lt;strong>&lt;a class=&quot;elementLink&quot; href=&quot;./../../processo_agile/workproducts/rm_5A6327CB.html&quot;&#xD;
+    guid=&quot;_I3MuAGcTEeelx-d4QgVk5A&quot;>Requisição de Mudanças&lt;/a>&lt;/strong>.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_3TMPQGcTEeelx-d4QgVk5A" name="Atualizar a Planilha de Planejamento e Controle" guid="_3TMPQGcTEeelx-d4QgVk5A">
+    <sectionDescription>Caso alguma atividade nova tenha sido criada devido a mudança, esta deve ser adicionada na &lt;strong>planilha de planejamento&#xD;
+e controle do projeto&lt;/strong>.</sectionDescription>
+  </sections>
+  <sections xmi:id="_mg7L8GcTEeelx-d4QgVk5A" name="Realizar a mudança" guid="_mg7L8GcTEeelx-d4QgVk5A">
+    <sectionDescription>Depois de analisados os impactos e este aprovado pelo Owner o Desenvolvedor executa a mudança.</sectionDescription>
+  </sections>
+</org.eclipse.epf.uma:TaskDescription>

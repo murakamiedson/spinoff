@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-6-unkCM7z8sv9ExA0HgTVw" name=",_TyT3oO83EeSw8aA-UGMkEg" guid="-6-unkCM7z8sv9ExA0HgTVw" changeDate="2020-06-05T15:25:27.288-0300">
+  <sections xmi:id="_12zIYKdZEeq1ProniyDKWg" name="Controlar Itens de Configuração" guid="_12zIYKdZEeq1ProniyDKWg">
+    <sectionDescription>&lt;p>&#xD;
+    O &lt;a class=&quot;elementLink&quot; href=&quot;./../../processo_agile/roles/desenvolvedor_137361E8.html&quot;&#xD;
+    guid=&quot;_jg34QE0dEeeZC78fRt21fQ&quot;>Desenvolvedor&lt;/a> é responsável pela organização dos produtos criados durante o&#xD;
+    desenvolvimento e seu controle de versão dentro do repositório do projeto.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Todos os artefatos padronizados pelo processo e&amp;nbsp;criados na execução do projeto são considerados Itens de&#xD;
+    Configuração (IC).&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Todos os ICs devem ser nomeados conforme &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../processo_agile/guidances/guidelines/guia_-_polticas_de_gc_10E280CE.html&quot;&#xD;
+    guid=&quot;_kivfQKdcEeq1ProniyDKWg&quot;>Guia - Politicas de GC&lt;/a>&amp;nbsp;e armazenados na estrutura do projeto conforme o &lt;a&#xD;
+    class=&quot;elementLink&quot; href=&quot;./../../processo_agile/guidances/examples/guia_mapeamento_produtos_processo_56B1D075.html&quot;&#xD;
+    guid=&quot;_SLKUEGcQEeelx-d4QgVk5A&quot;>Guia - Mapeamento de Produtos por Processo&lt;/a>.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Os artefatos não previstos pelo processo,&amp;nbsp;porém necessários ao time, sejam eles fontes de requisitos, manuais,&#xD;
+    livros, novos templates específicos para o projeto, etc. devem ser armazenados na pasta &quot;&lt;strong>Ambiente&lt;/strong>&quot; e&#xD;
+    não necessitam seguir os padrões de nomeação definidos no &lt;strong>Guia - Políticas de GC&lt;/strong>.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_tt214KdaEeq1ProniyDKWg" name="Controlar Configuração Base" guid="_tt214KdaEeq1ProniyDKWg">
+    <sectionDescription>&lt;p>&#xD;
+    Configuração Case (CB)&amp;nbsp;corresponde ao estado do software, que inclui os estados de todos os artefatos que a&#xD;
+    compõe,&amp;nbsp;num determinado momento&amp;nbsp;da linha do tempo, normalmente fim de uma iteração/sprint ou fase, quando se&#xD;
+    realiza uma entrega.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Todas as CBs devem ser nomeadas conforme &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../processo_agile/guidances/guidelines/guia_-_polticas_de_gc_10E280CE.html&quot;&#xD;
+    guid=&quot;_kivfQKdcEeq1ProniyDKWg&quot;>Guia - Politicas de GC&lt;/a>.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Sempre que uma CB&amp;nbsp;for entregue deve ser registrado o número da &quot;Revision&quot; (versão)&amp;nbsp;correspondente da&#xD;
+    ferramenta de controle de versão na &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../processo_agile/workproducts/planilha_pcp_EFCEC02C.html&quot; guid=&quot;_U0xmcGZnEee1huV63HakZg&quot;>Planilha de&#xD;
+    Planejamento e Controle do Projeto&lt;/a>, na aba Controle de Entregas.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Isso é importante para&amp;nbsp;garantir&amp;nbsp;a possibilidade de recuperação da CB entregue, se necessário.&lt;br />&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+</org.eclipse.epf.uma:TaskDescription>

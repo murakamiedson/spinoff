@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-Zg10zA7jnBKbTURX-MHvFg" name=",_V7L3wGfOEee98KTxJdQ4aA" guid="-Zg10zA7jnBKbTURX-MHvFg" changeDate="2020-07-14T13:03:20.144-0300">
+  <mainDescription>É muito importante que o Time, antes de cada Sprint, faça uma revisão do Plano do Projeto, pois mudanças são intrinsecas no&#xD;
+desenvolvimento e novas necessidades podem ter surgidas, as quais precisam ser priorizadas e estimadas. Prazos e custos&#xD;
+precisam ser revistos, etc.</mainDescription>
+</org.eclipse.epf.uma:TaskDescription>

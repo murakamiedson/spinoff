@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-AuI9F0qrvZD27mT1IKvz_w" name="reuniao_revisao_sprint,_Gtf-4GfJEee98KTxJdQ4aA" guid="-AuI9F0qrvZD27mT1IKvz_w" changeDate="2020-07-10T10:44:29.650-0300">
+  <sections xmi:id="_RtWQsMKyEeq0I7bZu2e3JA" name="Revisar o produto" guid="_RtWQsMKyEeq0I7bZu2e3JA">
+    <sectionDescription>&lt;p&#xD;
+style=&quot;FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: normal; COLOR: rgb(0,0,0); FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial&quot;>&#xD;
+    Durante esta reunião, o Time apresenta o que foi realizado durante o Sprint. Tipicamente, esta apresentação é feita na&#xD;
+    forma de uma demonstração das novas funcionalidades.&#xD;
+&lt;/p>&#xD;
+&lt;p&#xD;
+style=&quot;FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: normal; COLOR: rgb(0,0,0); FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial&quot;>&#xD;
+    Podem participar também além do time do projeto,&amp;nbsp;diretoria, clientes e engenheiros de outros projetos.&#xD;
+&lt;/p>&#xD;
+&lt;p&#xD;
+style=&quot;FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: normal; COLOR: rgb(0,0,0); FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial&quot;>&#xD;
+    O Time deve avaliar:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;div&#xD;
+        style=&quot;FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: normal; COLOR: rgb(0,0,0); FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial&quot;>&#xD;
+            Se os objetivos do Sprint foram atingidos em relação ao produto construído;&#xD;
+        &lt;/div>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;div&#xD;
+        style=&quot;FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: normal; COLOR: rgb(0,0,0); FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial&quot;>&#xD;
+            Se a qualidade mínima, prevista no&amp;nbsp;&lt;a class=&quot;elementLink&quot;&#xD;
+            href=&quot;./../../processo_agile/workproducts/checklist_projeto_D7299165.html&quot;&#xD;
+            guid=&quot;_A6CUQAXyEeixob1xXf1D3w&quot;>Checklist de Projeto&lt;/a>, foi atingida.&#xD;
+        &lt;/div>&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></sectionDescription>
+  </sections>
+  <sections xmi:id="_oeHrQPmeEe2kuN69Te_gYw" name="Revisar as não conformidades" guid="_oeHrQPmeEe2kuN69Te_gYw">
+    <sectionDescription>&lt;p>&#xD;
+    Essa etapa da &lt;strong>reunião&amp;nbsp;de revisão do sprint&lt;/strong> sera responsável por manter o&#xD;
+    &lt;strong>rastreamento&lt;/strong> das não conformidades.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Nessa reunião deverá ser relatada cada alteração feita em cada ponto do relatórios de não conformidades, e a partir&#xD;
+    dessas discussões, devem se surgir &lt;em>insights&lt;/em> para se incluir nos próprios&amp;nbsp;relatórios.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_fUrMkMKzEeq0I7bZu2e3JA" name="Revisar o processo" guid="_fUrMkMKzEeq0I7bZu2e3JA">
+    <sectionDescription>&lt;p>&#xD;
+    &lt;span&#xD;
+    style=&quot;FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FLOAT: none; FONT-WEIGHT: normal; COLOR: rgb(0,0,0); FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; DISPLAY: inline !important; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial&quot;>&#xD;
+    Nessa reunião o Time deve analisar e discutir o que está dando&amp;nbsp;certo e o que não, em termos de processo no final&#xD;
+    do Sprint. A ideia é melhorar&amp;nbsp;contínuamente o processo produtivo durante o projeto.&lt;/span> Para ajudar a verificar&#xD;
+    deve utilizar o &lt;a class=&quot;elementLink&quot; href=&quot;./../../processo_agile/workproducts/checklist_projeto_D7299165.html&quot;&#xD;
+    guid=&quot;_A6CUQAXyEeixob1xXf1D3w&quot;>Checklist de Projeto&lt;/a>.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Os resultados devem gerar ações para mudança. Uma abordagem adotada é o time&amp;nbsp;discuta o que ele gostaria de:&#xD;
+&lt;/p>&#xD;
+&lt;p class=&quot;MsoNormal&quot;&#xD;
+style=&quot;FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: normal; COLOR: rgb(0,0,0); FONT-STYLE: normal; TEXT-ALIGN: left; ORPHANS: 2; WIDOWS: 2; MARGIN: 0cm 0cm 10pt; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial&quot;&#xD;
+ align=&quot;left&quot;>&#xD;
+    •&amp;nbsp;Começar a fazer&lt;br />&#xD;
+    •&amp;nbsp;Parar de fazer&lt;br />&#xD;
+    •&amp;nbsp;Continuar fazendo&#xD;
+&lt;/p>&#xD;
+&lt;p class=&quot;MsoNormal&quot;&#xD;
+style=&quot;FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: normal; COLOR: rgb(0,0,0); FONT-STYLE: normal; TEXT-ALIGN: left; ORPHANS: 2; WIDOWS: 2; MARGIN: 0cm 0cm 10pt; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial&quot;&#xD;
+ align=&quot;left&quot;>&#xD;
+    &lt;span&#xD;
+    style=&quot;FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FLOAT: none; FONT-WEIGHT: normal; COLOR: rgb(0,0,0); FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; DISPLAY: inline !important; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial&quot;>&#xD;
+    O&amp;nbsp;&lt;a class=&quot;elementLink&quot; href=&quot;./../../processo_agile/roles/scrum_master_BEC8226F.html&quot;&#xD;
+    guid=&quot;_Zj1nYE0dEeeZC78fRt21fQ&quot;>Scrum Master&lt;/a>&amp;nbsp;deve atuar como&amp;nbsp;facilitador na reunião.&lt;/span>&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+</org.eclipse.epf.uma:TaskDescription>

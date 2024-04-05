@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-WE4Z9tHdHCRq9_rYE_-hbQ" name="new_toolmentor,_8HJT4JwZEeiAhriidM4ivw" guid="-WE4Z9tHdHCRq9_rYE_-hbQ" changeDate="2020-06-05T11:23:19.246-0300">
+  <mainDescription>&lt;p>&#xD;
+    Feramenta de modelagem em UML. Faça&amp;nbsp;download da versão community&amp;nbsp;clicando &lt;a&#xD;
+    href=&quot;https://drive.ifsp.edu.br/s/zygwX0eaqsP3s4Q/download&quot; target=&quot;_blank&quot;>aqui&lt;/a>.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Esta ferramenta é recomendada para criação dos modelos:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Modelo de Casos de Uso&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Modelo de Negócio&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Modelo da Arquitetura&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    O Template para este modelo é &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../processo_agile/guidances/templates/template_modelos_analise_design_5CEC3985.html&quot;&#xD;
+    guid=&quot;_LY-A8Gf0EeeJroYH56TLOQ&quot;>Template Modelos de Análise e Design&lt;/a>.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

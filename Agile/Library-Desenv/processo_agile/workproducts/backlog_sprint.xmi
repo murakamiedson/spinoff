@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-x0TomwdcumNdkVZn-rxV7Q" name="new_artifact,_GfkJgGZpEee1huV63HakZg" guid="-x0TomwdcumNdkVZn-rxV7Q" changeDate="2017-07-11T15:50:32.704-0300">
+  <mainDescription>&lt;p>&#xD;
+    Itens do Backlog de Sprint são tirados do Backlog de Produto, pelo time, baseado na prioridade definida e a percepção&#xD;
+    do time do tempo que será necessário para finalizar as várias funcionalidades.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    É importante que o time identifique os itens e tamanho do Backlog de Sprint. Porque eles estarão comprometidos a&#xD;
+    finalizar as tarefas, eles é quem deverão escolher com o que irão se comprometer.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    O ScrumMaster mantém o Backlog de Sprint durante o Sprint, atualizando-o de forma a refletir quais tarefas estão&#xD;
+    finalizadas e quanto tempo o time acha que levará para completar as que ainda não estão. A estimativa de trabalho&#xD;
+    restante no Sprint é calculada diariamente e representado graficamente, resultando em um Sprint Burndown Chart.&#xD;
+    (&quot;Refatorar a classe Login para disparar uma exceção&quot;) ou mais focado no usuário (&quot;Permitir voltar na tela de&#xD;
+    instalação&quot;). Uma perpectiva muito interessante é descrever os itens do Backlog de Produto como &quot;User Stories&quot; do&#xD;
+    Extreme Programming.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    O Backlog de Produto é mantido&amp;nbsp;na planilha Planejamento de Controle do Projeto.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ArtifactDescription>

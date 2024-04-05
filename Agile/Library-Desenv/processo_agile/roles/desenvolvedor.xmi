@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-301_ochS6CJxOeBLZCFxxQ" name="desenvolvedor,_jg34QE0dEeeZC78fRt21fQ" guid="-301_ochS6CJxOeBLZCFxxQ" changeDate="2017-07-11T13:31:05.788-0300">
+  <mainDescription>&lt;p>&#xD;
+    São responsabilidades do Desenvolvedor, além dos definidos para o time de desenvolvimento:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Executar as atividades de desenvolvimento desde requisitos até a&amp;nbsp;implantação;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Desenvolver o produto conforme&amp;nbsp;os&amp;nbsp;guias e padrões do processo definido;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Participar dos eventos do processo.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+  <keyConsiderations>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;span&#xD;
+        style=&quot;FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FLOAT: none; FONT-WEIGHT: normal; COLOR: rgb(0,0,0); FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; DISPLAY: inline !important; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial&quot;>&#xD;
+        Devem se dedicar em tempo integral, mas pode haver exceções (ex: administrador de banco de dados).&lt;/span>&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></keyConsiderations>
+</org.eclipse.epf.uma:RoleDescription>

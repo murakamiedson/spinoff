@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-8g52Wf_2j63T4Iu9OO23Qg" name="new_guideline,_6OzDoMu0EeSh7NlMQWk02Q" guid="-8g52Wf_2j63T4Iu9OO23Qg" changeDate="2015-12-10T11:14:50.644-0200">
+  <mainDescription>&lt;p>&#xD;
+    &lt;strong>&lt;font size=&quot;3&quot;>Workshop de Requisitos&lt;/font>&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Os workshops ajudam no entendimento dos relacionamentos de um conjunto de requisitos. Podem ser utilizados para&#xD;
+    elicitação de requisitos junto ao cliente ou mesmo para a equipe consolidar os requisitos após o uso de outras técnicas&#xD;
+    de elicitação como a entrevista e questionário.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Os Workshops são mais rápidos e melhores que outras técnicas para obter requisitos. Porém, pode ser mais dispendioso&#xD;
+    por reunir um conjunto maior de pessoas, porém no final, pela alta produtividade acaba sendo mais barato e rápido, se&#xD;
+    bem organizado.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Deve ser utilizado um local onde não haja interrupções do dia-a-dia, celulares devem ser desligados, menssagens&#xD;
+    externas devem ser controladas. A técnica de Brainstorming prototipação são normalmente utilizadas nos workshops. Na&#xD;
+    figura 1 é mostrado um fluxo de condução de um workshop.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;img alt=&quot;&quot; src=&quot;resources/workshop.png&quot; width=&quot;362&quot; height=&quot;452&quot; />&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Figura 1. Fluxo do Workshop de Requisitos&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

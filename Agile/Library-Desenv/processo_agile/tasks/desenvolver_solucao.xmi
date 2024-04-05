@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-f3yqiDOhk0TUCvst3dFqYQ" name="desenvolver_solucao,_hHeDQAKxEeWATcZB-Nzoyg" guid="-f3yqiDOhk0TUCvst3dFqYQ">
+  <sections xmi:id="_rP8ioLraEeqXnJeLPcJWJw" name="Modelar solução" guid="_rP8ioLraEeqXnJeLPcJWJw">
+    <sectionDescription>&lt;p>&#xD;
+    O Desenvolvedor,&amp;nbsp;a partir das &lt;strong>Especificações de Caso de Uso&lt;/strong> deve analisar e projetar soluções&#xD;
+    para implementar a melhor solução.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    A modelagem consiste da análise do problema e projeto da solução. Deve-se criar um diagrama de classes com as classes&#xD;
+    (entidades) que são efetivamente utilizadas pelo caso de uso. Para isso crie um diagrama para cada caso de uso.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    A nomeação das classes, métodos e atributos e respectivos empacotamentos devem seguir os padrões definidos no &lt;a&#xD;
+    class=&quot;elementLink&quot; href=&quot;./../../processo_agile/workproducts/guia_implementação_E3C99C55.html&quot;&#xD;
+    guid=&quot;_vlXKQGb6Eeelx-d4QgVk5A&quot;>Guia de Implementação&lt;/a>,&amp;nbsp;nos padrões definidos no&amp;nbsp;&lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../processo_agile/workproducts/modelo_arquitetura_4779B597.html&quot; guid=&quot;_9UCO0Gb8Eeelx-d4QgVk5A&quot;>Modelo de&#xD;
+    Arquitetura&lt;/a>.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_TkxF8mb9Eeelx-d4QgVk5A" name="Implementar solução" guid="_TkxF8mb9Eeelx-d4QgVk5A">
+    <sectionDescription>&lt;p>&#xD;
+    A codificação também deve ser fiel à implementação e padrões definidos na Arquitetura,&amp;nbsp;&lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../processo_agile/workproducts/modelo_arquitetura_4779B597.html&quot; guid=&quot;_9UCO0Gb8Eeelx-d4QgVk5A&quot;>Modelo de&#xD;
+    Arquitetura&lt;/a>&amp;nbsp;e &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../processo_agile/workproducts/guia_implementação_E3C99C55.html&quot; guid=&quot;_vlXKQGb6Eeelx-d4QgVk5A&quot;>Guia de&#xD;
+    Implementação&lt;/a> (documentos de padrões e&amp;nbsp;boas práticas de codificação).&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_TkxF82b9Eeelx-d4QgVk5A" name="Testar solução" guid="_TkxF82b9Eeelx-d4QgVk5A">
+    <sectionDescription>&lt;p>&#xD;
+    Toda&amp;nbsp;solução implementada deve ser testada. É responsabilidade do implementador desenvolver e executar&#xD;
+    os&amp;nbsp;teste unitários com base nas&amp;nbsp;diretrizes descritas&amp;nbsp;no &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../processo_agile/workproducts/guia_implementação_E3C99C55.html&quot; guid=&quot;_vlXKQGb6Eeelx-d4QgVk5A&quot;>Guia de&#xD;
+    Implementação&lt;/a>&amp;nbsp;e assegurar que todos os problemas foram corrigidos.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Se necessários componentes fake devem ser criados para responder pelos componentes ainda não implementados.&#xD;
+&lt;/p>&#xD;
+&lt;br />&#xD;
+&lt;br />&#xD;
+&lt;br /></sectionDescription>
+  </sections>
+</org.eclipse.epf.uma:TaskDescription>

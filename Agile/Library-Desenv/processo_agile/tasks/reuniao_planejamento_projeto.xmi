@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-SiIH0fz_VmUeTbRCtLlohg" name="reuniao_planejamento_projeto,_e_Ef8GZWEee1huV63HakZg" guid="-SiIH0fz_VmUeTbRCtLlohg" changeDate="2020-07-14T15:43:24.878-0300">
+  <sections xmi:id="_Zh6ZwGfBEee98KTxJdQ4aA" name="Planejar o projeto" guid="_Zh6ZwGfBEee98KTxJdQ4aA">
+    <sectionDescription>&lt;p>&#xD;
+    Após definido o sistema o &lt;a class=&quot;elementLink&quot; href=&quot;./../../processo_agile/roles/time_desenvolvimento_837780B8.html&quot;&#xD;
+    guid=&quot;_VUDXwE0eEeeZC78fRt21fQ&quot;>Time de Desenvolvimento&lt;/a> se reune para planejar o projeto.&amp;nbsp;O &lt;a&#xD;
+    class=&quot;elementLink&quot; href=&quot;./../../processo_agile/roles/scrum_master_BEC8226F.html&quot; guid=&quot;_Zj1nYE0dEeeZC78fRt21fQ&quot;>Scrum&#xD;
+    Master&lt;/a> é o responsável em elaborar e&amp;nbsp;manter o plano do projeto (&lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../processo_agile/workproducts/planilha_pcp_EFCEC02C.html&quot; guid=&quot;_U0xmcGZnEee1huV63HakZg&quot;>Planilha de&#xD;
+    Planejamento e Controle do Projeto&lt;/a>) atualizado.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Neste momento é elaborado a primeira composição do &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../processo_agile/workproducts/backlog_produto_3F30FFF8.html&quot; guid=&quot;_7UTzAGZdEee1huV63HakZg&quot;>Backlog do&#xD;
+    Produto (Product Backlog)&lt;/a>&amp;nbsp;com base no &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../processo_agile/workproducts/modelo_caso_uso_8529B232.html&quot; guid=&quot;_cWdAoGaSEeeSdMzcHvBvqg&quot;>Modelo de Caso&#xD;
+    de Uso&lt;/a>&amp;nbsp;e no &lt;a class=&quot;elementLink&quot; href=&quot;./../../processo_agile/workproducts/visao_BC2A1584.html&quot;&#xD;
+    guid=&quot;_XenvAGaSEeeSdMzcHvBvqg&quot;>Visão&lt;/a>.&amp;nbsp;Nele o time deve listar todos os Casos de Uso, que poderão ser&#xD;
+    desmembrados em tarefas menores.&#xD;
+&lt;/p>&#xD;
+&lt;br /></sectionDescription>
+  </sections>
+  <sections xmi:id="_TOgy4I44EeqPTOk8qo7S2Q" name="Criar plano de gestão de riscos" guid="_TOgy4I44EeqPTOk8qo7S2Q">
+    <sectionDescription>&lt;p>&#xD;
+    É muito importante durante o planejamento do projeto identificar os riscos ao projeto.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    O &lt;a class=&quot;elementLink&quot; href=&quot;./../../processo_agile/roles/time_desenvolvimento_837780B8.html&quot;&#xD;
+    guid=&quot;_VUDXwE0eEeeZC78fRt21fQ&quot;>Time de Desenvolvimento&lt;/a>&amp;nbsp;e o &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../processo_agile/roles/scrum_master_BEC8226F.html&quot; guid=&quot;_Zj1nYE0dEeeZC78fRt21fQ&quot;>Scrum Master&lt;/a> devem se&#xD;
+    reunir para identificá-los e planejar a eliminação, mitigação ou&amp;nbsp;contingência de cada um.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    O &lt;a class=&quot;elementLink&quot; href=&quot;./../../processo_agile/workproducts/visao_BC2A1584.html&quot;&#xD;
+    guid=&quot;_XenvAGaSEeeSdMzcHvBvqg&quot;>Visão&lt;/a>&amp;nbsp;e as respostas aos&amp;nbsp;questionamentos do&amp;nbsp;&lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../processo_agile/guidances/guidelines/guia_para_identificao_de_riscos_A390DA93.html&quot;&#xD;
+    guid=&quot;_q0JkQI40EeqPTOk8qo7S2Q&quot;>Guia - Identificação de Riscos&lt;/a> ajudam a identificar os riscos do projeto.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Todos os riscos identificados&amp;nbsp;devem ser&amp;nbsp;relacionados na planilha de gestão de riscos (&lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../processo_agile/workproducts/planilha_pcp_EFCEC02C.html&quot; guid=&quot;_U0xmcGZnEee1huV63HakZg&quot;>Planilha de&#xD;
+    Planejamento e Controle do Projeto&lt;/a>) para monitoramento e controle.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Em todas as &lt;a class=&quot;elementLink&quot; href=&quot;./../../processo_agile/tasks/reuniao_revisao_sprint_94DA3C32.html&quot;&#xD;
+    guid=&quot;_Gtf-4GfJEee98KTxJdQ4aA&quot;>Reunião de Revisão do Sprint (Sprint Retrospective)&lt;/a> no final de cada Sprint os&#xD;
+    riscos devem ser reavaliados.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_bxkKYGfQEee98KTxJdQ4aA" name="Priorizar os itens do Backlog do Produto" guid="_bxkKYGfQEee98KTxJdQ4aA">
+    <sectionDescription>&lt;p&#xD;
+style=&quot;FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: normal; COLOR: rgb(0,0,0); FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial&quot;>&#xD;
+    O &lt;a class=&quot;elementLink&quot; href=&quot;./../../processo_agile/workproducts/backlog_produto_3F30FFF8.html&quot;&#xD;
+    guid=&quot;_7UTzAGZdEee1huV63HakZg&quot;>Backlog do Produto (Product Backlog)&lt;/a>&amp;nbsp;é uma lista priorizada de trabalhos a&#xD;
+    serem concluídos pelo time. É continuamente, atualizada pelo &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../processo_agile/roles/product_owner_D4B73F24.html&quot; guid=&quot;_0sP_IE0dEeeZC78fRt21fQ&quot;>Product Owner (PO)&lt;/a>&#xD;
+    que se baseia no feedback vindo do usuário final (à medida em que são expostos a novos incrementos de produtos) e,&#xD;
+    também, em resposta às evoluções técnicas e cénarios de negócios.&#xD;
+&lt;/p>&#xD;
+&lt;p&#xD;
+style=&quot;FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: normal; COLOR: rgb(0,0,0); FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial&quot;>&#xD;
+    Para a priorização das tarefas do Backlog do Produto pode-se dar de duas formas a critério do Time de Desenvolvimento e&#xD;
+    conduzido pelo PO:&#xD;
+&lt;/p>&#xD;
+&lt;p&#xD;
+style=&quot;FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: normal; COLOR: rgb(0,0,0); FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial&quot;>&#xD;
+    1. &lt;strong>Informalmente&lt;/strong>: Definido pelo cliente ou pelo PO, ver &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../processo_agile/guidances/guidelines/new_guideline_AF3DC647.html&quot; guid=&quot;_St8QALZGEeqfZPEi8_DfSQ&quot;>Guia -&#xD;
+    Metodo VRDC&lt;/a>;&#xD;
+&lt;/p>&#xD;
+&lt;p&#xD;
+style=&quot;FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: normal; COLOR: rgb(0,0,0); FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial&quot;>&#xD;
+    2. &lt;strong>Formalmente:&lt;/strong> Aplicando-se um questionário ao cliente (&lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../processo_agile/workproducts/questionario_kano_DAE42E57.html&quot; guid=&quot;_RgU6wHH6EeeNG_oM-1Xh7g&quot;>Questionário&#xD;
+    Kano&lt;/a>). Neste caso&amp;nbsp;o&amp;nbsp;&lt;strong>PO&lt;/strong> deve usar o método de priorização conforme&amp;nbsp;&lt;a&#xD;
+    class=&quot;elementLink&quot; href=&quot;./../../processo_agile/guidances/examples/guia_priorizacao_requisitos_11B36FD0.html&quot;&#xD;
+    guid=&quot;_1CfX4GfXEee98KTxJdQ4aA&quot;>Guia - Método Kano para Priorização de Requisitos&lt;/a>.&#xD;
+&lt;/p>&#xD;
+&lt;br&#xD;
+style=&quot;FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: normal; COLOR: rgb(0,0,0); FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial&quot; />&#xD;
+&#xD;
+&lt;br /></sectionDescription>
+  </sections>
+  <sections xmi:id="_zLin4GfYEee98KTxJdQ4aA" name="Estimar os itens do Backlog do Produto" guid="_zLin4GfYEee98KTxJdQ4aA">
+    <sectionDescription>&lt;p&#xD;
+style=&quot;FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: normal; COLOR: rgb(0,0,0); FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial&quot;>&#xD;
+    Neste momento são definidos os responsáveis pelas tarefas.&amp;nbsp;Lembrando que o time é auto-gerido, portanto as tarefas&#xD;
+    não devem ser impostas, mas sim escolhidas pelos desenvolvedores, que deverão ajudar nas suas estimativa de esforço.&#xD;
+&lt;/p>&#xD;
+&lt;p&#xD;
+style=&quot;FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: normal; COLOR: rgb(0,0,0); FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial&quot;>&#xD;
+    Para estimar o esforço em horas das tarefas do &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../processo_agile/workproducts/backlog_produto_3F30FFF8.html&quot; guid=&quot;_7UTzAGZdEee1huV63HakZg&quot;>Backlog do&#xD;
+    Produto (Product Backlog)&lt;/a>,&amp;nbsp;o &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../processo_agile/roles/time_desenvolvimento_837780B8.html&quot; guid=&quot;_VUDXwE0eEeeZC78fRt21fQ&quot;>Time de&#xD;
+    Desenvolvimento&lt;/a> pode se utilizar de dois métodos:&#xD;
+&lt;/p>&#xD;
+&lt;p&#xD;
+style=&quot;FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: normal; COLOR: rgb(0,0,0); FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial&quot;>&#xD;
+    1.&amp;nbsp;Técnica de Estimativa &lt;strong>Planning Poker&lt;/strong>,&amp;nbsp;conforme &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../processo_agile/guidances/examples/guia_planning_poker_4896570D.html&quot; guid=&quot;_YkMKEGe9Eee98KTxJdQ4aA&quot;>Guia&#xD;
+    - Planning Poker&lt;/a>&amp;nbsp;ou&#xD;
+&lt;/p>&#xD;
+&lt;p&#xD;
+style=&quot;FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: normal; COLOR: rgb(0,0,0); FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial&quot;>&#xD;
+    2.&amp;nbsp;Técnica de Estimativa &lt;strong>Análise de Pontos de Função&lt;/strong>, conforme&amp;nbsp;&lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../processo_agile/guidances/examples/guia_apf_917C8029.html&quot; guid=&quot;_QDMZYGe9Eee98KTxJdQ4aA&quot;>Guia - APF&lt;/a>.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_ueL4EBUJEeqXs563M0S9KA" name="Criar o plano de entregas" guid="_ueL4EBUJEeqXs563M0S9KA">
+    <sectionDescription>&lt;p&#xD;
+style=&quot;FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: normal; COLOR: rgb(0,0,0); FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial&quot;>&#xD;
+    Neste momento&amp;nbsp;o time de desenvolvimento deverá criar um &lt;strong>plano de entregas&lt;/strong> (uma aba da Planilha de&#xD;
+    Planejamento e Controle do Projeto) em alto nível contendo o que será entregue ao final de cada Sprint.&#xD;
+&lt;/p>&#xD;
+&lt;p&#xD;
+style=&quot;FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: normal; COLOR: rgb(0,0,0); FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial&quot;>&#xD;
+    O &lt;strong>plano de entrengas&lt;/strong> define quantas entregas serão realizadas aos interessados com base no escopo&#xD;
+    inicial (Entregas correspondem a uma configuração do sistema, que inclui artefatos e&amp;nbsp;&lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../processo_agile/workproducts/incremento_produto_BE6D102D.html&quot; guid=&quot;_7wCiMGZcEee1huV63HakZg&quot;>Incremento&#xD;
+    do Produto (Product Increment)&lt;/a>) a serem disponibilizadas para uso dos interessados.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_ckJbsGfBEee98KTxJdQ4aA" name="Aprovar o Plano do Projeto" guid="_ckJbsGfBEee98KTxJdQ4aA">
+    <sectionDescription>&lt;p>&#xD;
+    Uma vez que o &lt;strong>Plano do Projeto&lt;/strong> (&lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../processo_agile/workproducts/planilha_pcp_EFCEC02C.html&quot; guid=&quot;_U0xmcGZnEee1huV63HakZg&quot;>Planilha de&#xD;
+    Planejamento e Controle do Projeto&lt;/a>) estão prontos, o &lt;strong>&lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../processo_agile/roles/scrum_master_BEC8226F.html&quot; guid=&quot;_Zj1nYE0dEeeZC78fRt21fQ&quot;>Scrum Master&lt;/a>&lt;/strong>&#xD;
+    marca uma reunião com o cliente e/ou &lt;strong>&lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../processo_agile/roles/product_owner_D4B73F24.html&quot; guid=&quot;_0sP_IE0dEeeZC78fRt21fQ&quot;>Product Owner&#xD;
+    (PO)&lt;/a>&lt;/strong> para apresentar o plano e obter sua aprovação.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Somente após a aprovação, marco do primeiro Sprint,&amp;nbsp;é que se pode iniciar o desenvolvimento propriamente dito.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+</org.eclipse.epf.uma:TaskDescription>

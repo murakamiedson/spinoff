@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-6W6PR6SPyPLANj9fQyKmng" name="new_artifact,_SHQv8GZqEee1huV63HakZg" guid="-6W6PR6SPyPLANj9fQyKmng" changeDate="2017-07-11T15:55:15.972-0300">
+  <mainDescription>&lt;p>&#xD;
+    O Quadro de Tarefas exibe todo o trabalho que o time está desenvolvendo durante um Sprint. Ele é atualizado&#xD;
+    continuamente no decorrer do Sprint - se alguém pensa em alguma nova tarefa, eles a escrevem em um novo cartão e&#xD;
+    colocam-no no quadro. Antes ou durante uma reunião diária (Daily Scrum), as estimativas são alteradas (para mais ou&#xD;
+    menos) e os cartões são movidos no quadro.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    O Quadro de Tarefas pode se parecer com isso:&lt;br />&#xD;
+&lt;/p>&#xD;
+&lt;br />&#xD;
+&lt;p>&#xD;
+    &lt;img style=&quot;HEIGHT: 310px; WIDTH: 712px&quot; alt=&quot;&quot; src=&quot;./resources/quadro_tarefas.jpg&quot; width=&quot;600&quot; height=&quot;452&quot; />&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Cada linha no Quadro de Tarefas é um item do Backlog de Produto (neste exemplo, histórias). Durante a Reunião de&#xD;
+    Planejamento (Sprint Planning) o time define os itens do Backlog de Produto que eles conseguem concluir durante o&#xD;
+    próximo Sprint. Cada item do Backlog de Produto é desdobrado em vários itens de Backlog de Sprint (Sprint Backlog).&#xD;
+    Cada um deles é representado por um cartão de tarefa que é colocado no Quadro de Tarefas na coluna &quot;A fazer&quot;. As&#xD;
+    colunas são:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Itens de Backlog&lt;/strong> – A descrição da história (“Como usuário eu quero…”) são exibidas nesta linha.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>A fazer&lt;/strong> – Nesta coluna ficam todos os cartões que não estão finalizados ou em andamento, sejam&#xD;
+        histórias ou seus desmembramentos, pois cada história pode ser desmembrada em várias atividades correspondentes ao&#xD;
+        seu desenvolvimento.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Fazendo&lt;/strong> – Qualquer cartão que é trabalhado fica nesta coluna. O programador que decide trabalhar&#xD;
+        nele, move-o&amp;nbsp; quando se está pronto para iniciar a tarefa. Isto acontece frequentemente durante a Reunião&#xD;
+        Diária (Daily Scrum) &lt;span&#xD;
+        style=&quot;FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FLOAT: none; FONT-WEIGHT: normal; COLOR: rgb(0,0,0); FONT-STYLE: normal; TEXT-ALIGN: left; ORPHANS: 2; WIDOWS: 2; DISPLAY: inline !important; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial&quot;>&#xD;
+        , quando alguém diz &quot;Eu irei trabalhar em boojum hoje&quot;.&lt;/span>&lt;br />&#xD;
+        &lt;strong>*&amp;nbsp;&lt;/strong>Muitas tarefas têm cartões de tarefas de teste correspondentes. Então, se existe um cartão&#xD;
+        &quot;Codificar classe boojum&quot;, é provável haver um ou mais cartões de tarefas relativos aos testes: &quot;Testar o&#xD;
+        boojum&quot;,&amp;nbsp;&quot;Corrigir erros do bojum&quot;, etc. Alguns cartões não têm sempre um cartão de teste correspondente&#xD;
+        (&quot;Corrgir Bug 321 no Bugzilla&quot;), portanto estes são colocados na coluna &quot;A Verificar&quot;. Neste caso poderia-se criar&#xD;
+        uma coluna&amp;nbsp; &quot;Em teste/verificação&quot;.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Concluído&lt;/strong> – Os cartões são empilhados nesta coluna quando estão concluídos. Eles são removidos no&#xD;
+        final do Sprint.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    &lt;span&#xD;
+    style=&quot;FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FLOAT: none; FONT-WEIGHT: normal; COLOR: rgb(0,0,0); FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; DISPLAY: inline !important; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial&quot;>&#xD;
+    Existe várias maneiras diferentes de se implementar um Quadro de Tarefas.&amp;nbsp;Times alocados no mesmo local podem usar&#xD;
+    uma parede. Já times alocados em locais distintos&amp;nbsp;podem usar alguma ferramenta.&lt;/span>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &amp;nbsp;&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ArtifactDescription>

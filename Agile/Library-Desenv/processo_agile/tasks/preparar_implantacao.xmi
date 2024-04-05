@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-8EpR-TAycjHVObm-XYUUsA" name="preparar_implantacao,_mqnfAGcJEeelx-d4QgVk5A" guid="-8EpR-TAycjHVObm-XYUUsA">
+  <sections xmi:id="_mqnfAWcJEeelx-d4QgVk5A" name="Preparar implantação" guid="_mqnfAWcJEeelx-d4QgVk5A">
+    <sectionDescription>&lt;p>&#xD;
+    O Desenvolvedor com o apoio do Product Owner, prepara a implantação e documenta no&amp;nbsp;&lt;strong>&lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../processo_agile/workproducts/guia_implantacao_F58FAD34.html&quot; guid=&quot;_9TMOYGcJEeelx-d4QgVk5A&quot;>Guia de&#xD;
+    Implantação&lt;/a>&lt;/strong>.&amp;nbsp;Este guia deve documentar como e quando o produto ou incremento&amp;nbsp;será&#xD;
+    disponibilizado para os usuários. Esse guia deve evoluir ao longo das liberações dos incrementos até a total&#xD;
+    implantação do produto.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    As atividades a serem previstas devem considerar entre outros os seguintes assuntos:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Como empacotar e distribuir o produto. Será em pendrive,&amp;nbsp;em servidores de arquivos, etc. ?&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Onde e como instalar o produto. Será por técnicos especializados da equipe de desenvolvimento ou pelo próprio&#xD;
+        cliente?&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Se tiver migração de dados de sistemas antigos, como migrar?&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        O novo produto substituirá um sistema antigo com ou sem restrições de continuidade de operações?&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Haverá conversão de dados existentes para um novo formato?&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Como deverá ser o suporte aos usuários. Será através de treinamento formais, em computador, ajuda on-line, por&#xD;
+        telefone ou pela Internet?&lt;br />&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></sectionDescription>
+  </sections>
+</org.eclipse.epf.uma:TaskDescription>

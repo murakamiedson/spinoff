@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-3MyKmkZj3qeMxeHs0YVqCQ" name="new_artifact,_U0xmcGZnEee1huV63HakZg" guid="-3MyKmkZj3qeMxeHs0YVqCQ" changeDate="2017-07-11T15:36:43.249-0300">
+  <mainDescription>&lt;p>&#xD;
+    A planilha de planejamento e controle do projeto permite ao Scrum Master e ao Time criar um plano, estimar esforço e&#xD;
+    prazo e custo e preço, além de monitorar o andamento do projeto e dos Sprints.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Ao final, pode-se ainda obter dados estatísticos para melhorar continuamente o processo.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    O Scrum Master é responsável em manter a planilha atualizada e dar conhecimento dos dados de gestão a todos os&#xD;
+    envolvidos no projeto perioricamente.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ArtifactDescription>

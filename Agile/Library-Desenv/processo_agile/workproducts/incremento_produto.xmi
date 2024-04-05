@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-zRLG8S2FgJ1RBB2hK7msNQ" name="new_artifact,_7wCiMGZcEee1huV63HakZg" guid="-zRLG8S2FgJ1RBB2hK7msNQ" changeDate="2017-07-11T14:19:24.294-0300">
+  <mainDescription>&lt;p>&#xD;
+    Cada Sprint deve entregar um incremento de produto &lt;strong>potencialmente utilizável*&lt;/strong>.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;strong>&lt;em>*Potencialmente utilizável&lt;/em>&lt;/strong> pode não ser software executável.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    O primeiro e o último sprint não terão de entregar um executável e sim o planejamento e o produto final&#xD;
+    respectivamente.&amp;nbsp;Nesses casos o sprint pode ter menos de 2 semanas.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Nos demais sprints o&amp;nbsp;incremento deve consistir de um arquivo executável gerado a partir de código exaustivamente&#xD;
+    testado e documentação dos procedimentos operacionais das funcionalidades, seja na forma de &quot;Ajuda&quot; ou &quot;Documentação de&#xD;
+    Usuário&quot;. Ou seja, deve ser&amp;nbsp;um incremento de produto executável, parte do produto final.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    O Product Owner deve ser esclarecido sobre o que são os incrementos de produto potencialmente utilizáveis.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ArtifactDescription>

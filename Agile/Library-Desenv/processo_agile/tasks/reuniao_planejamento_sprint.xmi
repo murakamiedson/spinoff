@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-bhl5FMevI0hHX_TjDVLXkQ" name="reuniao_planejamento_sprint,_pq290GfCEee98KTxJdQ4aA" guid="-bhl5FMevI0hHX_TjDVLXkQ" changeDate="2017-07-13T09:05:37.127-0300">
+  <mainDescription>&lt;p&#xD;
+style=&quot;FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: normal; COLOR: rgb(0,0,0); FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial&quot;>&#xD;
+    A reunião de planejamento do Sprint é realizada com a presença do Owner, Scrum Master e de todo Time, e quaisquer&#xD;
+    interessados, diretores ou representantes do cliente.&#xD;
+&lt;/p>&#xD;
+&lt;p&#xD;
+style=&quot;FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: normal; COLOR: rgb(0,0,0); FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial&quot;>&#xD;
+    Durante a reunião o Owner explica as funcionalidades de maior prioridade para o Time. Durante esta reunião o Time faz&#xD;
+    perguntas que sejam suficientes para que eles possam, depois da reunião, definir quais atividades eles irão mover do&#xD;
+    Backlog do Produto para o&amp;nbsp;Backlog do Sprint.&#xD;
+&lt;/p>&#xD;
+&lt;p&#xD;
+style=&quot;FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: normal; COLOR: rgb(0,0,0); FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial&quot;>&#xD;
+    Juntos, o Time e o Owner definem um objetivo para o Sprint (Sprint Goal), que é uma breve descrição do que pretende-se&#xD;
+    atingir no Sprint. O sucesso do Sprint será verificado posteriormente durante a reunião de Revisão do Sprint, baseado&#xD;
+    no Sprint Goal em vez de em&amp;nbsp;itens específicos do Backlog do Sprint.&#xD;
+&lt;/p>&#xD;
+&lt;p&#xD;
+style=&quot;FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: normal; COLOR: rgb(0,0,0); FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial&quot;>&#xD;
+    Depois da reunião, o Time reune-se separadamente para discutir o que foi dito e decidir o quanto eles se comprometem a&#xD;
+    fazer durante o próximo Sprint. Em alguns casos, haverá negociações com o Owner, mas será sempre prerrogativa do Time&#xD;
+    determinar o quanto eles podem se comprometer.&#xD;
+&lt;/p></mainDescription>
+  <keyConsiderations>&lt;span&#xD;
+style=&quot;FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FLOAT: none; FONT-WEIGHT: normal; COLOR: rgb(0,0,0); FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; DISPLAY: inline !important; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial&quot;>&#xD;
+O Owner não precisa descrever cada item do Backlog do Produto. Dependendo do tamanho do item e da velocidade do Time, pode&#xD;
+ser suficiente descrever apenas os itens de maior prioridade, deixando a discussão dos itens de menor prioridade para a&#xD;
+próxima reunião de Planejamento do Sprint. Normalmente, na medida em que o Time avançar na lista do Backlog do Produto, ele&#xD;
+terá melhor noção do que poderá ser feito no próximo Sprint.&lt;/span></keyConsiderations>
+  <sections xmi:id="_46bzcGfPEee98KTxJdQ4aA" name="Criar o backlog do sprint" guid="_46bzcGfPEee98KTxJdQ4aA">
+    <sectionDescription>&lt;p>&#xD;
+    Selecionar as atividades do Backlog do Produto e compor o Backlog do Sprint, sempre respeitando&amp;nbsp;a prioridade do&#xD;
+    Backlog do Produto definida pelo Owner.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Durante a execução do Sprint pode ser que surjam novas atividades ou Histórias de Usuário, as quais devem ser decididas&#xD;
+    pelo Time se são colocadas no Backlog do Sprint ou no Backlog do Produto.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_Bw6E4GfQEee98KTxJdQ4aA" name="Estimar as atividades do sprint" guid="_Bw6E4GfQEee98KTxJdQ4aA">
+    <sectionDescription>Usar um método de estimativas&amp;nbsp;&lt;a class=&quot;elementLink&quot;&#xD;
+href=&quot;./../../processo_agile/guidances/examples/guia_apf_917C8029.html&quot; guid=&quot;_QDMZYGe9Eee98KTxJdQ4aA&quot;>Guia - APF&lt;/a> ou &lt;a&#xD;
+class=&quot;elementLink&quot; href=&quot;./../../processo_agile/guidances/examples/guia_planning_poker_4896570D.html&quot;&#xD;
+guid=&quot;_YkMKEGe9Eee98KTxJdQ4aA&quot;>Guia - Planning Poker&lt;/a>&amp;nbsp;para determinar o esforço para realizar cada atividade.</sectionDescription>
+  </sections>
+</org.eclipse.epf.uma:TaskDescription>

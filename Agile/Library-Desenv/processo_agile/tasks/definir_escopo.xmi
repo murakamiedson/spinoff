@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="--MwZGL9zKI7NTKuVwSneYA" name="definir_escopo,_GSsOgGaSEeeSdMzcHvBvqg" guid="--MwZGL9zKI7NTKuVwSneYA" changeDate="2020-07-14T15:42:28.617-0300">
+  <sections xmi:id="_Xw0hgGe_Eee98KTxJdQ4aA" name="Levantar necessidades do cliente" guid="_Xw0hgGe_Eee98KTxJdQ4aA">
+    <sectionDescription>&lt;p>&#xD;
+    Assim que um cliente manifesta interesse em automatizar seus processos de negócio e depois de assinar o TAP, o&#xD;
+    &lt;strong>&lt;a class=&quot;elementLink&quot; href=&quot;./../../processo_agile/roles/time_desenvolvimento_837780B8.html&quot;&#xD;
+    guid=&quot;_VUDXwE0eEeeZC78fRt21fQ&quot;>Time de Desenvolvimento&lt;/a>&lt;/strong> planeja e executa as primeiras reuniões para&#xD;
+    identificar as necessidades e problemas para propor soluçoes de software. O objetivo é ter tantas reuniões quantas&#xD;
+    forem necessárias para se definir o escopo do sistema.&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Prepare a entrevista antes, ver&amp;nbsp;o &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../processo_agile/guidances/guidelines/guia_entrevista_B399ADE5.html&quot; guid=&quot;_enS8EGb5Eeelx-d4QgVk5A&quot;>Guia -&#xD;
+    Técnica de Entrevista&lt;/a>,&amp;nbsp;para realizar o levantamento de requisitos útilizando a Técnica de Entrevista. Utilize&#xD;
+    a &lt;a class=&quot;elementLink&quot; href=&quot;./../../processo_agile/workproducts/ata_reuniao_7A07402B.html&quot;&#xD;
+    guid=&quot;_sC0tEGb5Eeelx-d4QgVk5A&quot;>Ata de Reunião&lt;/a> para registrar as questões e posteriormente complemente-a com as&#xD;
+    respostas. Lembrando que é uma boa prática gravar as entrevistas para depois, logo após a reunião,&amp;nbsp;consolidar o&#xD;
+    entendimento utilizando a &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../processo_agile/guidances/guidelines/guia_workshop_requisitos_132EE002.html&quot;&#xD;
+    guid=&quot;_gxAakGb5Eeelx-d4QgVk5A&quot;>Guia - Workshop de Requisitos&lt;/a>. E toda&amp;nbsp;&lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../processo_agile/workproducts/ata_reuniao_7A07402B.html&quot; guid=&quot;_sC0tEGb5Eeelx-d4QgVk5A&quot;>Ata de Reunião&lt;/a>&#xD;
+    deve ser aprovada pelos interessados ou fornecedores de requisitos, assinando ou dando o &quot;de acordo&quot; por e-mail.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Uma vez identificado os problemas e necessidades registre-as no documento &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../processo_agile/workproducts/visao_BC2A1584.html&quot; guid=&quot;_XenvAGaSEeeSdMzcHvBvqg&quot;>Visão&lt;/a>.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_GSsOgWaSEeeSdMzcHvBvqg" name="Definir o sistema (escopo)" guid="_GSsOgWaSEeeSdMzcHvBvqg">
+    <sectionDescription>&lt;p>&#xD;
+    Os requisitos podem ser definidos como “serviços que o sistema deve fornecer para preencher uma ou mais&#xD;
+    necessidades”.&amp;nbsp;Ver &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../processo_agile/guidances/guidelines/guia_requisitos_EE5BB647.html&quot; guid=&quot;_7QQV8KDuEeqZReOXvi3sdQ&quot;>Guia -&#xD;
+    Requisitos de Sistema de Software&lt;/a>.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Os &lt;strong>problemas&lt;/strong> e &lt;strong>necessidades&lt;/strong>&amp;nbsp;devem ser bem entendidos para propor uma&#xD;
+    boa&amp;nbsp;solução e devem ser documentados no documento &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../processo_agile/workproducts/visao_BC2A1584.html&quot; guid=&quot;_XenvAGaSEeeSdMzcHvBvqg&quot;>Visão&lt;/a>, o qual deve&#xD;
+    fornecer uma visão geral do sistema a ser desenvolvido.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Com base nas necessidades&amp;nbsp;definidas no Visão (na forma de Histórias de Usuário)&amp;nbsp;deve-se elaborar o&amp;nbsp;&lt;a&#xD;
+    class=&quot;elementLink&quot; href=&quot;./../../processo_agile/workproducts/modelo_caso_uso_8529B232.html&quot;&#xD;
+    guid=&quot;_cWdAoGaSEeeSdMzcHvBvqg&quot;>Modelo de Caso de Uso&lt;/a>. Normalmente as Histórias são mapeadas ao Modelo de Caso de&#xD;
+    Uso um-para-um, os quais&amp;nbsp;definem as principais funcionalidades que compõem o escopo do sistema.&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Uma boa prática é fazer uma descrição resumida para cada caso de uso do Modelo de Caso de Uso. Sugere-se a ferramenta&#xD;
+    &lt;a class=&quot;elementLink&quot; href=&quot;./../../processo_agile/guidances/toolmentors/astah_D3868513.html&quot;&#xD;
+    guid=&quot;_8HJT4JwZEeiAhriidM4ivw&quot;>Astah&lt;/a> (UML) para modelagem e descrição dos casos de uso.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Todos os termos e jargões da área de negócio devem ser identificados e definidos&amp;nbsp;no &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../processo_agile/workproducts/glossario_E574EE5C.html&quot; guid=&quot;_WZzmkGaTEeeSdMzcHvBvqg&quot;>Glossário&lt;/a>.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_1pywUGaWEeeSdMzcHvBvqg" name="Aprovar o escopo do sistema" guid="_1pywUGaWEeeSdMzcHvBvqg">
+    <sectionDescription>&lt;p>&#xD;
+    O &lt;a class=&quot;elementLink&quot; href=&quot;./../../processo_agile/roles/desenvolvedor_137361E8.html&quot;&#xD;
+    guid=&quot;_jg34QE0dEeeZC78fRt21fQ&quot;>Desenvolvedor&lt;/a> deve apresentar a definição do sistema ao &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../processo_agile/roles/product_owner_D4B73F24.html&quot; guid=&quot;_0sP_IE0dEeeZC78fRt21fQ&quot;>Product Owner (PO)&lt;/a>&#xD;
+    e/ou cliente para validá-los. Lembrando que esse é o escopo inicial e que poderá haver modificações ao longo do&#xD;
+    desenvolvimento e as modificações serão tratadas como aditivos ao projeto, através do processo de Gerenciamento de&#xD;
+    Configuração e Mudanças. Ver a tarefa &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../processo_agile/tasks/controlar_mudanca_E732D53A.html&quot; guid=&quot;_PqTZgGcTEeelx-d4QgVk5A&quot;>Controlar Mudanças&#xD;
+    no Sistema&lt;/a>.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+</org.eclipse.epf.uma:TaskDescription>

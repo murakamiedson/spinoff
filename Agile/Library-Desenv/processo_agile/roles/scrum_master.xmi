@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-XqbIfe4NTfEIRxAOMohfiQ" name="scrum_master,_Zj1nYE0dEeeZC78fRt21fQ" guid="-XqbIfe4NTfEIRxAOMohfiQ" changeDate="2017-07-11T13:18:51.010-0300">
+  <mainDescription>&lt;p>&#xD;
+    O Scrum Master é um treinador do Time Scrum e responsável por:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; TEXT-ALIGN: left&quot;>&#xD;
+        Esclarece o andamento do projeto (contato/conexão);&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; TEXT-ALIGN: left&quot;>&#xD;
+        É responsável por difundir os valores do Scrum e suas práticas;&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; TEXT-ALIGN: left&quot;>&#xD;
+        Garante as reuniões diárias (Daily Scrum);&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; TEXT-ALIGN: left&quot;>&#xD;
+        Remove impedimentos;&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; TEXT-ALIGN: left&quot;>&#xD;
+        Protege o time contra interferências externas;&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; TEXT-ALIGN: left&quot;>&#xD;
+        Assegura que o time está totalmente funcional e produtivo; e&amp;nbsp;&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; TEXT-ALIGN: left&quot;>&#xD;
+        Possibilita uma cooperação estreita entre todos os papéis e funções.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+  <keyConsiderations>&lt;ul class=&quot;noindent&quot;>&#xD;
+    &lt;li>&#xD;
+        Não é o gerente de projetos, mas um líder facilitador que gerencia o processo;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Monitora e controla as tarefas do Sprint para assegurar o sucesso do Sprint, mas não cria/atribui tarefas - o time&#xD;
+        é quem as cria/atribui;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        É parte do time: divide responsabilidades com outros membros do time;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Deve, regularmente, fisicamente, reunir-se com os demais membros do time.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></keyConsiderations>
+</org.eclipse.epf.uma:RoleDescription>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-TUutSP1rZgwE5vHhR8xBxw" name="new_toolmentor,_cZf1IKc5EeqVVcbyjZLpiA" guid="-TUutSP1rZgwE5vHhR8xBxw" changeDate="2020-06-05T11:35:42.803-0300">
+  <mainDescription>&lt;p>&#xD;
+    TortoiseSVN é uma ferramenta cliente do SVN Server OpenSource, que se integra ao Windows Explorer facilitando o&#xD;
+    controle das versões dos itens de configuração&amp;nbsp;no repositório do projeto.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Faça download em clicando &lt;a href=&quot;https://tortoisesvn.net/&quot; target=&quot;_blank&quot;>aqui&lt;/a>.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>
