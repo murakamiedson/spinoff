@@ -85,6 +85,7 @@
     <resourceDescriptors xmi:id="_HodXEO0MEe28ub4xPlWhiw" id="-SGdwI4EvkpISUlbaGKBPYw" uri="guidances/guidelines/guia_selec_prod_trabalhos.xmi"/>
     <resourceDescriptors xmi:id="_X2SHcPPZEe2h05WOR3Bamg" id="-AAYKxgTq2ubHq5Xx2qnPig" uri="guidances/templates/template_relatorio_nconformidade.xmi"/>
     <resourceDescriptors xmi:id="_lI9XEPPcEe2h05WOR3Bamg" id="-OVKfR_BjJ33rf5OyHSYGfg" uri="tasks/revisao_final.xmi"/>
+    <resourceDescriptors xmi:id="_cII1ECIPEe-3jqmFtf6CwA" id="-VbxP568r0ww5H9jRtQz7Iw" uri="guidances/guidelines/guia_selenium.xmi"/>
   </org.eclipse.epf.uma.resourcemanager:ResourceManager>
   <org.eclipse.epf.uma:MethodPlugin xmi:id="_p8a8ME0ZEeeZC78fRt21fQ" name="processo_agile" guid="_p8a8ME0ZEeeZC78fRt21fQ" presentationName="Processo Agil ADS" briefDescription="Processo customizado para o curso de ADS, baseado em práticas de métodos ágeis." authors="Edson Murakami" changeDate="2017-06-09T10:45:57.957-0300" version="1.0">
     <methodElementProperty xmi:id="_p9ZzoE0ZEeeZC78fRt21fQ" name="plugin_synFree" value="true"/>
@@ -480,6 +481,10 @@
             </contentElements>
             <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_piM8YOhWEeqpRpaT9ayfbA" name="historia_de_usuario" guid="_piM8YOhWEeqpRpaT9ayfbA" presentationName="Historia de Usuário" briefDescription="Este documento serve para especificar requisitos na forma de História de Usuário (User Story). &#xD;&#xA;User Story é a técnica de descrever a necessidade do usuário do produto de forma simples e leve com a utilização de metodologia ágil. Surgiu no método XP (eXtreme Programming)." templates="_XYMDAOhWEeqpRpaT9ayfbA">
               <methodElementProperty xmi:id="_zFvAwOhZEeqpRpaT9ayfbA" name="me_edited" value="true"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_JAlkICIJEe-3jqmFtf6CwA" name="guia_selenium" guid="_JAlkICIJEe-3jqmFtf6CwA" presentationName="Guia - Ferramenta Selenium IDE" briefDescription="Guia para uso da ferramenta Selenium IDE para realizar testes automatizados.">
+              <methodElementProperty xmi:id="_cIFxwCIPEe-3jqmFtf6CwA" name="me_edited" value="true"/>
+              <presentation xmi:id="-VbxP568r0ww5H9jRtQz7Iw" href="uma://-VbxP568r0ww5H9jRtQz7Iw#-VbxP568r0ww5H9jRtQz7Iw"/>
             </contentElements>
           </childPackages>
           <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_qjTuUE0fEeeZC78fRt21fQ" name="teste" guid="_qjTuUE0fEeeZC78fRt21fQ" presentationName="Teste" briefDescription="Disciplina de teste, verificação e validação do que foi implementado em relação aos requisitos definidos.">
