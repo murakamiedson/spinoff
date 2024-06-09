@@ -86,6 +86,8 @@
     <resourceDescriptors xmi:id="_X2SHcPPZEe2h05WOR3Bamg" id="-AAYKxgTq2ubHq5Xx2qnPig" uri="guidances/templates/template_relatorio_nconformidade.xmi"/>
     <resourceDescriptors xmi:id="_lI9XEPPcEe2h05WOR3Bamg" id="-OVKfR_BjJ33rf5OyHSYGfg" uri="tasks/revisao_final.xmi"/>
     <resourceDescriptors xmi:id="_ofMcYCNDEe-5BoBWlxDHwg" id="-diGqa139I1UPirqu8p_GVw" uri="guidances/guidelines/guia_git.xmi"/>
+    <resourceDescriptors xmi:id="_D-P20CaXEe-EAd-Gzipbhg" id="-g42J4VjLu7WrIQWXrOXaRA" uri="guidances/templates/template_issue.xmi"/>
+    <resourceDescriptors xmi:id="_kBG54CaYEe-EAd-Gzipbhg" id="-DSDEbzTL361VqVps5PCOYQ" uri="guidances/templates/template_pr.xmi"/>
   </org.eclipse.epf.uma.resourcemanager:ResourceManager>
   <org.eclipse.epf.uma:MethodPlugin xmi:id="_p8a8ME0ZEeeZC78fRt21fQ" name="processo_agile" guid="_p8a8ME0ZEeeZC78fRt21fQ" presentationName="Processo Agil ADS" briefDescription="Processo customizado para o curso de ADS, baseado em práticas de métodos ágeis." authors="Edson Murakami" changeDate="2017-06-09T10:45:57.957-0300" version="1.0">
     <methodElementProperty xmi:id="_p9ZzoE0ZEeeZC78fRt21fQ" name="plugin_synFree" value="true"/>
@@ -314,14 +316,14 @@
             <methodElementProperty xmi:id="_TYWDcGcREeelx-d4QgVk5A" name="me_edited" value="true"/>
             <presentation xmi:id="-X2Mekdr5MSsDxN-Td-6wWw" href="uma://-X2Mekdr5MSsDxN-Td-6wWw#-X2Mekdr5MSsDxN-Td-6wWw"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_I3MuAGcTEeelx-d4QgVk5A" name="rm" guid="_I3MuAGcTEeelx-d4QgVk5A" presentationName="Requisição de Mudanças" briefDescription="Requisição de Mudanças, pode ser pelo template ou por e-mail, porém deve haver análise de impacto." templates="_5B4qAGf1EeeJroYH56TLOQ">
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_I3MuAGcTEeelx-d4QgVk5A" name="rm" guid="_I3MuAGcTEeelx-d4QgVk5A" presentationName="Requisição de Mudanças" briefDescription="Requisição de Mudanças, deve ser pelo template de Issue e deve haver análise de impacto. A resolução deve ser feita através do template de Pull Request e deve haver revisão." templates="_qZqCQCaWEe-EAd-Gzipbhg _X5VPwCaYEe-EAd-Gzipbhg">
             <methodElementProperty xmi:id="_LoNdEGcTEeelx-d4QgVk5A" name="me_edited" value="true"/>
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_PqTZgGcTEeelx-d4QgVk5A" name="controlar_mudanca" guid="_PqTZgGcTEeelx-d4QgVk5A" presentationName="Controlar Mudanças no Sistema" briefDescription="Controlar Mudanças no Sistema" performedBy="_jg34QE0dEeeZC78fRt21fQ" mandatoryInput="_I3MuAGcTEeelx-d4QgVk5A" output="_I3MuAGcTEeelx-d4QgVk5A _U0xmcGZnEee1huV63HakZg" additionallyPerformedBy="_0sP_IE0dEeeZC78fRt21fQ">
             <methodElementProperty xmi:id="_UYdxwGcTEeelx-d4QgVk5A" name="me_edited" value="true"/>
             <presentation xmi:id="-_qfPyXeToXlV9yJk8pfD1g" href="uma://-_qfPyXeToXlV9yJk8pfD1g#-_qfPyXeToXlV9yJk8pfD1g"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_uYnrgGcUEee6Z8sC_73hQw" name="estrutura_projeto" guid="_uYnrgGcUEee6Z8sC_73hQw" presentationName="Estrutura do Projeto no SVN" briefDescription="Estrutura do Projeto no SVN" templates="_nQzDcGf0EeeJroYH56TLOQ">
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_uYnrgGcUEee6Z8sC_73hQw" name="estrutura_projeto" guid="_uYnrgGcUEee6Z8sC_73hQw" presentationName="Estrutura do Projeto" briefDescription="Estrutura do Projeto" templates="_nQzDcGf0EeeJroYH56TLOQ">
             <methodElementProperty xmi:id="_z_bjAGcUEee6Z8sC_73hQw" name="me_edited" value="true"/>
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Template" xmi:id="_nQzDcGf0EeeJroYH56TLOQ" name="template_estrutura_projeto" guid="_nQzDcGf0EeeJroYH56TLOQ" presentationName="Template da Estrutura de Projetos">
@@ -343,6 +345,14 @@
           <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_2HQHICM7Ee-5BoBWlxDHwg" name="guia_git" guid="_2HQHICM7Ee-5BoBWlxDHwg" presentationName="Guia - Git e GitHub" briefDescription="Este guia tem por finalidade descrever requisitos e procedimentos necessários para as atividades de Gerência de Configuração (GC). O guia define papéis, responsabilidades, método para geração, controle e auditoria de Itens de Configuração (IC) e Configurações Base (CB).">
             <methodElementProperty xmi:id="_ofIyACNDEe-5BoBWlxDHwg" name="me_edited" value="true"/>
             <presentation xmi:id="-diGqa139I1UPirqu8p_GVw" href="uma://-diGqa139I1UPirqu8p_GVw#-diGqa139I1UPirqu8p_GVw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Template" xmi:id="_qZqCQCaWEe-EAd-Gzipbhg" name="template_issue" guid="_qZqCQCaWEe-EAd-Gzipbhg" presentationName="Template de Issue">
+            <methodElementProperty xmi:id="_D-NakCaXEe-EAd-Gzipbhg" name="me_edited" value="true"/>
+            <presentation xmi:id="-g42J4VjLu7WrIQWXrOXaRA" href="uma://-g42J4VjLu7WrIQWXrOXaRA#-g42J4VjLu7WrIQWXrOXaRA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Template" xmi:id="_X5VPwCaYEe-EAd-Gzipbhg" name="template_pr" guid="_X5VPwCaYEe-EAd-Gzipbhg" presentationName="Template de Pull Request">
+            <methodElementProperty xmi:id="_ZjuVACaYEe-EAd-Gzipbhg" name="me_edited" value="true"/>
+            <presentation xmi:id="-DSDEbzTL361VqVps5PCOYQ" href="uma://-DSDEbzTL361VqVps5PCOYQ#-DSDEbzTL361VqVps5PCOYQ"/>
           </contentElements>
         </childPackages>
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_1wN08GY0Eee1huV63HakZg" name="desenvolvimento" guid="_1wN08GY0Eee1huV63HakZg" presentationName="Desenvolvimento" briefDescription="Desenvolvimento">
