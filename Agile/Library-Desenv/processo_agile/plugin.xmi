@@ -71,7 +71,7 @@
     <resourceDescriptors xmi:id="_nuB-AIDlEeqBouK0GnSh8g" id="-ojUyTRltUeWwFc7R_prdkA" uri="guidances/supportingmaterials/tutoriais.xmi"/>
     <resourceDescriptors xmi:id="_aB4rgI41EeqPTOk8qo7S2Q" id="-GL2gik_MZHcA1RBz79D9cw" uri="guidances/guidelines/guia_para_identificao_de_riscos.xmi"/>
     <resourceDescriptors xmi:id="_tXnVsKDvEeqZReOXvi3sdQ" id="-f095a8dhKlYCoZNNvnexzg" uri="guidances/guidelines/guia_requisitos.xmi"/>
-    <resourceDescriptors xmi:id="_1b3tcqc5EeqVVcbyjZLpiA" id="-TUutSP1rZgwE5vHhR8xBxw" uri="guidances/toolmentors/tortoisesvn.xmi"/>
+    <resourceDescriptors xmi:id="_1b3tcqc5EeqVVcbyjZLpiA" id="-TUutSP1rZgwE5vHhR8xBxw" uri="guidances/toolmentors/git.xmi"/>
     <resourceDescriptors xmi:id="_n4FGYqc7EeqVVcbyjZLpiA" id="-LTYSrOb21utb6mnl8YjLmQ" uri="guidances/toolmentors/winmerge.xmi"/>
     <resourceDescriptors xmi:id="_PmFCoKddEeq1ProniyDKWg" id="-l5NPowfbgciyOxfc_80G3g" uri="guidances/guidelines/guia_politicas_gc.xmi"/>
     <resourceDescriptors xmi:id="_0gpgILWDEeqIE8PTmZnm3A" id="-4ScNKYoly0g1x7oBlUtFaQ" uri="guidances/guidelines/guia_invest.xmi"/>
@@ -298,7 +298,7 @@
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_R5NWoE0gEeeZC78fRt21fQ" name="gestao_configuracao" guid="_R5NWoE0gEeeZC78fRt21fQ" presentationName="Gestão de Configuração e Mudanças" briefDescription="Disciplina de Gestão de Configuração e Mudanças, responsável pela organização e integridade dos produtos de trabalho produzidos ao longo do desenvolvimento e pelo controle das mudanças.">
           <methodElementProperty xmi:id="_R5NWoU0gEeeZC78fRt21fQ" name="pkg_loadCheck" value="true"/>
           <methodElementProperty xmi:id="_oGpCIE0gEeeZC78fRt21fQ" name="me_edited" value="true"/>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_NHZfQGcQEeelx-d4QgVk5A" name="controlar_itens_configuracao" guid="_NHZfQGcQEeelx-d4QgVk5A" presentationName="Controlar Itens de Configuração (IC)" briefDescription="Itens de configuração são todos os artefatos produzidos durante o projeto que devem compor uma configuração base, portanto devem ser controladas suas versões." guidelines="_kivfQKdcEeq1ProniyDKWg" examples="_SLKUEGcQEeelx-d4QgVk5A _SLKUEmcQEeelx-d4QgVk5A" performedBy="_jg34QE0dEeeZC78fRt21fQ" output="_U0xmcGZnEee1huV63HakZg" toolMentors="_cZf1IKc5EeqVVcbyjZLpiA">
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_NHZfQGcQEeelx-d4QgVk5A" name="controlar_itens_configuracao" guid="_NHZfQGcQEeelx-d4QgVk5A" presentationName="Controlar Itens de Configuração (IC)" briefDescription="Itens de configuração são todos os artefatos produzidos durante o projeto que devem compor uma configuração base, portanto devem ser controladas suas versões." guidelines="_kivfQKdcEeq1ProniyDKWg _2HQHICM7Ee-5BoBWlxDHwg" examples="_SLKUEGcQEeelx-d4QgVk5A" performedBy="_jg34QE0dEeeZC78fRt21fQ" output="_U0xmcGZnEee1huV63HakZg" toolMentors="_cZf1IKc5EeqVVcbyjZLpiA">
             <methodElementProperty xmi:id="_NTKqYGcQEeelx-d4QgVk5A" name="me_edited" value="true"/>
             <presentation xmi:id="-6-unkCM7z8sv9ExA0HgTVw" href="uma://-6-unkCM7z8sv9ExA0HgTVw#-6-unkCM7z8sv9ExA0HgTVw"/>
           </contentElements>
@@ -332,7 +332,7 @@
             <methodElementProperty xmi:id="_8i7H0Gf1EeeJroYH56TLOQ" name="me_edited" value="true"/>
             <presentation xmi:id="-8hiUXeF9qv7ZWFElB7jnrA" href="uma://-8hiUXeF9qv7ZWFElB7jnrA#-8hiUXeF9qv7ZWFElB7jnrA"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_cZf1IKc5EeqVVcbyjZLpiA" name="tortoisesvn" guid="_cZf1IKc5EeqVVcbyjZLpiA" presentationName="TortoiseSVN" briefDescription="Ferramenta cliente do SVN Server para controle de versões.">
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_cZf1IKc5EeqVVcbyjZLpiA" name="git" guid="_cZf1IKc5EeqVVcbyjZLpiA" presentationName="Git" briefDescription="Ferramenta cliente do Git para controle de versões.">
             <methodElementProperty xmi:id="_1b3tcKc5EeqVVcbyjZLpiA" name="me_edited" value="true"/>
             <presentation xmi:id="-TUutSP1rZgwE5vHhR8xBxw" href="uma://-TUutSP1rZgwE5vHhR8xBxw#-TUutSP1rZgwE5vHhR8xBxw"/>
           </contentElements>
