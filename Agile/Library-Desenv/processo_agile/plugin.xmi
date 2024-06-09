@@ -300,7 +300,7 @@
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_R5NWoE0gEeeZC78fRt21fQ" name="gestao_configuracao" guid="_R5NWoE0gEeeZC78fRt21fQ" presentationName="Gestão de Configuração e Mudanças" briefDescription="Disciplina de Gestão de Configuração e Mudanças, responsável pela organização e integridade dos produtos de trabalho produzidos ao longo do desenvolvimento e pelo controle das mudanças.">
           <methodElementProperty xmi:id="_R5NWoU0gEeeZC78fRt21fQ" name="pkg_loadCheck" value="true"/>
           <methodElementProperty xmi:id="_oGpCIE0gEeeZC78fRt21fQ" name="me_edited" value="true"/>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_NHZfQGcQEeelx-d4QgVk5A" name="controlar_itens_configuracao" guid="_NHZfQGcQEeelx-d4QgVk5A" presentationName="Controlar Itens de Configuração (IC)" briefDescription="Itens de configuração são todos os artefatos produzidos durante o projeto que devem compor uma configuração base, portanto devem ser controladas suas versões." guidelines="_kivfQKdcEeq1ProniyDKWg _2HQHICM7Ee-5BoBWlxDHwg" examples="_SLKUEGcQEeelx-d4QgVk5A" performedBy="_jg34QE0dEeeZC78fRt21fQ" output="_U0xmcGZnEee1huV63HakZg" toolMentors="_cZf1IKc5EeqVVcbyjZLpiA">
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_NHZfQGcQEeelx-d4QgVk5A" name="controlar_itens_configuracao" guid="_NHZfQGcQEeelx-d4QgVk5A" presentationName="Controlar Itens de Configuração (IC)" briefDescription="Itens de configuração são todos os artefatos produzidos durante o projeto que devem compor uma configuração base, portanto devem ser controladas suas versões." guidelines="_kivfQKdcEeq1ProniyDKWg _2HQHICM7Ee-5BoBWlxDHwg" examples="_SLKUEGcQEeelx-d4QgVk5A" performedBy="_jg34QE0dEeeZC78fRt21fQ" toolMentors="_cZf1IKc5EeqVVcbyjZLpiA">
             <methodElementProperty xmi:id="_NTKqYGcQEeelx-d4QgVk5A" name="me_edited" value="true"/>
             <presentation xmi:id="-6-unkCM7z8sv9ExA0HgTVw" href="uma://-6-unkCM7z8sv9ExA0HgTVw#-6-unkCM7z8sv9ExA0HgTVw"/>
           </contentElements>
@@ -342,7 +342,7 @@
             <methodElementProperty xmi:id="_PmDNcKddEeq1ProniyDKWg" name="me_edited" value="true"/>
             <presentation xmi:id="-l5NPowfbgciyOxfc_80G3g" href="uma://-l5NPowfbgciyOxfc_80G3g#-l5NPowfbgciyOxfc_80G3g"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_2HQHICM7Ee-5BoBWlxDHwg" name="guia_git" guid="_2HQHICM7Ee-5BoBWlxDHwg" presentationName="Guia - Git e GitHub" briefDescription="Este guia tem por finalidade descrever requisitos e procedimentos necessários para as atividades de Gerência de Configuração (GC). O guia define papéis, responsabilidades, método para geração, controle e auditoria de Itens de Configuração (IC) e Configurações Base (CB).">
+          <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_2HQHICM7Ee-5BoBWlxDHwg" name="guia_git" guid="_2HQHICM7Ee-5BoBWlxDHwg" presentationName="Guia - Git e GitHub" briefDescription="Este guia tem por finalidade descrever a utilização da ferramenta de versionamento Git, além de descrever a utilização da plataforma de hospedagem de códigos GitHub.">
             <methodElementProperty xmi:id="_ofIyACNDEe-5BoBWlxDHwg" name="me_edited" value="true"/>
             <presentation xmi:id="-diGqa139I1UPirqu8p_GVw" href="uma://-diGqa139I1UPirqu8p_GVw#-diGqa139I1UPirqu8p_GVw"/>
           </contentElements>
