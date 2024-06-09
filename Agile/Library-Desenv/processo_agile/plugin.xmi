@@ -85,6 +85,7 @@
     <resourceDescriptors xmi:id="_HodXEO0MEe28ub4xPlWhiw" id="-SGdwI4EvkpISUlbaGKBPYw" uri="guidances/guidelines/guia_selec_prod_trabalhos.xmi"/>
     <resourceDescriptors xmi:id="_X2SHcPPZEe2h05WOR3Bamg" id="-AAYKxgTq2ubHq5Xx2qnPig" uri="guidances/templates/template_relatorio_nconformidade.xmi"/>
     <resourceDescriptors xmi:id="_lI9XEPPcEe2h05WOR3Bamg" id="-OVKfR_BjJ33rf5OyHSYGfg" uri="tasks/revisao_final.xmi"/>
+    <resourceDescriptors xmi:id="_ofMcYCNDEe-5BoBWlxDHwg" id="-diGqa139I1UPirqu8p_GVw" uri="guidances/guidelines/guia_git.xmi"/>
   </org.eclipse.epf.uma.resourcemanager:ResourceManager>
   <org.eclipse.epf.uma:MethodPlugin xmi:id="_p8a8ME0ZEeeZC78fRt21fQ" name="processo_agile" guid="_p8a8ME0ZEeeZC78fRt21fQ" presentationName="Processo Agil ADS" briefDescription="Processo customizado para o curso de ADS, baseado em práticas de métodos ágeis." authors="Edson Murakami" changeDate="2017-06-09T10:45:57.957-0300" version="1.0">
     <methodElementProperty xmi:id="_p9ZzoE0ZEeeZC78fRt21fQ" name="plugin_synFree" value="true"/>
@@ -338,6 +339,10 @@
           <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_kivfQKdcEeq1ProniyDKWg" name="guia_politicas_gc" guid="_kivfQKdcEeq1ProniyDKWg" presentationName="Guia - Politicas de GC" briefDescription="Este guia tem por finalidade descrever requisitos e procedimentos necessários para as atividades de Gerência de Configuração (GC). O guia define papéis, responsabilidades, método para geração, controle e auditoria de Itens de Configuração (IC) e Configurações Base (CB).">
             <methodElementProperty xmi:id="_PmDNcKddEeq1ProniyDKWg" name="me_edited" value="true"/>
             <presentation xmi:id="-l5NPowfbgciyOxfc_80G3g" href="uma://-l5NPowfbgciyOxfc_80G3g#-l5NPowfbgciyOxfc_80G3g"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_2HQHICM7Ee-5BoBWlxDHwg" name="guia_git" guid="_2HQHICM7Ee-5BoBWlxDHwg" presentationName="Guia - Git e GitHub" briefDescription="Este guia tem por finalidade descrever requisitos e procedimentos necessários para as atividades de Gerência de Configuração (GC). O guia define papéis, responsabilidades, método para geração, controle e auditoria de Itens de Configuração (IC) e Configurações Base (CB).">
+            <methodElementProperty xmi:id="_ofIyACNDEe-5BoBWlxDHwg" name="me_edited" value="true"/>
+            <presentation xmi:id="-diGqa139I1UPirqu8p_GVw" href="uma://-diGqa139I1UPirqu8p_GVw#-diGqa139I1UPirqu8p_GVw"/>
           </contentElements>
         </childPackages>
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_1wN08GY0Eee1huV63HakZg" name="desenvolvimento" guid="_1wN08GY0Eee1huV63HakZg" presentationName="Desenvolvimento" briefDescription="Desenvolvimento">
