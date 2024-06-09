@@ -319,7 +319,7 @@
           <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_I3MuAGcTEeelx-d4QgVk5A" name="rm" guid="_I3MuAGcTEeelx-d4QgVk5A" presentationName="Requisição de Mudanças" briefDescription="Requisição de Mudanças, deve ser pelo template de Issue e deve haver análise de impacto. A resolução deve ser feita através do template de Pull Request e deve haver revisão." templates="_qZqCQCaWEe-EAd-Gzipbhg _X5VPwCaYEe-EAd-Gzipbhg">
             <methodElementProperty xmi:id="_LoNdEGcTEeelx-d4QgVk5A" name="me_edited" value="true"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_PqTZgGcTEeelx-d4QgVk5A" name="controlar_mudanca" guid="_PqTZgGcTEeelx-d4QgVk5A" presentationName="Controlar Mudanças no Sistema" briefDescription="Controlar Mudanças no Sistema" performedBy="_jg34QE0dEeeZC78fRt21fQ" mandatoryInput="_I3MuAGcTEeelx-d4QgVk5A" output="_I3MuAGcTEeelx-d4QgVk5A _U0xmcGZnEee1huV63HakZg" additionallyPerformedBy="_0sP_IE0dEeeZC78fRt21fQ">
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_PqTZgGcTEeelx-d4QgVk5A" name="controlar_mudanca" guid="_PqTZgGcTEeelx-d4QgVk5A" presentationName="Controlar Mudanças no Sistema" briefDescription="Controlar Mudanças no Sistema" performedBy="_jg34QE0dEeeZC78fRt21fQ" mandatoryInput="_I3MuAGcTEeelx-d4QgVk5A" output="_I3MuAGcTEeelx-d4QgVk5A" additionallyPerformedBy="_0sP_IE0dEeeZC78fRt21fQ">
             <methodElementProperty xmi:id="_UYdxwGcTEeelx-d4QgVk5A" name="me_edited" value="true"/>
             <presentation xmi:id="-_qfPyXeToXlV9yJk8pfD1g" href="uma://-_qfPyXeToXlV9yJk8pfD1g#-_qfPyXeToXlV9yJk8pfD1g"/>
           </contentElements>
