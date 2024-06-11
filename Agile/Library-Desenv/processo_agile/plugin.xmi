@@ -86,6 +86,7 @@
     <resourceDescriptors xmi:id="_X2SHcPPZEe2h05WOR3Bamg" id="-AAYKxgTq2ubHq5Xx2qnPig" uri="guidances/templates/template_relatorio_nconformidade.xmi"/>
     <resourceDescriptors xmi:id="_lI9XEPPcEe2h05WOR3Bamg" id="-OVKfR_BjJ33rf5OyHSYGfg" uri="tasks/revisao_final.xmi"/>
     <resourceDescriptors xmi:id="_cII1ECIPEe-3jqmFtf6CwA" id="-VbxP568r0ww5H9jRtQz7Iw" uri="guidances/guidelines/guia_selenium.xmi"/>
+    <resourceDescriptors xmi:id="_sOZDgCeMEe-sxbsop-TqYA" id="-7-9zejiLZpm0QCoAjgFlTA" uri="guidances/guidelines/guia_abordagens_de_testes_de_software.xmi"/>
   </org.eclipse.epf.uma.resourcemanager:ResourceManager>
   <org.eclipse.epf.uma:MethodPlugin xmi:id="_p8a8ME0ZEeeZC78fRt21fQ" name="processo_agile" guid="_p8a8ME0ZEeeZC78fRt21fQ" presentationName="Processo Agil ADS" briefDescription="Processo customizado para o curso de ADS, baseado em práticas de métodos ágeis." authors="Edson Murakami" changeDate="2017-06-09T10:45:57.957-0300" version="1.0">
     <methodElementProperty xmi:id="_p9ZzoE0ZEeeZC78fRt21fQ" name="plugin_synFree" value="true"/>
@@ -511,6 +512,10 @@
             <contentElements xsi:type="org.eclipse.epf.uma:Template" xmi:id="_cx9tEGf0EeeJroYH56TLOQ" name="template_roteiro_teste" guid="_cx9tEGf0EeeJroYH56TLOQ" presentationName="Template do Roteiro de Testes">
               <methodElementProperty xmi:id="_hZ79wGf0EeeJroYH56TLOQ" name="me_edited" value="true"/>
               <presentation xmi:id="-7ETteD40X36kzOqWkn5PBg" href="uma://-7ETteD40X36kzOqWkn5PBg#-7ETteD40X36kzOqWkn5PBg"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_k__YkCeLEe-sxbsop-TqYA" name="guia_abordagens_de_testes_de_software" guid="_k__YkCeLEe-sxbsop-TqYA" presentationName="Guia - Abordagens de Testes de Software" briefDescription="Este guia tem por finalidade descrever as abordagens para testes de software.">
+              <methodElementProperty xmi:id="_sOWAMCeMEe-sxbsop-TqYA" name="me_edited" value="true"/>
+              <presentation xmi:id="-7-9zejiLZpm0QCoAjgFlTA" href="uma://-7-9zejiLZpm0QCoAjgFlTA#-7-9zejiLZpm0QCoAjgFlTA"/>
             </contentElements>
           </childPackages>
           <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_Oeo2gGY1Eee1huV63HakZg" name="implantacao" guid="_Oeo2gGY1Eee1huV63HakZg" presentationName="Implantação" briefDescription="Implantação (Deployment)">
