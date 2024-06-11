@@ -88,7 +88,7 @@
     <resourceDescriptors xmi:id="_cII1ECIPEe-3jqmFtf6CwA" id="-VbxP568r0ww5H9jRtQz7Iw" uri="guidances/guidelines/guia_selenium.xmi"/>
     <resourceDescriptors xmi:id="_sOZDgCeMEe-sxbsop-TqYA" id="-7-9zejiLZpm0QCoAjgFlTA" uri="guidances/guidelines/guia_abordagens_de_testes_de_software.xmi"/>
   </org.eclipse.epf.uma.resourcemanager:ResourceManager>
-  <org.eclipse.epf.uma:MethodPlugin xmi:id="_p8a8ME0ZEeeZC78fRt21fQ" name="processo_agile" guid="_p8a8ME0ZEeeZC78fRt21fQ" presentationName="Processo Agil ADS" briefDescription="Processo customizado para o curso de ADS, baseado em práticas de métodos ágeis." authors="Edson Murakami" changeDate="2017-06-09T10:45:57.957-0300" version="1.0">
+  <org.eclipse.epf.uma:MethodPlugin xmi:id="_p8a8ME0ZEeeZC78fRt21fQ" name="processo_agile" guid="_p8a8ME0ZEeeZC78fRt21fQ" presentationName="Processo Agil ADS" briefDescription="Processo customizado para o curso de ADS, baseado em práticas de métodos ágeis." authors="Edson Murakami" changeDate="2017-06-09T11:45:57.957-0200" version="1.0">
     <methodElementProperty xmi:id="_p9ZzoE0ZEeeZC78fRt21fQ" name="plugin_synFree" value="true"/>
     <methodElementProperty xmi:id="_CZKX4E0aEeeZC78fRt21fQ" name="me_edited" value="true"/>
     <methodPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_p8a8MU0ZEeeZC78fRt21fQ" name="Content" guid="_p8a8MU0ZEeeZC78fRt21fQ">
@@ -483,10 +483,6 @@
             <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_piM8YOhWEeqpRpaT9ayfbA" name="historia_de_usuario" guid="_piM8YOhWEeqpRpaT9ayfbA" presentationName="Historia de Usuário" briefDescription="Este documento serve para especificar requisitos na forma de História de Usuário (User Story). &#xD;&#xA;User Story é a técnica de descrever a necessidade do usuário do produto de forma simples e leve com a utilização de metodologia ágil. Surgiu no método XP (eXtreme Programming)." templates="_XYMDAOhWEeqpRpaT9ayfbA">
               <methodElementProperty xmi:id="_zFvAwOhZEeqpRpaT9ayfbA" name="me_edited" value="true"/>
             </contentElements>
-            <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_JAlkICIJEe-3jqmFtf6CwA" name="guia_selenium" guid="_JAlkICIJEe-3jqmFtf6CwA" presentationName="Guia - Ferramenta Selenium IDE" briefDescription="Guia para uso da ferramenta Selenium IDE para realizar testes automatizados.">
-              <methodElementProperty xmi:id="_cIFxwCIPEe-3jqmFtf6CwA" name="me_edited" value="true"/>
-              <presentation xmi:id="-VbxP568r0ww5H9jRtQz7Iw" href="uma://-VbxP568r0ww5H9jRtQz7Iw#-VbxP568r0ww5H9jRtQz7Iw"/>
-            </contentElements>
           </childPackages>
           <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_qjTuUE0fEeeZC78fRt21fQ" name="teste" guid="_qjTuUE0fEeeZC78fRt21fQ" presentationName="Teste" briefDescription="Disciplina de teste, verificação e validação do que foi implementado em relação aos requisitos definidos.">
             <methodElementProperty xmi:id="_qjTuUU0fEeeZC78fRt21fQ" name="pkg_loadCheck" value="true"/>
@@ -495,11 +491,11 @@
               <methodElementProperty xmi:id="_hmsZgGcGEeelx-d4QgVk5A" name="me_edited" value="true"/>
               <presentation xmi:id="-UFdOgjgjXUgiWmQg8HaXpA" href="uma://-UFdOgjgjXUgiWmQg8HaXpA#-UFdOgjgjXUgiWmQg8HaXpA"/>
             </contentElements>
-            <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_xeVnoGcGEeelx-d4QgVk5A" name="projetar_testes" guid="_xeVnoGcGEeelx-d4QgVk5A" presentationName="Projetar Testes" briefDescription="O projeto de testes consiste na especificação dos instrumentos utilizados para a execução de testes funcionais e não funcionais." examples="_hmRiwGcGEeelx-d4QgVk5A" performedBy="_jg34QE0dEeeZC78fRt21fQ" mandatoryInput="_PAGkwGb5Eeelx-d4QgVk5A" output="_4mDRMGcGEeelx-d4QgVk5A _qywrAGcHEeelx-d4QgVk5A">
+            <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_xeVnoGcGEeelx-d4QgVk5A" name="projetar_testes" guid="_xeVnoGcGEeelx-d4QgVk5A" presentationName="Projetar Testes" briefDescription="O projeto de testes consiste na especificação dos instrumentos utilizados para a execução de testes funcionais e não funcionais." guidelines="_k__YkCeLEe-sxbsop-TqYA _JAlkICIJEe-3jqmFtf6CwA" performedBy="_jg34QE0dEeeZC78fRt21fQ" mandatoryInput="_PAGkwGb5Eeelx-d4QgVk5A" output="_4mDRMGcGEeelx-d4QgVk5A _qywrAGcHEeelx-d4QgVk5A">
               <methodElementProperty xmi:id="_xod0AGcGEeelx-d4QgVk5A" name="me_edited" value="true"/>
               <presentation xmi:id="-gIlOyZAUGDY8eDEUj1e9qg" href="uma://-gIlOyZAUGDY8eDEUj1e9qg#-gIlOyZAUGDY8eDEUj1e9qg"/>
             </contentElements>
-            <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_2C70MGcGEeelx-d4QgVk5A" name="executar_testes" guid="_2C70MGcGEeelx-d4QgVk5A" presentationName="Executar Testes" briefDescription="Consiste em executar os testes no produto de software." examples="_hmRiwGcGEeelx-d4QgVk5A" performedBy="_jg34QE0dEeeZC78fRt21fQ" mandatoryInput="_2zmjgGcDEeelx-d4QgVk5A _4mDRMGcGEeelx-d4QgVk5A" output="_4mDRMGcGEeelx-d4QgVk5A _GfkJgGZpEee1huV63HakZg">
+            <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_2C70MGcGEeelx-d4QgVk5A" name="executar_testes" guid="_2C70MGcGEeelx-d4QgVk5A" presentationName="Executar Testes" briefDescription="Consiste em executar os testes no produto de software." guidelines="_k__YkCeLEe-sxbsop-TqYA _JAlkICIJEe-3jqmFtf6CwA" performedBy="_jg34QE0dEeeZC78fRt21fQ" mandatoryInput="_2zmjgGcDEeelx-d4QgVk5A _4mDRMGcGEeelx-d4QgVk5A" output="_4mDRMGcGEeelx-d4QgVk5A _GfkJgGZpEee1huV63HakZg">
               <methodElementProperty xmi:id="_2PjT4GcGEeelx-d4QgVk5A" name="me_edited" value="true"/>
               <presentation xmi:id="-P-_CmNcm3TT1UsQQC9ji4Q" href="uma://-P-_CmNcm3TT1UsQQC9ji4Q#-P-_CmNcm3TT1UsQQC9ji4Q"/>
             </contentElements>
@@ -516,6 +512,10 @@
             <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_k__YkCeLEe-sxbsop-TqYA" name="guia_abordagens_de_testes_de_software" guid="_k__YkCeLEe-sxbsop-TqYA" presentationName="Guia - Abordagens de Testes de Software" briefDescription="Este guia tem por finalidade descrever as abordagens para testes de software.">
               <methodElementProperty xmi:id="_sOWAMCeMEe-sxbsop-TqYA" name="me_edited" value="true"/>
               <presentation xmi:id="-7-9zejiLZpm0QCoAjgFlTA" href="uma://-7-9zejiLZpm0QCoAjgFlTA#-7-9zejiLZpm0QCoAjgFlTA"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_JAlkICIJEe-3jqmFtf6CwA" name="guia_selenium" guid="_JAlkICIJEe-3jqmFtf6CwA" presentationName="Guia - Ferramenta Selenium IDE" briefDescription="Guia para uso da ferramenta Selenium IDE para realizar testes automatizados.">
+              <methodElementProperty xmi:id="_cIFxwCIPEe-3jqmFtf6CwA" name="me_edited" value="true"/>
+              <presentation xmi:id="-VbxP568r0ww5H9jRtQz7Iw" href="uma://-VbxP568r0ww5H9jRtQz7Iw#-VbxP568r0ww5H9jRtQz7Iw"/>
             </contentElements>
           </childPackages>
           <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_Oeo2gGY1Eee1huV63HakZg" name="implantacao" guid="_Oeo2gGY1Eee1huV63HakZg" presentationName="Implantação" briefDescription="Implantação (Deployment)">

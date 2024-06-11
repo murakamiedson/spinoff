@@ -2,14 +2,20 @@
 <org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-gIlOyZAUGDY8eDEUj1e9qg" name=",_9iOecA37EeWY3eZySvU8_A" guid="-gIlOyZAUGDY8eDEUj1e9qg">
   <sections xmi:id="_xeVnomcGEeelx-d4QgVk5A" name="Projetar testes" guid="_xeVnomcGEeelx-d4QgVk5A">
     <sectionDescription>&lt;p>&#xD;
-    Para testes &lt;strong>funcionais e não funcionais&lt;/strong>, o &lt;a class=&quot;elementLink&quot; href=&quot;./../../processo_agile/roles/desenvolvedor_137361E8.html&quot; guid=&quot;_jg34QE0dEeeZC78fRt21fQ&quot;>Desenvolvedor&lt;/a>&#xD;
-    elabora o&amp;nbsp;&lt;strong>&lt;a class=&quot;elementLink&quot; href=&quot;./../../processo_agile/workproducts/roteiro_testes_8FC8C567.html&quot; guid=&quot;_4mDRMGcGEeelx-d4QgVk5A&quot;>Roteiro de Testes&lt;/a>&lt;/strong> baseado na &lt;strong>Especificação de Caso de Uso&lt;/strong>.&#xD;
-    A maioria ou a totalidade dos casos de teste já foram identificados e documentados nas especificações porém, neste&#xD;
-    momento pode ser acrescentado mais casos de teste se assim o Desenvolvedor achar necessário.&#xD;
+    Para testes &lt;strong>funcionais e não funcionais&lt;/strong>, o &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../processo_agile/roles/desenvolvedor_137361E8.html&quot; guid=&quot;_jg34QE0dEeeZC78fRt21fQ&quot;>Desenvolvedor&lt;/a>&#xD;
+    elabora o&amp;nbsp;&lt;strong>&lt;a class=&quot;elementLink&quot; href=&quot;./../../processo_agile/workproducts/roteiro_testes_8FC8C567.html&quot;&#xD;
+    guid=&quot;_4mDRMGcGEeelx-d4QgVk5A&quot;>Roteiro de Testes&lt;/a>&lt;/strong>&amp;nbsp;e&amp;nbsp;&lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../processo_agile/guidances/guidelines/guia_selenium_D6D4DA9F.html&quot; guid=&quot;_JAlkICIJEe-3jqmFtf6CwA&quot;>Guia -&#xD;
+    Ferramenta Selenium IDE&lt;/a>&amp;nbsp;baseado na &lt;strong>Especificação de Caso de Uso&lt;/strong>. A maioria ou a totalidade&#xD;
+    dos casos de teste já foram identificados e documentados nas especificações porém, neste momento pode ser acrescentado&#xD;
+    mais casos de teste se assim o Desenvolvedor achar necessário.&#xD;
 &lt;/p>&#xD;
 &lt;p>&#xD;
-    O Desenvolvedor deve também criar a &lt;strong>&lt;a class=&quot;elementLink&quot; href=&quot;./../../processo_agile/workproducts/massa_testes_32607D30.html&quot; guid=&quot;_qywrAGcHEeelx-d4QgVk5A&quot;>Massa de Testes&lt;/a>&lt;/strong> com base no Roteiro de Testes para que seja possível executá-los e garantir os resultados&#xD;
-    esperados.&#xD;
+    O Desenvolvedor deve também criar a &lt;strong>&lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../processo_agile/workproducts/massa_testes_32607D30.html&quot; guid=&quot;_qywrAGcHEeelx-d4QgVk5A&quot;>Massa de&#xD;
+    Testes&lt;/a>&lt;/strong> com base no Roteiro de Testes para que seja possível executá-los e garantir os resultados&#xD;
+    esperados.&lt;br />&#xD;
 &lt;/p></sectionDescription>
   </sections>
   <sections xmi:id="_xeVnoWcGEeelx-d4QgVk5A" name="Preparar ambiente de testes" guid="_xeVnoWcGEeelx-d4QgVk5A">
