@@ -1,12 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-jKD_4GeM2FR5loGyKwjuMg" name="new_toolmentor,_NDJf4B7CEe-XR47bfVOfiw" guid="-jKD_4GeM2FR5loGyKwjuMg" changeDate="2024-05-30T17:24:51.081-0300">
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-jKD_4GeM2FR5loGyKwjuMg" name="new_toolmentor,_NDJf4B7CEe-XR47bfVOfiw" guid="-jKD_4GeM2FR5loGyKwjuMg" changeDate="2024-06-11T09:48:54.279-0300">
   <mainDescription>&lt;p>&#xD;
-    O FindBugs é uma ferramenta de análise estática para código Java, que identifica erros e problemas no bytecode.&#xD;
-    Integrada a IDEs populares, gera relatórios detalhados e permite personalização das verificações. Ajuda a melhorar a&#xD;
-    qualidade do software com suporte de uma comunidade ativa.&#xD;
+    Java Code Style é um conjunto abrangente de diretrizes que orientam o &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../processo_agile/roles/desenvolvedor_137361E8.html&quot;&#xD;
+    guid=&quot;_jg34QE0dEeeZC78fRt21fQ&quot;>Desenvolvedor&lt;/a>&amp;nbsp;a escrever código Java de forma consistente, legível e&#xD;
+    mantenível, cobrindo aspectos como nomenclatura de variáveis e métodos, formatação de código, organização de pacotes e&#xD;
+    classes, uso de comentários, e adoção de boas práticas de programação para melhorar a clareza e a qualidade do código.&#xD;
 &lt;/p>&#xD;
 &lt;p>&#xD;
-    Você pode baixar a ferramenta findbugs clicando &lt;a href=&quot;https://findbugs.sourceforge.net/&quot;&#xD;
-    target=&quot;_blank&quot;>aqui&lt;/a>.&lt;br class=&quot;Apple-interchange-newline&quot; />&#xD;
+    Java Code Style já vem por padrão em IDE's como o Eclipse ou Visual Studio Code.&lt;br&#xD;
+    class=&quot;Apple-interchange-newline&quot; />&#xD;
 &lt;/p></mainDescription>
 </org.eclipse.epf.uma:ContentDescription>
