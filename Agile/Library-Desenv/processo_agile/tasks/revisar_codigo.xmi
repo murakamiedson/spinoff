@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-21p7xaNsw9I9e7VUc0SDhQ" name="revisar_codigo,_yKi-YB7EEe-XR47bfVOfiw" guid="-21p7xaNsw9I9e7VUc0SDhQ">
+  <sections xmi:id="_ZNFzsB-zEe-ViZFWcvTxmA" name="Definir Parametros para Revisão" guid="_ZNFzsB-zEe-ViZFWcvTxmA">
+    <sectionDescription>&lt;p>&#xD;
+    O &lt;a class=&quot;elementLink&quot; href=&quot;./../../processo_agile/roles/desenvolvedor_137361E8.html&quot; guid=&quot;_jg34QE0dEeeZC78fRt21fQ&quot;>Desenvolvedor&lt;/a>&amp;nbsp;é responsável por definir quais serão os parâmetros para a&#xD;
+    revisão estática do código. Isso inclui estabelecer as regras e critérios de análise como:&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Os padrões de codificação a serem seguidos.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Os tipos de erros e vulnerabilidades a serem detectados.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;a class=&quot;elementLink&quot; href=&quot;./../../processo_agile/guidances/guidelines/guia_analise_estática_6263BFD3.html&quot; guid=&quot;_U1OI8CM_Ee-sZ5vNPK7z7A&quot;>Guia Análise Estática&lt;/a>&#xD;
+&lt;/p>&#xD;
+&lt;br />&#xD;
+&lt;p>&#xD;
+    As práticas recomendadas para a estruturação e organização do código.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Além disso, o desenvolvedor deve determinar as ferramentas e métodos de revisão a serem empregados, bem como garantir&#xD;
+    que todos os membros da equipe estejam cientes e compreendam esses parâmetros para assegurar uma revisão eficiente e&#xD;
+    consistente.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_KoGq0B-0Ee-ViZFWcvTxmA" name="Revisar Código" guid="_KoGq0B-0Ee-ViZFWcvTxmA">
+    <sectionDescription>&lt;p>&#xD;
+    O &lt;a class=&quot;elementLink&quot; href=&quot;./../../processo_agile/roles/desenvolvedor_137361E8.html&quot; guid=&quot;_jg34QE0dEeeZC78fRt21fQ&quot;>Desenvolvedor&lt;/a>&amp;nbsp;deve executar a análise estática no código, a fim de se obter uma&#xD;
+    revisão completa sobre possiveis problemas em execução.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Toda a ação deve ser catalogada no &lt;a class=&quot;elementLink&quot; href=&quot;./../../processo_agile/guidances/templates/template_acompanhamento_revisao_estatica_53D9E4D9.html&quot; guid=&quot;_W3fRUB7OEe-XR47bfVOfiw&quot;>Template de Acompanhamento da Revisão Estática&lt;/a>, para controle.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Essa ação pode ser executada em conjunto com&amp;nbsp;o &lt;a class=&quot;elementLink&quot; href=&quot;./../../processo_agile/roles/time_desenvolvimento_837780B8.html&quot; guid=&quot;_VUDXwE0eEeeZC78fRt21fQ&quot;>Time de Desenvolvimento&lt;/a> para que se discuta possiveis tratativas para os problemas encontrados.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;a class=&quot;elementLink&quot; href=&quot;./../../processo_agile/guidances/guidelines/guia_findbugs_46F10FA7.html&quot; guid=&quot;_DXShMCM5Ee-sZ5vNPK7z7A&quot;>Guia FindBugs&lt;/a>&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_d0UvICX2Ee-PEJqr3F02tQ" name="Revisar Estilo" guid="_d0UvICX2Ee-PEJqr3F02tQ">
+    <sectionDescription>&lt;p>&#xD;
+    O &lt;a class=&quot;elementLink&quot; href=&quot;./../../processo_agile/roles/desenvolvedor_137361E8.html&quot; guid=&quot;_jg34QE0dEeeZC78fRt21fQ&quot;>Desenvolvedor&lt;/a>, junto ao &lt;a class=&quot;elementLink&quot; href=&quot;./../../processo_agile/roles/time_desenvolvimento_837780B8.html&quot; guid=&quot;_VUDXwE0eEeeZC78fRt21fQ&quot;>Time de Desenvolvimento&lt;/a>&amp;nbsp;deve realizar um checagem no estilo do código.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Para isso, deve-se definir as configurações do Code Styles.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;a class=&quot;elementLink&quot; href=&quot;./../../processo_agile/guidances/guidelines/guia_codestyle_6CE0D238.html&quot; guid=&quot;_Xe6MkCXzEe-PEJqr3F02tQ&quot;>Guia CodeStyle&lt;/a>&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_3kpLgB-0Ee-ViZFWcvTxmA" name="Corrigir Problemas" guid="_3kpLgB-0Ee-ViZFWcvTxmA">
+    <sectionDescription>&lt;p>&#xD;
+    O&amp;nbsp;&lt;a class=&quot;elementLink&quot; href=&quot;./../../processo_agile/roles/desenvolvedor_137361E8.html&quot;&#xD;
+    guid=&quot;_jg34QE0dEeeZC78fRt21fQ&quot;>Desenvolvedor&lt;/a> deve corrigir todos os problemas encontrados na execução da revisão.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+</org.eclipse.epf.uma:TaskDescription>

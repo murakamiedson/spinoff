@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-jKD_4GeM2FR5loGyKwjuMg" name="new_toolmentor,_NDJf4B7CEe-XR47bfVOfiw" guid="-jKD_4GeM2FR5loGyKwjuMg" changeDate="2024-05-30T17:24:51.081-0300">
+  <mainDescription>&lt;p>&#xD;
+    O FindBugs é uma ferramenta de análise estática para código Java, que identifica erros e problemas no bytecode.&#xD;
+    Integrada a IDEs populares, gera relatórios detalhados e permite personalização das verificações. Ajuda a melhorar a&#xD;
+    qualidade do software com suporte de uma comunidade ativa.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Você pode baixar a ferramenta findbugs clicando &lt;a href=&quot;https://findbugs.sourceforge.net/&quot;&#xD;
+    target=&quot;_blank&quot;>aqui&lt;/a>.&lt;br class=&quot;Apple-interchange-newline&quot; />&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>
