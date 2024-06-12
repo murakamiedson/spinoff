@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-VbxP568r0ww5H9jRtQz7Iw" name="new_guideline,_JAlkICIJEe-3jqmFtf6CwA" guid="-VbxP568r0ww5H9jRtQz7Iw" changeDate="2024-06-11T09:54:26.035-0200">
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-VbxP568r0ww5H9jRtQz7Iw" name="new_guideline,_JAlkICIJEe-3jqmFtf6CwA" guid="-VbxP568r0ww5H9jRtQz7Iw" changeDate="2024-06-11T08:54:26.035-0300">
   <mainDescription>&lt;p>&#xD;
     &lt;strong>&lt;font size=&quot;3&quot;>Selenium&lt;/font>&lt;/strong>&#xD;
 &lt;/p>&#xD;
@@ -12,18 +12,11 @@
     href=&quot;https://www.selenium.dev/selenium-ide/&quot;>&lt;em>&lt;u>https://www.selenium.dev/selenium-ide/&lt;/u>&lt;/em>&lt;/a> .&#xD;
 &lt;/p>&#xD;
 &lt;p>&#xD;
-    &lt;strong>1.2. Criar projeto&lt;/strong>&lt;br />&#xD;
-    &lt;span id=&quot;docs-internal-guid-ac390797-7fff-a5b0-7a49-1096a43c5d28&quot;&#xD;
+    &lt;strong>1.2. Criar projeto&lt;br />&#xD;
+    &lt;/strong>&lt;span id=&quot;docs-internal-guid-ac390797-7fff-a5b0-7a49-1096a43c5d28&quot;&#xD;
     style=&quot;FONT-SIZE: 10pt; TEXT-DECORATION: none; FONT-FAMILY: Arial,sans-serif; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
     Ao abrir a extensão, você verá as opções de criar um novo projeto ou abrir um projeto existente. Para criar um novo&#xD;
-    projeto, basta definir um nome para ele.&lt;/span>&#xD;
-&lt;/p>&#xD;
-&lt;p>&#xD;
-    &amp;nbsp; &lt;span&#xD;
-    style=&quot;FONT-SIZE: 10pt; TEXT-DECORATION: none; FONT-FAMILY: Arial,sans-serif; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
-    &lt;img style=&quot;HEIGHT: 434px; WIDTH: 717px; MARGIN-TOP: 0px; MARGIN-LEFT: 0px&quot;&#xD;
-    src=&quot;https://lh7-us.googleusercontent.com/docsz/AD_4nXdANahVAx3nZvV1WbPd2apbERxrKRfAZCSfkIypiMbrBSYv57sjWtwgcAKQinE80vyFOe09EepT83WOzSOXXcRxQyjIIAWbXmMzJbU5i8LccW9g0yumxY9FZ82keeYjhaQMVisCZjf16puStnJ96pw4SWGg?key=c-K6npT6c2DKf-VvxM9A3A&quot;&#xD;
-     width=&quot;642&quot; height=&quot;267&quot; />&lt;/span>&#xD;
+    projeto, basta definir um nome para ele.&lt;/span>&amp;nbsp;&#xD;
 &lt;/p>&#xD;
 &lt;p>&#xD;
     &lt;strong>1.2.1. Inserir URL&lt;br />&#xD;
@@ -33,33 +26,33 @@
     recording&lt;/em>.&lt;/span>&#xD;
 &lt;/p>&#xD;
 &lt;p>&#xD;
-    &lt;strong>1.2.2. Gravação do primeiro &lt;em>script&lt;/em>&lt;br />&#xD;
-    &lt;/strong>&lt;span id=&quot;docs-internal-guid-00f6bbd5-7fff-eedc-3ff6-515c793ddef9&quot;&#xD;
+    &lt;strong>1.2.2. Gravação do primeiro &lt;em>script&lt;br />&#xD;
+    &lt;/em>&lt;/strong>&lt;span id=&quot;docs-internal-guid-00f6bbd5-7fff-eedc-3ff6-515c793ddef9&quot;&#xD;
     style=&quot;FONT-SIZE: 10pt; TEXT-DECORATION: none; FONT-FAMILY: Arial,sans-serif; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
     Após inserir a URL base, você será redirecionado para outra janela do navegador com o endereço da URL da aplicação. A&#xD;
     partir deste momento, todas as ações realizadas no &lt;em>site&lt;/em> serão registradas. Para encerrar a gravação, volte&#xD;
     para a janela do &lt;em>plugin&lt;/em> e clique no botão vermelho chamado &lt;em>Stop recording&lt;/em> localizado no canto&#xD;
-    superior direito da tela.&lt;/span> Após isso, insira o nome do caso de teste para o &lt;em>script&lt;/em> gravado.&#xD;
-&lt;/p>&#xD;
-&lt;p>&#xD;
-    &lt;b id=&quot;docs-internal-guid-ea6f4f4a-7fff-194f-8cca-d90c572bfae7&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
-    style=&quot;FONT-SIZE: 10pt; TEXT-DECORATION: none; FONT-FAMILY: Arial,sans-serif; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
-    &lt;span&#xD;
-    style=&quot;OVERFLOW: hidden; BORDER-TOP: medium none; HEIGHT: 221px; BORDER-RIGHT: medium none; WIDTH: 285px; BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; DISPLAY: inline-block&quot;>&#xD;
-    &lt;img style=&quot;HEIGHT: 350px; WIDTH: 462px; MARGIN-TOP: 0px; MARGIN-LEFT: 0px&quot;&#xD;
-    src=&quot;https://lh7-us.googleusercontent.com/docsz/AD_4nXf9ZEKfXJfbANl0whWMLxOsiDPiYMfBRFeMakeA3lznZq6tnZfBwpDMhLDsv_ecswBhxk2WBFR1XY27wAJeSZsw9vW1wNrDin6o1EUq5m_lEqgFxpvDQGhaumrf4lUl5w2XLrnP_B99j7R1E9fpgu6UnJ4?key=c-K6npT6c2DKf-VvxM9A3A&quot;&#xD;
-     width=&quot;285&quot; height=&quot;221&quot; />&lt;/span>&lt;/span>&lt;/b>&lt;br />&#xD;
+    superior direito da tela.&lt;/span> Após isso, insira o nome do caso de teste para o &lt;em>script&lt;/em> gravado.&lt;br />&#xD;
     &lt;br />&#xD;
     &lt;strong>2. GERENCIAMENTO DE SUITES DE TESTES E CASOS DE TESTE&lt;br />&#xD;
     &lt;/strong>Um caso de teste é uma descrição detalhada de uma condição de teste específica a ser executada para verificar&#xD;
-    um determinado aspecto ou funcionalidade do software. Já uma suite de testes é um conjunto de casos de teste agrupados.&#xD;
-    As suites de teste são usadas para organizar e gerenciar casos de teste relacionados ou para facilitar a execução em&#xD;
+    um determinado aspecto ou funcionalidade do software. Já uma suíte de testes é um conjunto de casos de teste agrupados.&#xD;
+    As suítes de teste são usadas para organizar e gerenciar casos de teste relacionados ou para facilitar a execução em&#xD;
     conjunto.&lt;br />&#xD;
+    &lt;br />&#xD;
+    Crie uma suíte de testes para cada caso de uso do projeto. Nestas suítes, crie um caso de teste para cada cenário do&#xD;
+    caso de uso. Utilize a mesma nomeação para &lt;strong>caso de uso → suíte&lt;/strong>&amp;nbsp;e para &lt;strong>cenário → caso de&#xD;
+    teste&lt;/strong> entre o &lt;strong>Selenium IDE&lt;/strong> e o &lt;strong>Roteiro de Testes&lt;/strong>, a fim de garantir a&#xD;
+    rastreabilidade dos testes executados.&lt;br />&#xD;
+    &lt;br />&#xD;
     Depois de salvar o seu primeiro caso de teste, ele será adicionado à uma suite de teste padrão chamada &lt;em>Default&#xD;
     Suite.&lt;/em>&#xD;
 &lt;/p>&#xD;
 &lt;p>&#xD;
-    &lt;strong>2.1. Opções de edição de suites de casos de teste&lt;br />&#xD;
+    &lt;img alt=&quot;&quot; src=&quot;resources/Menu Testes.png&quot; width=&quot;228&quot; height=&quot;223&quot; />&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;strong>2.1. Opções de edição de suítes de casos de teste&lt;br />&#xD;
     &lt;/strong>As seguintes opções são disponíveis:&#xD;
 &lt;/p>&#xD;
 &lt;ul class=&quot;noindent&quot;>&#xD;
@@ -79,15 +72,6 @@
         Exportar&#xD;
     &lt;/li>&#xD;
 &lt;/ul>&#xD;
-&lt;p>&#xD;
-    &lt;b id=&quot;docs-internal-guid-ea23d0ca-7fff-f5cb-c638-054b981cf6d2&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
-    style=&quot;FONT-SIZE: 10pt; TEXT-DECORATION: none; FONT-FAMILY: Arial,sans-serif; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
-    &lt;span&#xD;
-    style=&quot;OVERFLOW: hidden; BORDER-TOP: medium none; HEIGHT: 341px; BORDER-RIGHT: medium none; WIDTH: 365px; BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; DISPLAY: inline-block&quot;>&#xD;
-    &lt;img style=&quot;HEIGHT: 487px; WIDTH: 494px; MARGIN-TOP: 0px; MARGIN-LEFT: 0px&quot;&#xD;
-    src=&quot;https://lh7-us.googleusercontent.com/docsz/AD_4nXeIerz_GtgIOUR8RlO0fUc4qFodp0pBzLMSs0oiwjDwBE4wRYpH9Xvx95EnS_SyQiYTcAnUUXNii0L_gUXWqZqAFWHomdQppwgLTDuKaJN4f7Lt03E2cg9rayTLBpl9l3u58YTHA2KMxari0ob2Eh1AeuQ3?key=c-K6npT6c2DKf-VvxM9A3A&quot;&#xD;
-     width=&quot;365&quot; height=&quot;341&quot; />&lt;/span>&lt;/span>&lt;/b>&#xD;
-&lt;/p>&#xD;
 &lt;p>&#xD;
     &lt;strong>2.2. Opções de edição de casos de teste&lt;br />&#xD;
     &lt;/strong>As seguintes opções são disponíveis:&#xD;
@@ -123,12 +107,6 @@
     execução dos testes.&#xD;
 &lt;/p>&#xD;
 &lt;p>&#xD;
-    &lt;b id=&quot;docs-internal-guid-1a649c8b-7fff-b10e-02ef-f2b4cee3bb86&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
-    style=&quot;FONT-SIZE: 10pt; TEXT-DECORATION: none; FONT-FAMILY: Arial,sans-serif; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
-    &lt;span&#xD;
-    style=&quot;OVERFLOW: hidden; BORDER-TOP: medium none; HEIGHT: 196px; BORDER-RIGHT: medium none; WIDTH: 435px; BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; DISPLAY: inline-block&quot;>&#xD;
-    &lt;img style=&quot;MARGIN-TOP: 0px; MARGIN-LEFT: 0px&quot;&#xD;
-    src=&quot;https://lh7-us.googleusercontent.com/docsz/AD_4nXctD-pu8fuBIsW29bY-RrUZSkGi_WInfZgGLIbsVsq3Wnt9-1aY1uwZ2hNcyMv8hSSFKZJo9QiMqbAbKHsS0KOmSo8VG0d0bWipt4nJKAbq_Z6ky4VKcJ8-8nPHsMITc2eWpXjIk1HOjFQAHigLHQGH70FP?key=c-K6npT6c2DKf-VvxM9A3A&quot;&#xD;
-     width=&quot;435&quot; height=&quot;196&quot; />&lt;/span>&lt;/span>&lt;/b>&#xD;
+    &lt;img alt=&quot;Playback&quot; src=&quot;resources/Playback.png&quot; width=&quot;451&quot; height=&quot;202&quot; />&#xD;
 &lt;/p></mainDescription>
 </org.eclipse.epf.uma:ContentDescription>
