@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <org.eclipse.epf.uma:GuidanceDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-g42J4VjLu7WrIQWXrOXaRA" name="new_template,_qZqCQCaWEe-EAd-Gzipbhg" guid="-g42J4VjLu7WrIQWXrOXaRA">
   <mainDescription>&lt;h3>&#xD;
-    Template de Issue&#xD;
+    Template de Requisição de Mudanças (Issue)&#xD;
 &lt;/h3>&#xD;
 &lt;p>&#xD;
-    Utilize o seguinte template como modelo para criar uma issue.&#xD;
+    Utilize o seguinte template como modelo para criar uma requisição de mudança (issue) no GitHub.&#xD;
 &lt;/p>&#xD;
 &lt;pre&#xD;
 style=&quot;BORDER-TOP: black 1px solid; BORDER-RIGHT: black 1px solid; BORDER-BOTTOM: black 1px solid; PADDING-BOTTOM: 10px; PADDING-TOP: 10px; PADDING-LEFT: 10px; BORDER-LEFT: black 1px solid; PADDING-RIGHT: 10px; BACKGROUND-COLOR: #f8f8f8&quot;>&#xD;

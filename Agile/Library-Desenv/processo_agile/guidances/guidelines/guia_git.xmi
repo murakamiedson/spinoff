@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-diGqa139I1UPirqu8p_GVw" name="new_guideline,_2HQHICM7Ee-5BoBWlxDHwg" guid="-diGqa139I1UPirqu8p_GVw" changeDate="2024-06-09T17:19:13.255-0300">
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-diGqa139I1UPirqu8p_GVw" name="new_guideline,_2HQHICM7Ee-5BoBWlxDHwg" guid="-diGqa139I1UPirqu8p_GVw" changeDate="2024-06-12T10:15:04.933-0300">
   <mainDescription>&lt;h2>&#xD;
     Guia - Git e GitHub&#xD;
 &lt;/h2>&#xD;
@@ -21,7 +21,7 @@
     hospedar o código e gerenciar as mudanças.&#xD;
 &lt;/p>&#xD;
 &lt;h3>&#xD;
-    Configuração do Git:&#xD;
+    1. Configuração do Git:&#xD;
 &lt;/h3>&#xD;
 &lt;ol>&#xD;
     &lt;li>&#xD;
@@ -104,7 +104,7 @@
     &lt;/li>&#xD;
 &lt;/ol>&#xD;
 &lt;h3>&#xD;
-    Por padrão, temos 3 branches fixas e 2 tipos de branches dinâmicas:&#xD;
+    2. Por padrão, temos 3 branches fixas e 2 tipos de branches dinâmicas:&#xD;
 &lt;/h3>&#xD;
 &lt;ul>&#xD;
     &lt;li>&#xD;
@@ -132,7 +132,7 @@
     &lt;/li>&#xD;
 &lt;/ul>&#xD;
 &lt;h3>&#xD;
-    Pull Request:&#xD;
+    3. Pull Request:&#xD;
 &lt;/h3>&#xD;
 &lt;p>&#xD;
     No Git, para levar as mudanças de uma branch para outra, utilizamos o Merge. Porém, no GitHub, utilizaremos um recurso&#xD;
@@ -141,7 +141,7 @@
     criar o merge diretamente no GitHub.&#xD;
 &lt;/p>&#xD;
 &lt;h4>&#xD;
-    Passos para a criação de um Pull Request:&#xD;
+    1. Passos para a criação de um Pull Request:&#xD;
 &lt;/h4>&#xD;
 &lt;ol>&#xD;
     &lt;li>&#xD;
@@ -162,10 +162,10 @@
     &lt;/li>&#xD;
 &lt;/ol>&#xD;
 &lt;h3>&#xD;
-    GitFlow:&#xD;
+    4. GitFlow:&#xD;
 &lt;/h3>&#xD;
 &lt;h4>&#xD;
-    Caso de Desenvolvimento de Nova Funcionalidade:&#xD;
+    1. Caso de Desenvolvimento de Nova Funcionalidade:&#xD;
 &lt;/h4>&#xD;
 &lt;ol>&#xD;
     &lt;li>&#xD;
@@ -204,7 +204,7 @@
     &lt;/li>&#xD;
 &lt;/ol>&#xD;
 &lt;h4>&#xD;
-    Caso de HotFix:&#xD;
+    2. Caso de HotFix:&#xD;
 &lt;/h4>&#xD;
 &lt;ol>&#xD;
     &lt;li>&#xD;
@@ -238,7 +238,7 @@
     &lt;/li>&#xD;
 &lt;/ol>&#xD;
 &lt;h4>&#xD;
-    Caso de Lançamento (Release):&#xD;
+    3. Caso de Lançamento (Release):&#xD;
 &lt;/h4>&#xD;
 &lt;ol>&#xD;
     &lt;li>&#xD;

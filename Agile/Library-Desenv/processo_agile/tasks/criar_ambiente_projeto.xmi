@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-X2Mekdr5MSsDxN-Td-6wWw" name="criar_ambiente_projeto,_QMPT0GcREeelx-d4QgVk5A" guid="-X2Mekdr5MSsDxN-Td-6wWw" changeDate="2020-07-14T15:35:43.823-0300">
   <sections xmi:id="_aOXgEGcREeelx-d4QgVk5A" name="Instalar o Git" guid="_aOXgEGcREeelx-d4QgVk5A">
-    <sectionDescription>No caso da máquina do&amp;nbsp;&lt;a class=&quot;elementLink&quot; href=&quot;./../../processo_agile/roles/desenvolvedor_137361E8.html&quot;&#xD;
-guid=&quot;_jg34QE0dEeeZC78fRt21fQ&quot;>Desenvolvedor&lt;/a> não ter a ferramenta de controle de versão, este deve instalá-la seguindo&#xD;
-as orientações do &lt;a class=&quot;elementLink&quot; href=&quot;./../../processo_agile/guidances/guidelines/guia_git_BAB7403A.html&quot;&#xD;
-guid=&quot;_2HQHICM7Ee-5BoBWlxDHwg&quot;>Guia - Git e GitHub&lt;/a>.&lt;!-- notionvc: 0687d84a-525d-42cc-a23a-91b298e07a9c --></sectionDescription>
+    <sectionDescription>No caso da máquina do&amp;nbsp;&lt;a class=&quot;elementLink&quot; href=&quot;./../../processo_agile/roles/desenvolvedor_137361E8.html&quot; guid=&quot;_jg34QE0dEeeZC78fRt21fQ&quot;>Desenvolvedor&lt;/a> não ter a ferramenta de controle de versão, este deve instalá-la seguindo&#xD;
+as orientações do &lt;a class=&quot;elementLink&quot; href=&quot;./../../processo_agile/guidances/guidelines/guia_git_BAB7403A.html&quot; guid=&quot;_2HQHICM7Ee-5BoBWlxDHwg&quot;>Guia - Git e GitHub&lt;/a>, tópico 1.&lt;!-- notionvc: 0687d84a-525d-42cc-a23a-91b298e07a9c --></sectionDescription>
   </sections>
   <sections xmi:id="_l_3YMGcREeelx-d4QgVk5A" name="Criar o repositório do projeto" guid="_l_3YMGcREeelx-d4QgVk5A">
     <sectionDescription>&lt;p>&#xD;
@@ -14,13 +12,13 @@ guid=&quot;_2HQHICM7Ee-5BoBWlxDHwg&quot;>Guia - Git e GitHub&lt;/a>.&lt;!-- noti
      class=&quot;elementLink&quot; href=&quot;./../../processo_agile/workproducts/estrutura_projeto_ED6A8C8B.html&quot;&#xD;
     guid=&quot;_uYnrgGcUEee6Z8sC_73hQw&quot;>Estrutura do Projeto&lt;/a> e adicioná-la no repositório, conforme&amp;nbsp;o &lt;a&#xD;
     class=&quot;elementLink&quot; href=&quot;./../../processo_agile/guidances/guidelines/guia_git_BAB7403A.html&quot;&#xD;
-    guid=&quot;_2HQHICM7Ee-5BoBWlxDHwg&quot;>Guia - Git e GitHub&lt;/a>. Em seguida comunicar os demais desenvolvedores que a estrutura&#xD;
-    do projeto foi criada e que podem fazer o clone (vide item 2 abaixo).&#xD;
+    guid=&quot;_2HQHICM7Ee-5BoBWlxDHwg&quot;>Guia - Git e GitHub&lt;/a>, tópico 1.5.&amp;nbsp;Em seguida comunicar os demais desenvolvedores&#xD;
+    que a estrutura do projeto foi criada e que podem fazer o clone (vide item 2 abaixo).&#xD;
 &lt;/p>&#xD;
 &lt;p>&#xD;
     2. No caso do repositório já existir o &lt;a class=&quot;elementLink&quot;&#xD;
     href=&quot;./../../processo_agile/roles/desenvolvedor_137361E8.html&quot; guid=&quot;_jg34QE0dEeeZC78fRt21fQ&quot;>Desenvolvedor&lt;/a>&amp;nbsp;&#xD;
-    deve fazer clone do repositório do projeto usando o mesmo &lt;a class=&quot;elementLink&quot;&#xD;
+    deve fazer clone do repositório do projeto usando o mesmo tópico do &lt;a class=&quot;elementLink&quot;&#xD;
     href=&quot;./../../processo_agile/guidances/guidelines/guia_git_BAB7403A.html&quot; guid=&quot;_2HQHICM7Ee-5BoBWlxDHwg&quot;>Guia - Git e&#xD;
     GitHub&lt;/a>.&#xD;
 &lt;/p>&#xD;

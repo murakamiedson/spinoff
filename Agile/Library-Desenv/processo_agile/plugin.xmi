@@ -346,7 +346,7 @@
             <methodElementProperty xmi:id="_ofIyACNDEe-5BoBWlxDHwg" name="me_edited" value="true"/>
             <presentation xmi:id="-diGqa139I1UPirqu8p_GVw" href="uma://-diGqa139I1UPirqu8p_GVw#-diGqa139I1UPirqu8p_GVw"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Template" xmi:id="_qZqCQCaWEe-EAd-Gzipbhg" name="template_issue" guid="_qZqCQCaWEe-EAd-Gzipbhg" presentationName="Template de Issue">
+          <contentElements xsi:type="org.eclipse.epf.uma:Template" xmi:id="_qZqCQCaWEe-EAd-Gzipbhg" name="template_issue" guid="_qZqCQCaWEe-EAd-Gzipbhg" presentationName="Template de Requisição de Mudança (Issue)">
             <methodElementProperty xmi:id="_D-NakCaXEe-EAd-Gzipbhg" name="me_edited" value="true"/>
             <presentation xmi:id="-g42J4VjLu7WrIQWXrOXaRA" href="uma://-g42J4VjLu7WrIQWXrOXaRA#-g42J4VjLu7WrIQWXrOXaRA"/>
           </contentElements>
