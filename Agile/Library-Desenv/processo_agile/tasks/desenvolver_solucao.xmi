@@ -10,23 +10,10 @@
     (entidades) que são efetivamente utilizadas pelo caso de uso. Para isso crie um diagrama para cada caso de uso.&#xD;
 &lt;/p></sectionDescription>
   </sections>
-  <sections xmi:id="_TkxF8mb9Eeelx-d4QgVk5A" name="Aderir TDD" guid="_TkxF8mb9Eeelx-d4QgVk5A">
-    <sectionDescription>&lt;p>&#xD;
-    A codificação deve ser fiel à implementação e padrões definidos na Arquitetura,&amp;nbsp;&lt;a class=&quot;elementLink&quot;&#xD;
-    href=&quot;./../../processo_agile/workproducts/modelo_arquitetura_4779B597.html&quot; guid=&quot;_9UCO0Gb8Eeelx-d4QgVk5A&quot;>Modelo de&#xD;
-    Arquitetura&lt;/a>&amp;nbsp;e &lt;a class=&quot;elementLink&quot;&#xD;
-    href=&quot;./../../processo_agile/workproducts/guia_implementação_E3C99C55.html&quot; guid=&quot;_vlXKQGb6Eeelx-d4QgVk5A&quot;>Guia de&#xD;
-    Implementação&lt;/a> (documentos de padrões e&amp;nbsp;boas práticas de codificação, a&amp;nbsp;nomeação das classes, métodos e&#xD;
-    atributos e respectivos empacotamentos) e deve ser testada seguindo os princípios do &lt;a class=&quot;elementLink&quot;&#xD;
-    href=&quot;./../../processo_agile/guidances/guidelines/guia_desenvolvimento_orientado_a _testes_443711A0.html&quot;&#xD;
-    guid=&quot;_A6A5ICitEe-I1r8bTfCNhw&quot;>Guia de Desenvolvimento Orientado a Testes&lt;/a>. Neste modelo, o desenvolvedor inicia&#xD;
-    escrevendo testes unitários antes mesmo de começar a codificar a funcionalidade desejada.&#xD;
-&lt;/p></sectionDescription>
-  </sections>
   <sections xmi:id="_xs1mAB3EEe-zOOCkt0QYLQ" name="Criar testes" guid="_xs1mAB3EEe-zOOCkt0QYLQ">
     <sectionDescription>&lt;p>&#xD;
     O primeiro passo no ciclo TDD é escrever um teste que falhe e&amp;nbsp;definir o comportamento desejado da funcionalidade&#xD;
-    ainda não&amp;nbsp;implementada​.&#xD;
+    ainda não&amp;nbsp;implementada​, conforme o &lt;a class=&quot;elementLink&quot; href=&quot;./../../processo_agile/guidances/guidelines/guia_desenvolvimento_orientado_a _testes_443711A0.html&quot; guid=&quot;_A6A5ICitEe-I1r8bTfCNhw&quot;>Guia de Desenvolvimento Orientado a Testes&lt;/a>.&#xD;
 &lt;/p>&#xD;
 &lt;p>&#xD;
     Se houver componentes que ainda não foram implementados, o desenvolvedor deve criar componentes&amp;nbsp;falsos (mocks)&#xD;
@@ -34,8 +21,14 @@
 &lt;/p></sectionDescription>
   </sections>
   <sections xmi:id="_kTuk8B3GEe-zOOCkt0QYLQ" name="Codificar solução" guid="_kTuk8B3GEe-zOOCkt0QYLQ">
-    <sectionDescription>No segundo passo, o objetivo é fazer o teste passar, &lt;strong>evitando preocupações com a qualidade ou otimização&lt;/strong>&#xD;
-do código.</sectionDescription>
+    <sectionDescription>&lt;p>&#xD;
+    No segundo passo, o objetivo é fazer o teste passar, &lt;strong>evitando preocupações com a qualidade ou&#xD;
+    otimização&lt;/strong> do código. Ver o &lt;a class=&quot;elementLink&quot; href=&quot;./../../processo_agile/guidances/guidelines/guia_desenvolvimento_orientado_a _testes_443711A0.html&quot; guid=&quot;_A6A5ICitEe-I1r8bTfCNhw&quot;>Guia de Desenvolvimento Orientado a Testes&lt;/a>.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    A codificação deve ser fiel à implementação e padrões definidos na Arquitetura,&amp;nbsp;&lt;a class=&quot;elementLink&quot; href=&quot;./../../processo_agile/workproducts/modelo_arquitetura_4779B597.html&quot; guid=&quot;_9UCO0Gb8Eeelx-d4QgVk5A&quot;>Modelo de Arquitetura&lt;/a>&amp;nbsp;e &lt;a class=&quot;elementLink&quot; href=&quot;./../../processo_agile/workproducts/guia_implementação_E3C99C55.html&quot; guid=&quot;_vlXKQGb6Eeelx-d4QgVk5A&quot;>Guia de Implementação&lt;/a> (documentos de padrões e&amp;nbsp;boas práticas de codificação, a&amp;nbsp;nomeação das classes, métodos e&#xD;
+    atributos e respectivos empacotamentos).&#xD;
+&lt;/p></sectionDescription>
   </sections>
   <sections xmi:id="_4DsvgB3GEe-zOOCkt0QYLQ" name="Refatorar solução" guid="_4DsvgB3GEe-zOOCkt0QYLQ">
     <sectionDescription>&lt;p>&#xD;
@@ -44,7 +37,9 @@ do código.</sectionDescription>
 &lt;/p>&#xD;
 &lt;p>&#xD;
     Este ciclo de &quot;&lt;strong>Red-Green-Refactor&lt;/strong>&quot; é repetido até que a funcionalidade esteja completa e todos os&#xD;
-    problemas corrigidos.&#xD;
+    problemas corrigidos, conforme o &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../processo_agile/guidances/guidelines/guia_desenvolvimento_orientado_a _testes_443711A0.html&quot;&#xD;
+    guid=&quot;_A6A5ICitEe-I1r8bTfCNhw&quot;>Guia de Desenvolvimento Orientado a Testes&lt;/a>.&#xD;
 &lt;/p></sectionDescription>
   </sections>
 </org.eclipse.epf.uma:TaskDescription>
