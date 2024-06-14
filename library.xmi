@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_hETjcSi6Ee-BOLIbRgcdHg" guid="_hETjcSi6Ee-BOLIbRgcdHg">
+    <resourceDescriptors xmi:id="_hETjcii6Ee-BOLIbRgcdHg" id="_hETjcCi6Ee-BOLIbRgcdHg" uri=""/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:MethodLibrary xmi:id="_hETjcCi6Ee-BOLIbRgcdHg" name="spinoff-master" guid="_hETjcCi6Ee-BOLIbRgcdHg"/>
+</xmi:XMI>
