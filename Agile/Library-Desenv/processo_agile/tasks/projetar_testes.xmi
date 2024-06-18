@@ -25,4 +25,12 @@
 &lt;/p>&#xD;
 &lt;br /></sectionDescription>
   </sections>
+  <sections xmi:id="_-B8PEC2qEe-YINqSzxMvJQ" name="Preparar ambiente de testes automatizados" guid="_-B8PEC2qEe-YINqSzxMvJQ">
+    <sectionDescription>&lt;p>&#xD;
+    Para a preparação do ambiente de testes automatizados, recomenda-se a utilização do Selenium IDE, seguindo os passos&#xD;
+    descritos nos capítulos 1 e 2 do &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../processo_agile/guidances/guidelines/guia_selenium_D6D4DA9F.html&quot; guid=&quot;_JAlkICIJEe-3jqmFtf6CwA&quot;>Guia -&#xD;
+    Ferramenta Selenium IDE&lt;/a>.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
 </org.eclipse.epf.uma:TaskDescription>
