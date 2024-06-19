@@ -137,7 +137,7 @@ style=&quot;FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; 
 &lt;/p>&#xD;
 &lt;ul>&#xD;
     &lt;li>&#xD;
-        Deve auto-organizado e auto-gerido.&#xD;
+        Deve ser auto-organizado e auto-gerido.&#xD;
     &lt;/li>&#xD;
     &lt;li>&#xD;
         Deve ser Multifuncional;&#xD;
@@ -223,7 +223,7 @@ style=&quot;FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; 
 &lt;/p>&#xD;
 &lt;br />&#xD;
 &lt;p>&#xD;
-    &lt;img style=&quot;HEIGHT: 310px; WIDTH: 712px&quot; alt=&quot;&quot; src=&quot;./../../processo_agile/workproducts/./resources/quadro_tarefas.jpg&quot; width=&quot;600&quot; height=&quot;452&quot; />&#xD;
+    &lt;img style=&quot;HEIGHT: 310px; WIDTH: 712px&quot; alt=&quot;&quot; src=&quot;./resources/quadro_tarefas.jpg&quot; width=&quot;600&quot; height=&quot;452&quot; />&#xD;
 &lt;/p>&#xD;
 &lt;p>&#xD;
     Cada linha no Quadro de Tarefas é um item do Backlog de Produto (neste exemplo, histórias). Durante a Reunião de&#xD;
@@ -335,58 +335,37 @@ style=&quot;FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; 
     &lt;/li>&#xD;
 &lt;/ul></refinedDescription>
   </org.eclipse.epf.uma:DescriptorDescription>
-  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-GpgeYRr2r7bSw7rsdokX9g" name="reuniao_revisao_processo,_anzrAGfmEeeJroYH56TLOQ" guid="-GpgeYRr2r7bSw7rsdokX9g">
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-GpgeYRr2r7bSw7rsdokX9g" name="reuniao_revisao_processo,_anzrAGfmEeeJroYH56TLOQ" guid="-GpgeYRr2r7bSw7rsdokX9g"/>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-9wXPNTMVJ0slkkrSsmjeYQ" name="controlar_itens_configuracao,_UICyQGfmEeeJroYH56TLOQ" guid="-9wXPNTMVJ0slkkrSsmjeYQ"/>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-iww-LjwRu5yEz869npf2kg" name="relatorio_nconformidade,_anzrAGfmEeeJroYH56TLOQ_xt5PIO0JEe28ub4xPlWhiw" guid="-iww-LjwRu5yEz869npf2kg">
     <refinedDescription>&lt;p>&#xD;
-    &lt;span&#xD;
-    style=&quot;FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FLOAT: none; FONT-WEIGHT: normal; COLOR: rgb(0,0,0); FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; DISPLAY: inline !important; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial&quot;>&#xD;
-    A Reunião de Revisão do Processo é o mecanismo principal para a visibilidade que o processo proporciona a áreas que&#xD;
-    potencialmente necessitam de melhorias, transformando-as em resultados.&lt;/span>&#xD;
+    Documento utilizado para registrar informações sobre uma não conformidade:&#xD;
 &lt;/p>&#xD;
-&lt;p>&#xD;
-    Essa reunião&amp;nbsp;é uma oportunidade para o Time discutir o que está dando certo e o que não está, e consentir em ações&#xD;
-    para mudança. Uma abordagem adotada é que todo o time se reuna e discuta o que ele gostaria de:&#xD;
-&lt;/p>&#xD;
-&lt;p class=&quot;MsoNormal&quot;&#xD;
-style=&quot;FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: normal; COLOR: rgb(0,0,0); FONT-STYLE: normal; TEXT-ALIGN: left; ORPHANS: 2; WIDOWS: 2; MARGIN: 0cm 0cm 10pt; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial&quot;&#xD;
- align=&quot;left&quot;>&#xD;
-    •&amp;nbsp;Começar a fazer&lt;br />&#xD;
-    •&amp;nbsp;Parar de fazer&lt;br />&#xD;
-    •&amp;nbsp;Continuar fazendo&#xD;
-&lt;/p>&#xD;
-&lt;p class=&quot;MsoNormal&quot;&#xD;
-style=&quot;FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: normal; COLOR: rgb(0,0,0); FONT-STYLE: normal; TEXT-ALIGN: left; ORPHANS: 2; WIDOWS: 2; MARGIN: 0cm 0cm 10pt; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial&quot;&#xD;
- align=&quot;left&quot;>&#xD;
-    &lt;span&#xD;
-    style=&quot;FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FLOAT: none; FONT-WEIGHT: normal; COLOR: rgb(0,0,0); FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; DISPLAY: inline !important; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial&quot;>&#xD;
-    O Time, o Owner e o Scrum Master comparecerão e uma pessoa neutra externa&amp;nbsp;atuará como facilitador na&#xD;
-    reunião.&lt;/span>&#xD;
-&lt;/p></refinedDescription>
-  </org.eclipse.epf.uma:DescriptorDescription>
-  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-9wXPNTMVJ0slkkrSsmjeYQ" name="controlar_itens_configuracao,_UICyQGfmEeeJroYH56TLOQ" guid="-9wXPNTMVJ0slkkrSsmjeYQ">
-    <refinedDescription>&lt;p>&#xD;
-    O &lt;a class=&quot;elementLink&quot; href=&quot;./../../processo_agile/roles/desenvolvedor_137361E8.html&quot;&#xD;
-    guid=&quot;_jg34QE0dEeeZC78fRt21fQ&quot;>Desenvolvedor&lt;/a> é responsável pela organização dos produtos criados durante o&#xD;
-    desenvolvimento e seu controle de versão dentro do repositório do projeto.&#xD;
-&lt;/p>&#xD;
-&lt;p>&#xD;
-    Todos os produtos baseados em templates do processo devem ser controlados (IC-Item de Configuração e CB-Configuração&#xD;
-    Base)&amp;nbsp;e&amp;nbsp;nomeados conforme &lt;strong>&lt;a class=&quot;elementLink&quot;&#xD;
-    href=&quot;./../../processo_agile/guidances/examples/guia_politicas_gc_614FB085.html&quot; guid=&quot;_SLKUEWcQEeelx-d4QgVk5A&quot;>Guia -&#xD;
-    Políticas de GC&lt;/a>&lt;/strong>.&#xD;
-&lt;/p>&#xD;
-&lt;p>&#xD;
-    A destinação de cada artefato criado no projeto deve respeitar a localização na &lt;a class=&quot;elementLink&quot;&#xD;
-    href=&quot;./../../processo_agile/workproducts/estrutura_projeto_ED6A8C8B.html&quot; guid=&quot;_uYnrgGcUEee6Z8sC_73hQw&quot;>Estrutura do&#xD;
-    Projeto no SVN&lt;/a> conforme &lt;a class=&quot;elementLink&quot;&#xD;
-    href=&quot;./../../processo_agile/guidances/examples/guia_mapeamento_produtos_processo_56B1D075.html&quot;&#xD;
-    guid=&quot;_SLKUEGcQEeelx-d4QgVk5A&quot;>Guia - Mapeamento de Produtos por Processo&lt;/a>.&#xD;
-&lt;/p>&#xD;
-&lt;p>&#xD;
-    Sempre que uma configuração base (artefatos e incremento do produto) é entregue deve ser registrada na &lt;strong>&lt;a&#xD;
-    class=&quot;elementLink&quot; href=&quot;./../../processo_agile/workproducts/planilha_pcp_EFCEC02C.html&quot;&#xD;
-    guid=&quot;_U0xmcGZnEee1huV63HakZg&quot;>Planilha de Planejamento e Controle do Projeto&lt;/a>&lt;/strong>. Deve-se identificar na&#xD;
-    planilha o número da &quot;Revision&quot; correspondente na ferramenta de controle de versão. Isso é que garante a possibilidade&#xD;
-    recuperação da mesma configuração entregue.&lt;br />&#xD;
-&lt;/p></refinedDescription>
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Identificação da não conformidade;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Descrição detalhadas da não conformidade;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Possíveis impactos no produto e no processo;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Causas;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Datas;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Descrições sobre a gravidade da não conformidade;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        O&amp;nbsp;estado em que a correção da não conformidade se encontra;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Deve-se falar a categoria da não conformidade.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></refinedDescription>
   </org.eclipse.epf.uma:DescriptorDescription>
 </xmi:XMI>
