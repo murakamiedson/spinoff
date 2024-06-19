@@ -8,7 +8,7 @@
     href=&quot;./../../processo_agile/guidances/templates/template_historia_de_usuario_2EDF05D8.html&quot;&#xD;
     guid=&quot;_XYMDAOhWEeqpRpaT9ayfbA&quot;>Historia de Usuário&lt;/a>&amp;nbsp;e&amp;nbsp;&lt;a class=&quot;elementLinkWithType&quot;&#xD;
     href=&quot;./../../processo_agile/workproducts/especificacao_suplementar_11D89667.html&quot;&#xD;
-    guid=&quot;_6mih0CN7Ee-47ZyvRw2Faw&quot;>Artifact: Especificação suplementar&lt;/a>.&#xD;
+    guid=&quot;_6mih0CN7Ee-47ZyvRw2Faw&quot;>Especificação suplementar&lt;/a>.&#xD;
 &lt;/p>&#xD;
 &lt;p>&#xD;
     Para o levantamento, ou elicitação, dos requisitos existem várias técnicas, a mais comumente utilizada é a Entrevista&#xD;
@@ -28,14 +28,14 @@
     guid=&quot;_gxAakGb5Eeelx-d4QgVk5A&quot;>Guia - Workshop de Requisitos&lt;/a>.&#xD;
 &lt;/p>&#xD;
 &lt;p>&#xD;
-    Os requisitos não funcionais devem ser registrados no &lt;a class=&quot;elementLink&quot;&#xD;
-    href=&quot;./../../processo_agile/workproducts/visao_BC2A1584.html&quot; guid=&quot;_XenvAGaSEeeSdMzcHvBvqg&quot;>Visão&lt;/a>, quando&#xD;
-    afetarem o sistema como um todo. Requisitos não funcionais própios da funcionalidade devem ser registrados na&#xD;
-    especificação da funcionalidade e na sua especificação suplementar. Ver &lt;a class=&quot;elementLink&quot;&#xD;
+    Os requisitos não funcionais devem ser registrados na &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+    href=&quot;./../../processo_agile/workproducts/especificacao_suplementar_11D89667.html&quot;&#xD;
+    guid=&quot;_6mih0CN7Ee-47ZyvRw2Faw&quot;>Especificação suplementar&lt;/a>, quando afetarem o sistema como um todo.&#xD;
+    Requisitos não funcionais própios das funcionalidades devem ser registrados na especificação da funcionalidade em &lt;a&#xD;
+    class=&quot;elementLink&quot; href=&quot;./../../processo_agile/workproducts/especificacao_caso_uso_F597CE3A.html&quot;&#xD;
+    guid=&quot;_PAGkwGb5Eeelx-d4QgVk5A&quot;>Especificação de Caso de Uso&lt;/a>. Ver &lt;a class=&quot;elementLink&quot;&#xD;
     href=&quot;./../../processo_agile/guidances/guidelines/guia_requisitos_EE5BB647.html&quot; guid=&quot;_7QQV8KDuEeqZReOXvi3sdQ&quot;>Guia -&#xD;
-    Requisitos de Sistema de Software&lt;/a>&amp;nbsp;e &lt;a class=&quot;elementLinkWithType&quot;&#xD;
-    href=&quot;./../../processo_agile/guidances/guidelines/guia_requisitos_nao_funcionais_B9FAC7B4.html&quot;&#xD;
-    guid=&quot;_DUVKoCN3Ee-47ZyvRw2Faw&quot;>Guideline: Guia - Requisitos Não Funcionais&lt;/a>.&#xD;
+    Requisitos de Sistema de Software&lt;/a>.&#xD;
 &lt;/p></sectionDescription>
   </sections>
   <sections xmi:id="_uG_gsHBvEees4PtkW9T4JA" name="Criar modelos de análise" guid="_uG_gsHBvEees4PtkW9T4JA">
@@ -79,9 +79,9 @@
   </sections>
   <sections xmi:id="_7f0acWaUEeeSdMzcHvBvqg" name="Especificar requisitos" guid="_7f0acWaUEeeSdMzcHvBvqg">
     <sectionDescription>&lt;p>&#xD;
-    Esta atividade tem o objetivo de gerar as &lt;a class=&quot;elementLink&quot; href=&quot;./../../processo_agile/workproducts/especificacao_caso_uso_F597CE3A.html&quot; guid=&quot;_PAGkwGb5Eeelx-d4QgVk5A&quot;>Especificação de Caso de Uso&lt;/a>&amp;nbsp;ou &lt;a class=&quot;elementLink&quot; href=&quot;./../../processo_agile/guidances/templates/template_historia_de_usuario_2EDF05D8.html&quot; guid=&quot;_XYMDAOhWEeqpRpaT9ayfbA&quot;>Historia de Usuário&lt;/a> e &lt;a class=&quot;elementLinkWithType&quot; href=&quot;./../../processo_agile/guidances/templates/template_especificacao_suplementar_FA72327C.html&quot; guid=&quot;_pFxrsCN5Ee-47ZyvRw2Faw&quot;>Template: Template de Especificação suplementar&lt;/a> a partir do &lt;strong>Modelo&lt;/strong>&#xD;
-    &lt;strong>de Casos de Uso, Visão e Glossário&lt;/strong>, de maneira que esses requisitos sejam suficientes para retratar&#xD;
-    todo o comportamento funcional do sistema.&#xD;
+    Esta atividade tem o objetivo de gerar as &lt;a class=&quot;elementLink&quot; href=&quot;./../../processo_agile/workproducts/especificacao_caso_uso_F597CE3A.html&quot; guid=&quot;_PAGkwGb5Eeelx-d4QgVk5A&quot;>Especificação de Caso de Uso&lt;/a>&amp;nbsp;ou &lt;a class=&quot;elementLink&quot; href=&quot;./../../processo_agile/guidances/templates/template_historia_de_usuario_2EDF05D8.html&quot; guid=&quot;_XYMDAOhWEeqpRpaT9ayfbA&quot;>Historia de Usuário&lt;/a> e &lt;a class=&quot;elementLinkWithType&quot; href=&quot;./../../processo_agile/workproducts/especificacao_suplementar_11D89667.html&quot; guid=&quot;_6mih0CN7Ee-47ZyvRw2Faw&quot;>Especificação suplementar&lt;/a> a partir do &lt;strong>Modelo&lt;/strong> &lt;strong>de&#xD;
+    Casos de Uso, Visão e Glossário&lt;/strong>, de maneira que esses requisitos sejam suficientes para retratar todo o&#xD;
+    comportamento funcional do sistema.&#xD;
 &lt;/p>&#xD;
 &lt;p>&#xD;
     Nesta atividade, o &lt;a class=&quot;elementLink&quot; href=&quot;./../../processo_agile/roles/desenvolvedor_137361E8.html&quot; guid=&quot;_jg34QE0dEeeZC78fRt21fQ&quot;>Desenvolvedor&lt;/a> deve documentar os detalhes dos Requisitos, especificando os seguintes&#xD;
@@ -116,7 +116,7 @@
     estimativa dos mesmos.&#xD;
 &lt;/p>&#xD;
 &lt;p>&#xD;
-    Para verificar a completude&amp;nbsp;e normalizar os requisitos utilize a técnica INVEST e a técnica SMART, ver&amp;nbsp;&lt;a class=&quot;elementLink&quot; href=&quot;./../../processo_agile/guidances/guidelines/guia_invest_4C58FC06.html&quot; guid=&quot;_97ZYwLWCEeqIE8PTmZnm3A&quot;>Guia - INVEST&lt;/a>&amp;nbsp;e &lt;a class=&quot;elementLinkWithType&quot; href=&quot;./../../processo_agile/guidances/guidelines/guia_requisitos_nao_funcionais_B9FAC7B4.html&quot; guid=&quot;_DUVKoCN3Ee-47ZyvRw2Faw&quot;>Guideline: Guia - Requisitos Não Funcionais&lt;/a>.&#xD;
+    Para verificar a completude&amp;nbsp;e normalizar os requisitos utilize a técnica INVEST e a técnica SMART, ver&amp;nbsp;&lt;a class=&quot;elementLink&quot; href=&quot;./../../processo_agile/guidances/guidelines/guia_invest_4C58FC06.html&quot; guid=&quot;_97ZYwLWCEeqIE8PTmZnm3A&quot;>Guia - INVEST&lt;/a>.&#xD;
 &lt;/p>&#xD;
 &lt;br /></sectionDescription>
   </sections>

@@ -85,7 +85,6 @@
     <resourceDescriptors xmi:id="_HodXEO0MEe28ub4xPlWhiw" id="-SGdwI4EvkpISUlbaGKBPYw" uri="guidances/guidelines/guia_selec_prod_trabalhos.xmi"/>
     <resourceDescriptors xmi:id="_X2SHcPPZEe2h05WOR3Bamg" id="-AAYKxgTq2ubHq5Xx2qnPig" uri="guidances/templates/template_relatorio_nconformidade.xmi"/>
     <resourceDescriptors xmi:id="_lI9XEPPcEe2h05WOR3Bamg" id="-OVKfR_BjJ33rf5OyHSYGfg" uri="tasks/revisao_final.xmi"/>
-    <resourceDescriptors xmi:id="_AS0sACN4Ee-47ZyvRw2Faw" id="-dF3vqBg52jXuEEDsigQc-w" uri="guidances/guidelines/guia_requisitos_nao_funcionais.xmi"/>
     <resourceDescriptors xmi:id="_VynuECN7Ee-47ZyvRw2Faw" id="-EbNWTMAbZjEIse0oQNO2fg" uri="guidances/templates/template_especificacao_suplementar%202.xmi"/>
   </org.eclipse.epf.uma.resourcemanager:ResourceManager>
   <org.eclipse.epf.uma:MethodPlugin xmi:id="_p8a8ME0ZEeeZC78fRt21fQ" name="processo_agile" guid="_p8a8ME0ZEeeZC78fRt21fQ" presentationName="Processo Agil ADS" briefDescription="Processo customizado para o curso de ADS, baseado em práticas de métodos ágeis." authors="Edson Murakami" changeDate="2017-06-09T10:45:57.957-0300" version="1.0">
@@ -402,7 +401,7 @@
             <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_WZzmkGaTEeeSdMzcHvBvqg" name="glossario" guid="_WZzmkGaTEeeSdMzcHvBvqg" presentationName="Glossário" briefDescription="Glossário, termos utilizados pelo cliente que representam o jargão da área de negócio." templates="_8I5wMGfzEeeJroYH56TLOQ">
               <methodElementProperty xmi:id="_fNC90GaTEeeSdMzcHvBvqg" name="me_edited" value="true"/>
             </contentElements>
-            <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_7f0acGaUEeeSdMzcHvBvqg" name="detalhar_requisitos" guid="_7f0acGaUEeeSdMzcHvBvqg" presentationName="Detalhar Requisitos" briefDescription="Detalhar Requisitos inclui análise e modelagem do problema ou necessidade." guidelines="_enS8EGb5Eeelx-d4QgVk5A _cN2YcGb5Eeelx-d4QgVk5A _gxAakGb5Eeelx-d4QgVk5A _7QQV8KDuEeqZReOXvi3sdQ _97ZYwLWCEeqIE8PTmZnm3A _DUVKoCN3Ee-47ZyvRw2Faw" examples="_Qu2JAGe-Eee98KTxJdQ4aA" performedBy="_jg34QE0dEeeZC78fRt21fQ" mandatoryInput="_2SgXoGe-Eee98KTxJdQ4aA" output="_WZzmkGaTEeeSdMzcHvBvqg _hjKj0GaXEeeSdMzcHvBvqg _sC0tEGb5Eeelx-d4QgVk5A _PAGkwGb5Eeelx-d4QgVk5A _6v8CYIkrEeiXk-0tNEdcvA _piM8YOhWEeqpRpaT9ayfbA _6mih0CN7Ee-47ZyvRw2Faw" additionallyPerformedBy="_0sP_IE0dEeeZC78fRt21fQ" optionalInput="_WZzmkGaTEeeSdMzcHvBvqg _cWdAoGaSEeeSdMzcHvBvqg _XenvAGaSEeeSdMzcHvBvqg" toolMentors="_8HJT4JwZEeiAhriidM4ivw">
+            <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_7f0acGaUEeeSdMzcHvBvqg" name="detalhar_requisitos" guid="_7f0acGaUEeeSdMzcHvBvqg" presentationName="Detalhar Requisitos" briefDescription="Detalhar Requisitos inclui análise e modelagem do problema ou necessidade." guidelines="_enS8EGb5Eeelx-d4QgVk5A _cN2YcGb5Eeelx-d4QgVk5A _gxAakGb5Eeelx-d4QgVk5A _7QQV8KDuEeqZReOXvi3sdQ _97ZYwLWCEeqIE8PTmZnm3A" examples="_Qu2JAGe-Eee98KTxJdQ4aA" performedBy="_jg34QE0dEeeZC78fRt21fQ" mandatoryInput="_2SgXoGe-Eee98KTxJdQ4aA" output="_WZzmkGaTEeeSdMzcHvBvqg _hjKj0GaXEeeSdMzcHvBvqg _sC0tEGb5Eeelx-d4QgVk5A _PAGkwGb5Eeelx-d4QgVk5A _6v8CYIkrEeiXk-0tNEdcvA _piM8YOhWEeqpRpaT9ayfbA _6mih0CN7Ee-47ZyvRw2Faw" additionallyPerformedBy="_0sP_IE0dEeeZC78fRt21fQ" optionalInput="_WZzmkGaTEeeSdMzcHvBvqg _cWdAoGaSEeeSdMzcHvBvqg _XenvAGaSEeeSdMzcHvBvqg" toolMentors="_8HJT4JwZEeiAhriidM4ivw">
               <methodElementProperty xmi:id="_73odgGaUEeeSdMzcHvBvqg" name="me_edited" value="true"/>
               <presentation xmi:id="-POW1gYwSqnVtujZMkNeK5w" href="uma://-POW1gYwSqnVtujZMkNeK5w#-POW1gYwSqnVtujZMkNeK5w"/>
             </contentElements>
@@ -484,10 +483,6 @@
               <methodElementProperty xmi:id="_zFvAwOhZEeqpRpaT9ayfbA" name="me_edited" value="true"/>
             </contentElements>
             <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_45NT4CHnEe-miY9rZ7e_Jg" name="new_artifact" guid="_45NT4CHnEe-miY9rZ7e_Jg" presentationName="New Artifact"/>
-            <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_DUVKoCN3Ee-47ZyvRw2Faw" name="guia_requisitos_nao_funcionais" guid="_DUVKoCN3Ee-47ZyvRw2Faw" presentationName="Guia - Requisitos Não Funcionais" briefDescription="Guia para classificação de requisitos não funcionais">
-              <methodElementProperty xmi:id="_AStXQCN4Ee-47ZyvRw2Faw" name="me_edited" value="true"/>
-              <presentation xmi:id="-dF3vqBg52jXuEEDsigQc-w" href="uma://-dF3vqBg52jXuEEDsigQc-w#-dF3vqBg52jXuEEDsigQc-w"/>
-            </contentElements>
             <contentElements xsi:type="org.eclipse.epf.uma:Template" xmi:id="_pFxrsCN5Ee-47ZyvRw2Faw" name="template_especificacao_suplementar" guid="_pFxrsCN5Ee-47ZyvRw2Faw" presentationName="Template de Especificação suplementar">
               <methodElementProperty xmi:id="_VykDsCN7Ee-47ZyvRw2Faw" name="me_edited" value="true"/>
               <presentation xmi:id="-EbNWTMAbZjEIse0oQNO2fg" href="uma://-EbNWTMAbZjEIse0oQNO2fg#-EbNWTMAbZjEIse0oQNO2fg"/>

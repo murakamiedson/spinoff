@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-PhnYdwTE9SpkbmO2Fe19ZA" name="new_guideline,_nnjF8MmWEeScmK7VeDuWcA" guid="-PhnYdwTE9SpkbmO2Fe19ZA" changeDate="2024-06-05T17:11:56.126-0300">
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-PhnYdwTE9SpkbmO2Fe19ZA" name="new_guideline,_nnjF8MmWEeScmK7VeDuWcA" guid="-PhnYdwTE9SpkbmO2Fe19ZA" changeDate="2024-06-17T18:05:31.692-0300">
   <mainDescription>&lt;p&#xD;
 style=&quot;FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; FONT-VARIANT: normal; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT-STYLE: normal; TEXT-ALIGN: left; LETTER-SPACING: normal; LINE-HEIGHT: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px&quot;>&#xD;
     &lt;strong>&lt;font size=&quot;3&quot;>Especificação de&amp;nbsp;Casos de Uso&lt;/font>&lt;/strong>&#xD;
@@ -116,21 +116,6 @@ style=&quot;WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR:
 &lt;/p>&#xD;
 &lt;h4&#xD;
 style=&quot;FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; FONT-VARIANT: normal; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT-STYLE: normal; TEXT-ALIGN: left; LETTER-SPACING: normal; LINE-HEIGHT: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px&quot;>&#xD;
-    Descrição dos Requisitos Especiais&#xD;
-&lt;/h4>&#xD;
-&lt;p&#xD;
-style=&quot;WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); TEXT-ALIGN: left; FONT: 13px arial, helvetica, sans-serif, kanji2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px&quot;>&#xD;
-    Deve-se também capturar qualquer requisito relacionado ao caso de uso, mas sem levar em consideração o fluxo de eventos&#xD;
-    do caso de uso. Tais requisitos, geralmente são não funcionais.&#xD;
-&lt;/p>&#xD;
-&lt;p&#xD;
-style=&quot;WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); TEXT-ALIGN: left; FONT: 13px arial, helvetica, sans-serif, kanji2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px&quot;>&#xD;
-    Geralmente, requisitos não funcionais referem-se a casos de uso específicos que são capturados na seção de requisitos&#xD;
-    especiais do caso de uso. Se há requisitos não funcionais que se aplicam a mais de um caso de uso, capture-os nas&#xD;
-    Especificações Suplementares.&#xD;
-&lt;/p>&#xD;
-&lt;h4&#xD;
-style=&quot;FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; FONT-VARIANT: normal; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT-STYLE: normal; TEXT-ALIGN: left; LETTER-SPACING: normal; LINE-HEIGHT: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px&quot;>&#xD;
     Descrição das pré-condições e pós-condições&#xD;
 &lt;/h4>&#xD;
 &lt;p&#xD;
@@ -152,5 +137,20 @@ style=&quot;WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR:
     Nem pré-condições nem pós-condições devem ser usadas para criar uma sequência de casos de uso. Como regra geral, nunca&#xD;
     deve acontecer de ser necessário executar um caso de uso e então outro para ter um fluxo de eventos significativos. Se&#xD;
     este for o caso, corrija o problema com uma revisão dos casos de uso.&#xD;
+&lt;/p>&#xD;
+&lt;h4&#xD;
+style=&quot;FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; FONT-VARIANT: normal; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT-STYLE: normal; TEXT-ALIGN: left; LETTER-SPACING: normal; LINE-HEIGHT: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px&quot;>&#xD;
+    Descrição dos Requisitos&amp;nbsp;não funcionais&amp;nbsp;&#xD;
+&lt;/h4>&#xD;
+&lt;p&#xD;
+style=&quot;WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); TEXT-ALIGN: left; FONT: 13px arial, helvetica, sans-serif, kanji2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px&quot;>&#xD;
+    Deve-se também capturar qualquer requisito relacionado ao caso de uso, mas sem levar em consideração o fluxo de eventos&#xD;
+    do caso de uso. Tais requisitos, geralmente são não funcionais.&#xD;
+&lt;/p>&#xD;
+&lt;p&#xD;
+style=&quot;WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); TEXT-ALIGN: left; FONT: 13px arial, helvetica, sans-serif, kanji2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px&quot;>&#xD;
+    Geralmente, requisitos não funcionais referem-se a casos de uso específicos, requisitos não funcionais do caso de uso&#xD;
+    são capturados na seção de requisitos não funcionais. Se há requisitos não funcionais que se aplicam a mais de um caso&#xD;
+    de uso, capture-os nas Especificações Suplementares.&#xD;
 &lt;/p></mainDescription>
 </org.eclipse.epf.uma:ContentDescription>
