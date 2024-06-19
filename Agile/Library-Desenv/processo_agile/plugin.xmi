@@ -88,8 +88,10 @@
     <resourceDescriptors xmi:id="_ofMcYCNDEe-5BoBWlxDHwg" id="-diGqa139I1UPirqu8p_GVw" uri="guidances/guidelines/guia_git.xmi"/>
     <resourceDescriptors xmi:id="_D-P20CaXEe-EAd-Gzipbhg" id="-g42J4VjLu7WrIQWXrOXaRA" uri="guidances/templates/template_issue.xmi"/>
     <resourceDescriptors xmi:id="_kBG54CaYEe-EAd-Gzipbhg" id="-DSDEbzTL361VqVps5PCOYQ" uri="guidances/templates/template_pr.xmi"/>
+    <resourceDescriptors xmi:id="_cII1ECIPEe-3jqmFtf6CwA" id="-VbxP568r0ww5H9jRtQz7Iw" uri="guidances/guidelines/guia_selenium.xmi"/>
+    <resourceDescriptors xmi:id="_sOZDgCeMEe-sxbsop-TqYA" id="-7-9zejiLZpm0QCoAjgFlTA" uri="guidances/guidelines/guia_abordagens_de_testes_de_software.xmi"/>
   </org.eclipse.epf.uma.resourcemanager:ResourceManager>
-  <org.eclipse.epf.uma:MethodPlugin xmi:id="_p8a8ME0ZEeeZC78fRt21fQ" name="processo_agile" guid="_p8a8ME0ZEeeZC78fRt21fQ" presentationName="Processo Agil ADS" briefDescription="Processo customizado para o curso de ADS, baseado em práticas de métodos ágeis." authors="Edson Murakami" changeDate="2017-06-09T10:45:57.957-0300" version="1.0">
+  <org.eclipse.epf.uma:MethodPlugin xmi:id="_p8a8ME0ZEeeZC78fRt21fQ" name="processo_agile" guid="_p8a8ME0ZEeeZC78fRt21fQ" presentationName="Processo Agil ADS" briefDescription="Processo customizado para o curso de ADS, baseado em práticas de métodos ágeis." authors="Edson Murakami" changeDate="2017-06-09T11:45:57.957-0200" version="1.0">
     <methodElementProperty xmi:id="_p9ZzoE0ZEeeZC78fRt21fQ" name="plugin_synFree" value="true"/>
     <methodElementProperty xmi:id="_CZKX4E0aEeeZC78fRt21fQ" name="me_edited" value="true"/>
     <methodPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_p8a8MU0ZEeeZC78fRt21fQ" name="Content" guid="_p8a8MU0ZEeeZC78fRt21fQ">
@@ -504,11 +506,11 @@
               <methodElementProperty xmi:id="_hmsZgGcGEeelx-d4QgVk5A" name="me_edited" value="true"/>
               <presentation xmi:id="-UFdOgjgjXUgiWmQg8HaXpA" href="uma://-UFdOgjgjXUgiWmQg8HaXpA#-UFdOgjgjXUgiWmQg8HaXpA"/>
             </contentElements>
-            <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_xeVnoGcGEeelx-d4QgVk5A" name="projetar_testes" guid="_xeVnoGcGEeelx-d4QgVk5A" presentationName="Projetar Testes" briefDescription="O projeto de testes consiste na especificação dos instrumentos utilizados para a execução de testes funcionais e não funcionais." examples="_hmRiwGcGEeelx-d4QgVk5A" performedBy="_jg34QE0dEeeZC78fRt21fQ" mandatoryInput="_PAGkwGb5Eeelx-d4QgVk5A" output="_4mDRMGcGEeelx-d4QgVk5A _qywrAGcHEeelx-d4QgVk5A">
+            <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_xeVnoGcGEeelx-d4QgVk5A" name="projetar_testes" guid="_xeVnoGcGEeelx-d4QgVk5A" presentationName="Projetar Testes" briefDescription="O projeto de testes consiste na especificação dos instrumentos utilizados para a execução de testes funcionais e não funcionais." guidelines="_k__YkCeLEe-sxbsop-TqYA _JAlkICIJEe-3jqmFtf6CwA" performedBy="_jg34QE0dEeeZC78fRt21fQ" mandatoryInput="_PAGkwGb5Eeelx-d4QgVk5A" output="_4mDRMGcGEeelx-d4QgVk5A _qywrAGcHEeelx-d4QgVk5A">
               <methodElementProperty xmi:id="_xod0AGcGEeelx-d4QgVk5A" name="me_edited" value="true"/>
               <presentation xmi:id="-gIlOyZAUGDY8eDEUj1e9qg" href="uma://-gIlOyZAUGDY8eDEUj1e9qg#-gIlOyZAUGDY8eDEUj1e9qg"/>
             </contentElements>
-            <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_2C70MGcGEeelx-d4QgVk5A" name="executar_testes" guid="_2C70MGcGEeelx-d4QgVk5A" presentationName="Executar Testes" briefDescription="Consiste em executar os testes no produto de software." examples="_hmRiwGcGEeelx-d4QgVk5A" performedBy="_jg34QE0dEeeZC78fRt21fQ" mandatoryInput="_2zmjgGcDEeelx-d4QgVk5A _4mDRMGcGEeelx-d4QgVk5A" output="_4mDRMGcGEeelx-d4QgVk5A _GfkJgGZpEee1huV63HakZg">
+            <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_2C70MGcGEeelx-d4QgVk5A" name="executar_testes" guid="_2C70MGcGEeelx-d4QgVk5A" presentationName="Executar Testes" briefDescription="Consiste em executar os testes no produto de software." guidelines="_k__YkCeLEe-sxbsop-TqYA _JAlkICIJEe-3jqmFtf6CwA" performedBy="_jg34QE0dEeeZC78fRt21fQ" mandatoryInput="_2zmjgGcDEeelx-d4QgVk5A _4mDRMGcGEeelx-d4QgVk5A" output="_4mDRMGcGEeelx-d4QgVk5A _GfkJgGZpEee1huV63HakZg">
               <methodElementProperty xmi:id="_2PjT4GcGEeelx-d4QgVk5A" name="me_edited" value="true"/>
               <presentation xmi:id="-P-_CmNcm3TT1UsQQC9ji4Q" href="uma://-P-_CmNcm3TT1UsQQC9ji4Q#-P-_CmNcm3TT1UsQQC9ji4Q"/>
             </contentElements>
@@ -521,6 +523,14 @@
             <contentElements xsi:type="org.eclipse.epf.uma:Template" xmi:id="_cx9tEGf0EeeJroYH56TLOQ" name="template_roteiro_teste" guid="_cx9tEGf0EeeJroYH56TLOQ" presentationName="Template do Roteiro de Testes">
               <methodElementProperty xmi:id="_hZ79wGf0EeeJroYH56TLOQ" name="me_edited" value="true"/>
               <presentation xmi:id="-7ETteD40X36kzOqWkn5PBg" href="uma://-7ETteD40X36kzOqWkn5PBg#-7ETteD40X36kzOqWkn5PBg"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_k__YkCeLEe-sxbsop-TqYA" name="guia_abordagens_de_testes_de_software" guid="_k__YkCeLEe-sxbsop-TqYA" presentationName="Guia - Abordagens de Testes de Software" briefDescription="Este guia tem por finalidade descrever as abordagens para testes de software.">
+              <methodElementProperty xmi:id="_sOWAMCeMEe-sxbsop-TqYA" name="me_edited" value="true"/>
+              <presentation xmi:id="-7-9zejiLZpm0QCoAjgFlTA" href="uma://-7-9zejiLZpm0QCoAjgFlTA#-7-9zejiLZpm0QCoAjgFlTA"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_JAlkICIJEe-3jqmFtf6CwA" name="guia_selenium" guid="_JAlkICIJEe-3jqmFtf6CwA" presentationName="Guia - Ferramenta Selenium IDE" briefDescription="Guia para uso da ferramenta Selenium IDE para realizar testes automatizados.">
+              <methodElementProperty xmi:id="_cIFxwCIPEe-3jqmFtf6CwA" name="me_edited" value="true"/>
+              <presentation xmi:id="-VbxP568r0ww5H9jRtQz7Iw" href="uma://-VbxP568r0ww5H9jRtQz7Iw#-VbxP568r0ww5H9jRtQz7Iw"/>
             </contentElements>
           </childPackages>
           <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_Oeo2gGY1Eee1huV63HakZg" name="implantacao" guid="_Oeo2gGY1Eee1huV63HakZg" presentationName="Implantação" briefDescription="Implantação (Deployment)">
