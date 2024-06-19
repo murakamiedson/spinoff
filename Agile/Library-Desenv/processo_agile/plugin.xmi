@@ -91,6 +91,7 @@
     <resourceDescriptors xmi:id="_cFSSsCM-Ee-sZ5vNPK7z7A" id="-nHfbdJ6K503ceDgkB0IgCw" uri="guidances/guidelines/guia_findbugs.xmi"/>
     <resourceDescriptors xmi:id="_k02OYCM_Ee-sZ5vNPK7z7A" id="-9IoqdeF4hIeokJJjjrONpA" uri="guidances/guidelines/guia_analise_estática.xmi"/>
     <resourceDescriptors xmi:id="_vXk_8CX1Ee-PEJqr3F02tQ" id="-fmgsQQo1hhf39KOyYjUj0w" uri="guidances/guidelines/guia_codestyle.xmi"/>
+    <resourceDescriptors xmi:id="_Xm_nYCitEe-I1r8bTfCNhw" id="-t828jIrsbmaxF9u3FDLvtg" uri="guidances/guidelines/guia_desenvolvimento_orientado_a%20_testes.xmi"/>
   </org.eclipse.epf.uma.resourcemanager:ResourceManager>
   <org.eclipse.epf.uma:MethodPlugin xmi:id="_p8a8ME0ZEeeZC78fRt21fQ" name="processo_agile" guid="_p8a8ME0ZEeeZC78fRt21fQ" presentationName="Processo Agil ADS" briefDescription="Processo customizado para o curso de ADS, baseado em práticas de métodos ágeis." authors="Edson Murakami" changeDate="2017-06-09T10:45:57.957-0300" version="1.0">
     <methodElementProperty xmi:id="_p9ZzoE0ZEeeZC78fRt21fQ" name="plugin_synFree" value="true"/>
@@ -352,7 +353,7 @@
           <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_eoKyAE0fEeeZC78fRt21fQ" name="implementacao" guid="_eoKyAE0fEeeZC78fRt21fQ" presentationName="Implementação" briefDescription="Disciplina de Implementação, codificação da solução técnica, conforme a arquitetura definida.">
             <methodElementProperty xmi:id="_eoKyAU0fEeeZC78fRt21fQ" name="pkg_loadCheck" value="true"/>
             <methodElementProperty xmi:id="_nWz9IE0fEeeZC78fRt21fQ" name="me_edited" value="true"/>
-            <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_TkxF8Gb9Eeelx-d4QgVk5A" name="desenvolver_solucao" guid="_TkxF8Gb9Eeelx-d4QgVk5A" presentationName="Desenvolver Solução" briefDescription="Desenvolver Solução consiste na análise, design, codificação e testes unitários da solução dada, conforme arquitetura definida e testada." examples="_RopCYGb7Eeelx-d4QgVk5A _7tCiMGcEEeelx-d4QgVk5A" performedBy="_jg34QE0dEeeZC78fRt21fQ" mandatoryInput="_PAGkwGb5Eeelx-d4QgVk5A _vlXKQGb6Eeelx-d4QgVk5A _9UCO0Gb8Eeelx-d4QgVk5A _hjKj0GaXEeeSdMzcHvBvqg" output="_2zmjgGcDEeelx-d4QgVk5A" toolMentors="_aI9gcKc6EeqVVcbyjZLpiA _8HJT4JwZEeiAhriidM4ivw">
+            <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_TkxF8Gb9Eeelx-d4QgVk5A" name="desenvolver_solucao" guid="_TkxF8Gb9Eeelx-d4QgVk5A" presentationName="Desenvolver Solução" briefDescription="Desenvolver Solução consiste na análise, design, codificação e testes unitários da solução dada, conforme arquitetura definida e testada.&#xD;&#xA;" guidelines="_A6A5ICitEe-I1r8bTfCNhw" examples="_RopCYGb7Eeelx-d4QgVk5A _7tCiMGcEEeelx-d4QgVk5A" performedBy="_jg34QE0dEeeZC78fRt21fQ" mandatoryInput="_PAGkwGb5Eeelx-d4QgVk5A _vlXKQGb6Eeelx-d4QgVk5A _9UCO0Gb8Eeelx-d4QgVk5A _hjKj0GaXEeeSdMzcHvBvqg" output="_2zmjgGcDEeelx-d4QgVk5A" toolMentors="_aI9gcKc6EeqVVcbyjZLpiA _8HJT4JwZEeiAhriidM4ivw">
               <methodElementProperty xmi:id="_Tu7HgGb9Eeelx-d4QgVk5A" name="me_edited" value="true"/>
               <presentation xmi:id="-f3yqiDOhk0TUCvst3dFqYQ" href="uma://-f3yqiDOhk0TUCvst3dFqYQ#-f3yqiDOhk0TUCvst3dFqYQ"/>
             </contentElements>
@@ -362,6 +363,11 @@
             <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_aI9gcKc6EeqVVcbyjZLpiA" name="winmerge" guid="_aI9gcKc6EeqVVcbyjZLpiA" presentationName="Winmerge" briefDescription="Ferramenta para diferenciação e merge.">
               <methodElementProperty xmi:id="_n4FGYKc7EeqVVcbyjZLpiA" name="me_edited" value="true"/>
               <presentation xmi:id="-LTYSrOb21utb6mnl8YjLmQ" href="uma://-LTYSrOb21utb6mnl8YjLmQ#-LTYSrOb21utb6mnl8YjLmQ"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_9jNMgB3DEe-zOOCkt0QYLQ" name="new_guideline" guid="_9jNMgB3DEe-zOOCkt0QYLQ" presentationName="New Guideline"/>
+            <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_A6A5ICitEe-I1r8bTfCNhw" name="guia_desenvolvimento_orientado_a _testes" guid="_A6A5ICitEe-I1r8bTfCNhw" presentationName="Guia de Desenvolvimento Orientado a Testes" briefDescription="Este guia prático de Desenvolvimento Orientado a Teste (TDD) fornece um passo a passo para implementar testes automatizados em Java usando JUnit, promovendo a criação de código de alta qualidade e fácil manutenção.">
+              <methodElementProperty xmi:id="_Xm2dcCitEe-I1r8bTfCNhw" name="me_edited" value="true"/>
+              <presentation xmi:id="-t828jIrsbmaxF9u3FDLvtg" href="uma://-t828jIrsbmaxF9u3FDLvtg#-t828jIrsbmaxF9u3FDLvtg"/>
             </contentElements>
           </childPackages>
           <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_87whwE0eEeeZC78fRt21fQ" name="analise_design" guid="_87whwE0eEeeZC78fRt21fQ" presentationName="Arquitetura" briefDescription="Disciplina de arquitetura, análise e design da solução técnica">
