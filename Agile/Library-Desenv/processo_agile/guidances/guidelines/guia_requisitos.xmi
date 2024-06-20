@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-f095a8dhKlYCoZNNvnexzg" name="guia_requisitos,_7QQV8KDuEeqZReOXvi3sdQ" guid="-f095a8dhKlYCoZNNvnexzg" changeDate="2020-05-28T11:29:58.903-0300">
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-f095a8dhKlYCoZNNvnexzg" name="guia_requisitos,_7QQV8KDuEeqZReOXvi3sdQ" guid="-f095a8dhKlYCoZNNvnexzg" changeDate="2024-06-18T19:53:31.573-0300">
   <mainDescription>&lt;p>&#xD;
     &lt;strong>&lt;font size=&quot;4&quot;>Requisitos de Sistema&lt;/font>&lt;/strong>&#xD;
 &lt;/p>&#xD;
@@ -13,7 +13,7 @@
     requisitos funcionais também podem declarar explicitamente o que o sistema não deve fazer.&#xD;
 &lt;/p>&#xD;
 &lt;p>&#xD;
-    &lt;strong>Requisitos não funcionais&lt;/strong>&amp;nbsp; - São restriçoes sobre os serviços ou funções oferecidas pelo sistema.&#xD;
+    &lt;strong>Requisitos não funcionais&lt;/strong>&amp;nbsp; - São restrições sobre os serviços ou funções oferecidas pelo sistema.&#xD;
     Eles incluem restrições de tempo, restrições sobre o processo de desenvolvimento e restrições impostas por padrões. Os&#xD;
     requisitos não funcionais se aplicam, frequentemente, ao sistema como um tudo, em vez de às características individuais&#xD;
     ou aos serviços.&#xD;
