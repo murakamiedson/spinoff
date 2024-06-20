@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-NTZInNPC83cIhDJoOU-w2Q" name="time_desenvolvimento,_VUDXwE0eEeeZC78fRt21fQ" guid="-NTZInNPC83cIhDJoOU-w2Q" changeDate="2020-07-14T12:52:41.292-0300">
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-NTZInNPC83cIhDJoOU-w2Q" name="time_desenvolvimento,_VUDXwE0eEeeZC78fRt21fQ" guid="-NTZInNPC83cIhDJoOU-w2Q" changeDate="2024-06-09T12:59:23.113-0300">
   <mainDescription>&lt;p>&#xD;
     O Time de Desenvolvimento consiste de profissionais que realizam o trabalho de entregar uma versão utilizavel e que&#xD;
     potencialmente incrementa o produto “Pronto” ao final de cada Sprint.&#xD;
@@ -25,6 +25,9 @@
     &lt;/li>&#xD;
     &lt;li>&#xD;
         Ter tamanho de 3 a 9 pessoas.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        As tarefas devem ser distribuidas de acordo com as especializações de cada desenvolvedor.&#xD;
     &lt;/li>&#xD;
 &lt;/ul></mainDescription>
   <keyConsiderations>&lt;ul>&#xD;
