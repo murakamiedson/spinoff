@@ -137,7 +137,7 @@ style=&quot;FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; 
 &lt;/p>&#xD;
 &lt;ul>&#xD;
     &lt;li>&#xD;
-        Deve auto-organizado e auto-gerido.&#xD;
+        Deve ser auto-organizado e auto-gerido.&#xD;
     &lt;/li>&#xD;
     &lt;li>&#xD;
         Deve ser Multifuncional;&#xD;
@@ -223,7 +223,7 @@ style=&quot;FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; 
 &lt;/p>&#xD;
 &lt;br />&#xD;
 &lt;p>&#xD;
-    &lt;img style=&quot;HEIGHT: 310px; WIDTH: 712px&quot; alt=&quot;&quot; src=&quot;./../../processo_agile/workproducts/./resources/quadro_tarefas.jpg&quot; width=&quot;600&quot; height=&quot;452&quot; />&#xD;
+    &lt;img style=&quot;HEIGHT: 310px; WIDTH: 712px&quot; alt=&quot;&quot; src=&quot;./resources/quadro_tarefas.jpg&quot; width=&quot;600&quot; height=&quot;452&quot; />&#xD;
 &lt;/p>&#xD;
 &lt;p>&#xD;
     Cada linha no Quadro de Tarefas é um item do Backlog de Produto (neste exemplo, histórias). Durante a Reunião de&#xD;
@@ -270,7 +270,7 @@ style=&quot;FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; 
   </org.eclipse.epf.uma:DescriptorDescription>
   <org.eclipse.epf.uma:DescriptorDescription xmi:id="-nBQpGyLjB1aT1SIeFlloZw" name="revisar_plano,_AGWbAGflEeeJroYH56TLOQ" guid="-nBQpGyLjB1aT1SIeFlloZw">
     <refinedDescription>É muito importante que o Time, antes de cada Sprint, faça uma revisão do Plano do Projeto, pois mudanças são intrinsecas no&#xD;
-desenvolvimento e novas necessiddes podem ter surgidas, as quais precisam ser priorizadas e estimadas. Prazos e custos&#xD;
+desenvolvimento e novas necessidades podem ter surgidas, as quais precisam ser priorizadas e estimadas. Prazos e custos&#xD;
 precisam ser revistos, etc.</refinedDescription>
   </org.eclipse.epf.uma:DescriptorDescription>
   <org.eclipse.epf.uma:DescriptorDescription xmi:id="-2eF-jGOgXw_wFyrIOds78g" name="reuniao_diaria,_A7yOMGflEeeJroYH56TLOQ" guid="-2eF-jGOgXw_wFyrIOds78g">
@@ -348,15 +348,55 @@ style=&quot;FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; 
     <refinedDescription>&lt;p>&#xD;
     A &lt;strong>arquitetura de software&lt;/strong> de um sistema consiste na definição dos componentes de software, suas&#xD;
     propriedades externas, e seus relacionamentos com outros softwares. O termo também se refere à documentação da&#xD;
-    arquitetura de software do sistema. A documentação da arquitetura do software facilita: a comunicação entre as partes&#xD;
-    interessadas, registra as decisões iniciais acerca do projeto de alto-nível, e permite o reúso de componentes e padrões&#xD;
-    entre projetos.&#xD;
-&lt;/p>&#xD;
-&lt;p>&#xD;
-    O Desenvolvedor deve criar o &lt;a class=&quot;elementLink&quot;&#xD;
+    arquitetura de software do sistema. O Desenvolvedor deve criar o &lt;a class=&quot;elementLink&quot;&#xD;
     href=&quot;./../../processo_agile/workproducts/modelo_arquitetura_4779B597.html&quot; guid=&quot;_9UCO0Gb8Eeelx-d4QgVk5A&quot;>Modelo de&#xD;
     Arquitetura&lt;/a> para registrar todas as definições da arquitetura.&#xD;
-&lt;/p></refinedDescription>
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    A documentação da arquitetura do software:&#xD;
+&lt;/p>&#xD;
+&lt;ol>&#xD;
+    &lt;li>&#xD;
+        Facilita a comunicação entre as partes interessadas;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Registra as decisões iniciais acerca do projeto de alto-nível;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        E permite o reúso de componentes e padrões entre projetos.&#xD;
+    &lt;/li>&#xD;
+&lt;/ol></refinedDescription>
   </org.eclipse.epf.uma:DescriptorDescription>
   <org.eclipse.epf.uma:DescriptorDescription xmi:id="-TwWCq7-CWjUlAtkOJ6J6UQ" name="controlar_itens_configuracao,_UWhIkGflEeeJroYH56TLOQ" guid="-TwWCq7-CWjUlAtkOJ6J6UQ"/>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-yRKyxTexhvdvPs626R-b-g" name="relatorio_nconformidade,_CGd4oGflEeeJroYH56TLOQ_xt5PIO0JEe28ub4xPlWhiw" guid="-yRKyxTexhvdvPs626R-b-g">
+    <refinedDescription>&lt;p>&#xD;
+    Documento utilizado para registrar informações sobre uma não conformidade:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Identificação da não conformidade;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Descrição detalhadas da não conformidade;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Possíveis impactos no produto e no processo;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Causas;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Datas;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Descrições sobre a gravidade da não conformidade;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        O&amp;nbsp;estado em que a correção da não conformidade se encontra;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Deve-se falar a categoria da não conformidade.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
 </xmi:XMI>
