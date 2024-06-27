@@ -31,17 +31,13 @@
 &lt;/p>&#xD;
 &lt;p>&#xD;
     Todas as CBs devem ser nomeadas conforme &lt;a class=&quot;elementLink&quot;&#xD;
-    href=&quot;./../../processo_agile/guidances/guidelines/guia_-_polticas_de_gc_10E280CE.html&quot;&#xD;
-    guid=&quot;_kivfQKdcEeq1ProniyDKWg&quot;>Guia - Politicas de GC&lt;/a>.&#xD;
+    href=&quot;./../../processo_agile/guidances/guidelines/guia_politicas_gc_10E280CE.html&quot; guid=&quot;_kivfQKdcEeq1ProniyDKWg&quot;>Guia&#xD;
+    - Politicas de GC&lt;/a>.&#xD;
 &lt;/p>&#xD;
 &lt;p>&#xD;
-    Sempre que uma CB&amp;nbsp;for entregue deve ser registrado o número da &quot;Revision&quot; (versão)&amp;nbsp;correspondente da&#xD;
-    ferramenta de controle de versão na &lt;a class=&quot;elementLink&quot;&#xD;
-    href=&quot;./../../processo_agile/workproducts/planilha_pcp_EFCEC02C.html&quot; guid=&quot;_U0xmcGZnEee1huV63HakZg&quot;>Planilha de&#xD;
-    Planejamento e Controle do Projeto&lt;/a>, na aba Controle de Entregas.&#xD;
-&lt;/p>&#xD;
-&lt;p>&#xD;
-    Isso é importante para&amp;nbsp;garantir&amp;nbsp;a possibilidade de recuperação da CB entregue, se necessário.&lt;br />&#xD;
+    Sempre que uma CB&amp;nbsp;for entregue será possível verificar seu estado no GitHub, no opção “Tags” do repositório,&#xD;
+    garantindo&amp;nbsp;a possibilidade de recuperação da CB entregue, se necessário. &#xD;
+    &lt;!-- notionvc: baa3bff2-6dd3-4a31-8b4d-dfb22285cd78 -->&lt;br />&#xD;
 &lt;/p></sectionDescription>
   </sections>
 </org.eclipse.epf.uma:TaskDescription>
