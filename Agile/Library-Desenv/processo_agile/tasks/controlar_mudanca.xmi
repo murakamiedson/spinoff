@@ -7,15 +7,26 @@
 &lt;/p>&#xD;
 &lt;p>&#xD;
     Para isso o Desenvolvedor deve criar uma requisição de mudanças, seguindo as&amp;nbsp;orientações contidas no próprio&#xD;
-    template da&amp;nbsp;&lt;strong>&lt;a class=&quot;elementLink&quot; href=&quot;./../../processo_agile/workproducts/rm_5A6327CB.html&quot;&#xD;
-    guid=&quot;_I3MuAGcTEeelx-d4QgVk5A&quot;>Requisição de Mudanças&lt;/a>&lt;/strong>.&#xD;
+    template de Requisição de Mudança (Issue)&amp;nbsp;da&amp;nbsp;&lt;strong>&lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../processo_agile/workproducts/rm_5A6327CB.html&quot; guid=&quot;_I3MuAGcTEeelx-d4QgVk5A&quot;>Requisição de&#xD;
+    Mudanças&lt;/a>&lt;/strong>.&#xD;
 &lt;/p></sectionDescription>
   </sections>
-  <sections xmi:id="_3TMPQGcTEeelx-d4QgVk5A" name="Atualizar a Planilha de Planejamento e Controle" guid="_3TMPQGcTEeelx-d4QgVk5A">
-    <sectionDescription>Caso alguma atividade nova tenha sido criada devido a mudança, esta deve ser adicionada na &lt;strong>planilha de planejamento&#xD;
-e controle do projeto&lt;/strong>.</sectionDescription>
-  </sections>
   <sections xmi:id="_mg7L8GcTEeelx-d4QgVk5A" name="Realizar a mudança" guid="_mg7L8GcTEeelx-d4QgVk5A">
-    <sectionDescription>Depois de analisados os impactos e este aprovado pelo Owner o Desenvolvedor executa a mudança.</sectionDescription>
+    <sectionDescription>&lt;p>&#xD;
+    Depois de analisados os impactos e este aprovado pelo Owner o Desenvolvedor executa a mudança, seguindo as etapas&#xD;
+    explicadas na seção GitFlow do &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../processo_agile/guidances/guidelines/guia_git_BAB7403A.html&quot; guid=&quot;_2HQHICM7Ee-5BoBWlxDHwg&quot;>Guia - Git e&#xD;
+    GitHub&lt;/a>. Para&amp;nbsp;criação de recursos, seguir o&amp;nbsp;item 1 do GitFlow. Para correção de bugs, seguir o item 2.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Depois de colocada em produção, o desenvolvedor deve fechar a Requisição de Mudança (Issue). Se ele achar necessário,&#xD;
+    pode adicionar comentários especificando melhor sobre as mudanças realizadas.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Todo o histórico de Requisições de Mudanças&amp;nbsp;(Issues) fica disponível para verificações futuras e controle no&#xD;
+    próprio GitHub.&#xD;
+&lt;/p>&#xD;
+&lt;!-- notionvc: 8e93e94d-3654-4ee7-b1d1-5c6d72234594 --></sectionDescription>
   </sections>
 </org.eclipse.epf.uma:TaskDescription>
