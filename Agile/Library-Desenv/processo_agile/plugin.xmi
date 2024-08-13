@@ -79,12 +79,6 @@
     <resourceDescriptors xmi:id="_TgprcMLgEeqz5tEf5BYCAA" id="-pBwKq_YSj2jInD_fuc7leA" uri="guidances/examples/guia_kanban_scrum.xmi"/>
     <resourceDescriptors xmi:id="_yCD24OhREeqpRpaT9ayfbA" id="-B8hFfug1nzF0gQJA1Yz7ng" uri="guidances/templates/template_caso_de_desenvolvimento.xmi"/>
     <resourceDescriptors xmi:id="_nPFDMOhWEeqpRpaT9ayfbA" id="-dsncKOA_4CFeRD_w4ZIsng" uri="guidances/templates/template_historia_de_usuario.xmi"/>
-    <resourceDescriptors xmi:id="_6fE4QO0GEe28ub4xPlWhiw" id="-NzMOXguRO0RPN3TS2YLwAw" uri="roles/equipe_qualidade.xmi"/>
-    <resourceDescriptors xmi:id="_AdGD8O0JEe28ub4xPlWhiw" id="-lbtB_s_eKOxS_LckR47JXA" uri="guidances/guidelines/def_criterios_checklist.xmi"/>
-    <resourceDescriptors xmi:id="_-YBYYO0JEe28ub4xPlWhiw" id="-54dyb1_9sPBBks5VCHkidA" uri="workproducts/relatorio_nconformidade.xmi"/>
-    <resourceDescriptors xmi:id="_HodXEO0MEe28ub4xPlWhiw" id="-SGdwI4EvkpISUlbaGKBPYw" uri="guidances/guidelines/guia_selec_prod_trabalhos.xmi"/>
-    <resourceDescriptors xmi:id="_X2SHcPPZEe2h05WOR3Bamg" id="-AAYKxgTq2ubHq5Xx2qnPig" uri="guidances/templates/template_relatorio_nconformidade.xmi"/>
-    <resourceDescriptors xmi:id="_lI9XEPPcEe2h05WOR3Bamg" id="-OVKfR_BjJ33rf5OyHSYGfg" uri="tasks/revisao_final.xmi"/>
   </org.eclipse.epf.uma.resourcemanager:ResourceManager>
   <org.eclipse.epf.uma:MethodPlugin xmi:id="_p8a8ME0ZEeeZC78fRt21fQ" name="processo_agile" guid="_p8a8ME0ZEeeZC78fRt21fQ" presentationName="Processo Agil ADS" briefDescription="Processo customizado para o curso de ADS, baseado em práticas de métodos ágeis." authors="Edson Murakami" changeDate="2017-06-09T10:45:57.957-0300" version="1.0">
     <methodElementProperty xmi:id="_p9ZzoE0ZEeeZC78fRt21fQ" name="plugin_synFree" value="true"/>
@@ -92,7 +86,7 @@
     <methodPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_p8a8MU0ZEeeZC78fRt21fQ" name="Content" guid="_p8a8MU0ZEeeZC78fRt21fQ">
       <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_p8a8Mk0ZEeeZC78fRt21fQ" name="Categories" guid="_p8a8Mk0ZEeeZC78fRt21fQ">
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_p8a8M00ZEeeZC78fRt21fQ" name="Domains" guid="_p8a8M00ZEeeZC78fRt21fQ">
-          <contentElements xsi:type="org.eclipse.epf.uma:Domain" xmi:id="_72g6UGfgEeeJroYH56TLOQ" name="artefatos" guid="_72g6UGfgEeeJroYH56TLOQ" presentationName="Artefatos" briefDescription="Artefatos (produtos de trabalho)">
+          <contentElements xsi:type="org.eclipse.epf.uma:Domain" xmi:id="_72g6UGfgEeeJroYH56TLOQ" name="artefatos" guid="_72g6UGfgEeeJroYH56TLOQ" presentationName="Artefatos" briefDescription="Artefatos (produtos de trabalho)" guidelines="_enS8EGb5Eeelx-d4QgVk5A _cN2YcGb5Eeelx-d4QgVk5A _97ZYwLWCEeqIE8PTmZnm3A _7QQV8KDuEeqZReOXvi3sdQ _gxAakGb5Eeelx-d4QgVk5A _kivfQKdcEeq1ProniyDKWg _St8QALZGEeqfZPEi8_DfSQ _q0JkQI40EeqPTOk8qo7S2Q" examples="_7tCiMGcEEeelx-d4QgVk5A _RopCYGb7Eeelx-d4QgVk5A _Qu2JAGe-Eee98KTxJdQ4aA _hmRiwGcGEeelx-d4QgVk5A _SLKUEGcQEeelx-d4QgVk5A _SLKUEmcQEeelx-d4QgVk5A _QDMZYGe9Eee98KTxJdQ4aA _2Z4JkMLfEeqz5tEf5BYCAA _YkMKEGe9Eee98KTxJdQ4aA _1CfX4GfXEee98KTxJdQ4aA" workProducts="_LKKrgGiaEeeubPDbByZ39Q _7UTzAGZdEee1huV63HakZg _GfkJgGZpEee1huV63HakZg _7wCiMGZcEee1huV63HakZg _nxoHIGfJEee98KTxJdQ4aA _SHQv8GZqEee1huV63HakZg _vlXKQGb6Eeelx-d4QgVk5A _9UCO0Gb8Eeelx-d4QgVk5A _9TMOYGcJEeelx-d4QgVk5A _HOIYEGcLEeelx-d4QgVk5A _B85SgGcMEeelx-d4QgVk5A _2zmjgGcDEeelx-d4QgVk5A _sC0tEGb5Eeelx-d4QgVk5A _PAGkwGb5Eeelx-d4QgVk5A _WZzmkGaTEeeSdMzcHvBvqg _piM8YOhWEeqpRpaT9ayfbA _6v8CYIkrEeiXk-0tNEdcvA _cWdAoGaSEeeSdMzcHvBvqg _2SgXoGe-Eee98KTxJdQ4aA _hjKj0GaXEeeSdMzcHvBvqg _RgU6wHH6EeeNG_oM-1Xh7g _XenvAGaSEeeSdMzcHvBvqg _qywrAGcHEeelx-d4QgVk5A _4mDRMGcGEeelx-d4QgVk5A _uYnrgGcUEee6Z8sC_73hQw _I3MuAGcTEeelx-d4QgVk5A _hQ6N4OhREeqpRpaT9ayfbA _A6CUQAXyEeixob1xXf1D3w _U0xmcGZnEee1huV63HakZg _4myakGcSEeelx-d4QgVk5A">
             <methodElementProperty xmi:id="__o2jgGfgEeeJroYH56TLOQ" name="me_edited" value="true"/>
             <methodElementProperty xmi:id="_qt2YIGf_EeeJroYH56TLOQ" name="CategoryElementsSortType" value="Alphabetic"/>
           </contentElements>
@@ -113,24 +107,18 @@
           <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_h7JkgGfgEeeJroYH56TLOQ" name="5_implantacao" guid="_h7JkgGfgEeeJroYH56TLOQ" presentationName="Implantação" briefDescription="Implantação" tasks="_q9CWcGcJEeelx-d4QgVk5A _o1YtcGcJEeelx-d4QgVk5A _mqnfAGcJEeelx-d4QgVk5A">
             <methodElementProperty xmi:id="_kQnnEGfgEeeJroYH56TLOQ" name="me_edited" value="true"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_kz7IcGfgEeeJroYH56TLOQ" name="gerenciamento_projetos" guid="_kz7IcGfgEeeJroYH56TLOQ" presentationName="Gerenciamento de Projetos" briefDescription="Gerenciamento de Projetos" tasks="_-ArjQGfJEee98KTxJdQ4aA _e_Ef8GZWEee1huV63HakZg _pq290GfCEee98KTxJdQ4aA _Gtf-4GfJEee98KTxJdQ4aA _V7L3wGfOEee98KTxJdQ4aA _cn1qkPPcEe2h05WOR3Bamg">
+          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_kz7IcGfgEeeJroYH56TLOQ" name="gerenciamento_projetos" guid="_kz7IcGfgEeeJroYH56TLOQ" presentationName="Gerenciamento de Projetos" briefDescription="Gerenciamento de Projetos" tasks="_-ArjQGfJEee98KTxJdQ4aA _e_Ef8GZWEee1huV63HakZg _pq290GfCEee98KTxJdQ4aA _Gtf-4GfJEee98KTxJdQ4aA _V7L3wGfOEee98KTxJdQ4aA">
             <methodElementProperty xmi:id="_oe5lYGfgEeeJroYH56TLOQ" name="me_edited" value="true"/>
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_tZAH4GfgEeeJroYH56TLOQ" name="gerenciamento_configuracao" guid="_tZAH4GfgEeeJroYH56TLOQ" presentationName="Gerenciamento de Configuração e Mudanças" briefDescription="Gerenciamento de Configuração e Mudanças" tasks="_NHZfQGcQEeelx-d4QgVk5A _PqTZgGcTEeelx-d4QgVk5A _QMPT0GcREeelx-d4QgVk5A">
             <methodElementProperty xmi:id="_x0Cv0GfgEeeJroYH56TLOQ" name="me_edited" value="true"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:DisciplineGrouping" xmi:id="_je8dEGfhEeeJroYH56TLOQ" name="disciplinas" guid="_je8dEGfhEeeJroYH56TLOQ" presentationName="Disciplinas" briefDescription="Disciplinas" disciplines="_SVL8QGfgEeeJroYH56TLOQ _tZAH4GfgEeeJroYH56TLOQ _kz7IcGfgEeeJroYH56TLOQ _h7JkgGfgEeeJroYH56TLOQ _aYedQGfgEeeJroYH56TLOQ _JjNwUGfgEeeJroYH56TLOQ _eoqgEGfgEeeJroYH56TLOQ _lsfsEO0EEe28ub4xPlWhiw">
+          <contentElements xsi:type="org.eclipse.epf.uma:DisciplineGrouping" xmi:id="_je8dEGfhEeeJroYH56TLOQ" name="disciplinas" guid="_je8dEGfhEeeJroYH56TLOQ" presentationName="Disciplinas" briefDescription="Disciplinas" disciplines="_SVL8QGfgEeeJroYH56TLOQ _tZAH4GfgEeeJroYH56TLOQ _kz7IcGfgEeeJroYH56TLOQ _h7JkgGfgEeeJroYH56TLOQ _aYedQGfgEeeJroYH56TLOQ _JjNwUGfgEeeJroYH56TLOQ _eoqgEGfgEeeJroYH56TLOQ">
             <methodElementProperty xmi:id="_nLgOYGfhEeeJroYH56TLOQ" name="me_edited" value="true"/>
-          </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_eIhloMXsEequ6seB3ihkcg" name="new_discip" guid="_eIhloMXsEequ6seB3ihkcg" presentationName="New Discipline">
-            <methodElementProperty xmi:id="_rb3D8MXsEequ6seB3ihkcg" name="me_edited" value="true"/>
-          </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_lsfsEO0EEe28ub4xPlWhiw" name="garantia_qualidade" guid="_lsfsEO0EEe28ub4xPlWhiw" presentationName="Garantia de Qualidade" tasks="_cn1qkPPcEe2h05WOR3Bamg">
-            <methodElementProperty xmi:id="_sNGSUO0EEe28ub4xPlWhiw" name="me_edited" value="true"/>
           </contentElements>
         </childPackages>
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_p8a8NU0ZEeeZC78fRt21fQ" name="RoleSets" guid="_p8a8NU0ZEeeZC78fRt21fQ">
-          <contentElements xsi:type="org.eclipse.epf.uma:RoleSet" xmi:id="_CaYP8GfhEeeJroYH56TLOQ" name="papeis" guid="_CaYP8GfhEeeJroYH56TLOQ" presentationName="Papéis" briefDescription="Papéis" roles="_jg34QE0dEeeZC78fRt21fQ _VUDXwE0eEeeZC78fRt21fQ _Zj1nYE0dEeeZC78fRt21fQ _0sP_IE0dEeeZC78fRt21fQ _03RXsO0FEe28ub4xPlWhiw">
+          <contentElements xsi:type="org.eclipse.epf.uma:RoleSet" xmi:id="_CaYP8GfhEeeJroYH56TLOQ" name="papeis" guid="_CaYP8GfhEeeJroYH56TLOQ" presentationName="Papéis" briefDescription="Papéis" roles="_jg34QE0dEeeZC78fRt21fQ _VUDXwE0eEeeZC78fRt21fQ _Zj1nYE0dEeeZC78fRt21fQ _0sP_IE0dEeeZC78fRt21fQ">
             <methodElementProperty xmi:id="_FO9QYGfhEeeJroYH56TLOQ" name="me_edited" value="true"/>
           </contentElements>
         </childPackages>
@@ -239,7 +227,7 @@
             <methodElementProperty xmi:id="_20-1wGfCEee98KTxJdQ4aA" name="me_edited" value="true"/>
             <presentation xmi:id="-bhl5FMevI0hHX_TjDVLXkQ" href="uma://-bhl5FMevI0hHX_TjDVLXkQ#-bhl5FMevI0hHX_TjDVLXkQ"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_Gtf-4GfJEee98KTxJdQ4aA" name="reuniao_revisao_sprint" guid="_Gtf-4GfJEee98KTxJdQ4aA" presentationName="Reunião de Revisão do Sprint (Sprint Retrospective)" briefDescription="Reunião para verificar a qualidade do produto e do processo. " performedBy="_Zj1nYE0dEeeZC78fRt21fQ _VUDXwE0eEeeZC78fRt21fQ _0sP_IE0dEeeZC78fRt21fQ" mandatoryInput="_nxoHIGfJEee98KTxJdQ4aA" output="_LKKrgGiaEeeubPDbByZ39Q _A6CUQAXyEeixob1xXf1D3w _xt5PIO0JEe28ub4xPlWhiw" optionalInput="_xt5PIO0JEe28ub4xPlWhiw">
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_Gtf-4GfJEee98KTxJdQ4aA" name="reuniao_revisao_sprint" guid="_Gtf-4GfJEee98KTxJdQ4aA" presentationName="Reunião de Revisão do Sprint (Sprint Retrospective)" briefDescription="Reunião para verificar a qualidade do produto e do processo. " performedBy="_Zj1nYE0dEeeZC78fRt21fQ _VUDXwE0eEeeZC78fRt21fQ _0sP_IE0dEeeZC78fRt21fQ" mandatoryInput="_nxoHIGfJEee98KTxJdQ4aA" output="_LKKrgGiaEeeubPDbByZ39Q _A6CUQAXyEeixob1xXf1D3w">
             <methodElementProperty xmi:id="_Yfzi4GfJEee98KTxJdQ4aA" name="me_edited" value="true"/>
             <presentation xmi:id="-AuI9F0qrvZD27mT1IKvz_w" href="uma://-AuI9F0qrvZD27mT1IKvz_w#-AuI9F0qrvZD27mT1IKvz_w"/>
           </contentElements>
@@ -541,37 +529,6 @@
               <presentation xmi:id="-FMVknuM-eW-958udWQ6tPw" href="uma://-FMVknuM-eW-958udWQ6tPw#-FMVknuM-eW-958udWQ6tPw"/>
             </contentElements>
           </childPackages>
-        </childPackages>
-        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_hRWy8O0DEe28ub4xPlWhiw" name="garantia_qualidade" guid="_hRWy8O0DEe28ub4xPlWhiw" presentationName="Garantia de Qualidade" briefDescription="Disciplina de Garantia de Qualidade, responsável por garantir a execução do SpinOff atenda aos padrões estabelecidos.">
-          <methodElementProperty xmi:id="_hRYoIO0DEe28ub4xPlWhiw" name="pkg_loadCheck" value="true"/>
-          <methodElementProperty xmi:id="_APj7EO0FEe28ub4xPlWhiw" name="me_edited" value="true"/>
-          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_03RXsO0FEe28ub4xPlWhiw" name="equipe_qualidade" guid="_03RXsO0FEe28ub4xPlWhiw" presentationName="Equipe de Garantia de Qualidade" briefDescription="A Equipe de Garantia de Qualidade é formada por integrantes que podem possuir outros papeis no SpinOff. A equipe não deve ser grande, é recomendado uma dupla de pessoas, é indicado que seja formada pelo scrum master e um desenvolvedor, para assim, em eventuais tarefas possibilitar o uso de revisão em pares.">
-            <methodElementProperty xmi:id="_S0SlEO0GEe28ub4xPlWhiw" name="me_edited" value="true"/>
-            <presentation xmi:id="-NzMOXguRO0RPN3TS2YLwAw" href="uma://-NzMOXguRO0RPN3TS2YLwAw#-NzMOXguRO0RPN3TS2YLwAw"/>
-          </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_ekS9gO0IEe28ub4xPlWhiw" name="def_criterios_checklist" guid="_ekS9gO0IEe28ub4xPlWhiw" presentationName="Definição de critérios de avaliação para o Checklist de Verificação de Projetos.">
-            <methodElementProperty xmi:id="_4zAtIO0IEe28ub4xPlWhiw" name="me_edited" value="true"/>
-            <presentation xmi:id="-lbtB_s_eKOxS_LckR47JXA" href="uma://-lbtB_s_eKOxS_LckR47JXA#-lbtB_s_eKOxS_LckR47JXA"/>
-          </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_xt5PIO0JEe28ub4xPlWhiw" name="relatorio_nconformidade" guid="_xt5PIO0JEe28ub4xPlWhiw" presentationName="Relatório de Não Conformidade." briefDescription="Documento utilizado para registrar informações sobre uma não conformidade.&#xD;&#xA;" templates="_e_TMkO0KEe28ub4xPlWhiw">
-            <methodElementProperty xmi:id="_4jyv8O0JEe28ub4xPlWhiw" name="me_edited" value="true"/>
-            <presentation xmi:id="-54dyb1_9sPBBks5VCHkidA" href="uma://-54dyb1_9sPBBks5VCHkidA#-54dyb1_9sPBBks5VCHkidA"/>
-          </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Template" xmi:id="_e_TMkO0KEe28ub4xPlWhiw" name="template_relatorio_nconformidade" guid="_e_TMkO0KEe28ub4xPlWhiw" presentationName="Template do Relatório de Não Conformidade">
-            <methodElementProperty xmi:id="_zEKpEO0KEe28ub4xPlWhiw" name="me_edited" value="true"/>
-            <presentation xmi:id="-AAYKxgTq2ubHq5Xx2qnPig" href="uma://-AAYKxgTq2ubHq5Xx2qnPig#-AAYKxgTq2ubHq5Xx2qnPig"/>
-          </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_-zh9wO0LEe28ub4xPlWhiw" name="guia_selec_prod_trabalhos" guid="_-zh9wO0LEe28ub4xPlWhiw" presentationName="Guia de Seleção de Produtos de Trabalhos">
-            <methodElementProperty xmi:id="_HoYekO0MEe28ub4xPlWhiw" name="me_edited" value="true"/>
-            <presentation xmi:id="-SGdwI4EvkpISUlbaGKBPYw" href="uma://-SGdwI4EvkpISUlbaGKBPYw#-SGdwI4EvkpISUlbaGKBPYw"/>
-          </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_cn1qkPPcEe2h05WOR3Bamg" name="revisao_final" guid="_cn1qkPPcEe2h05WOR3Bamg" presentationName="Reunião Final de Revisão de Processo" performedBy="_jg34QE0dEeeZC78fRt21fQ _0sP_IE0dEeeZC78fRt21fQ _Zj1nYE0dEeeZC78fRt21fQ _VUDXwE0eEeeZC78fRt21fQ" output="_7XUPoPPcEe2h05WOR3Bamg" optionalInput="_xt5PIO0JEe28ub4xPlWhiw">
-            <methodElementProperty xmi:id="_lI660PPcEe2h05WOR3Bamg" name="me_edited" value="true"/>
-            <presentation xmi:id="-OVKfR_BjJ33rf5OyHSYGfg" href="uma://-OVKfR_BjJ33rf5OyHSYGfg#-OVKfR_BjJ33rf5OyHSYGfg"/>
-          </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_7XUPoPPcEe2h05WOR3Bamg" name="relatorio_finalProjeto" guid="_7XUPoPPcEe2h05WOR3Bamg" presentationName="Relatório Final do Projeto">
-            <methodElementProperty xmi:id="_RpkwwPPdEe2h05WOR3Bamg" name="me_edited" value="true"/>
-          </contentElements>
         </childPackages>
       </childPackages>
       <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_p8a8PU0ZEeeZC78fRt21fQ" name="CapabilityPatterns" guid="_p8a8PU0ZEeeZC78fRt21fQ">

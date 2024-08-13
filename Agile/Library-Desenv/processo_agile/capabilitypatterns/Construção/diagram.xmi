@@ -478,7 +478,7 @@
     <nodes xmi:type="org.eclipse.epf.diagram.model:WorkProductComposite" xmi:id="_6HWBaHRQEeeZHfDVLovSQg" incomingConnections="_6HfyDXRQEeeZHfDVLovSQg" type="2">
       <linkedElement xmi:type="org.eclipse.epf.uma:TaskDescriptor" href="uma://_4Xt7YGfkEeeJroYH56TLOQ#_IoRYwGflEeeJroYH56TLOQ"/>
       <nodes xmi:type="org.eclipse.epf.diagram.model:WorkProductDescriptorNode" xmi:id="_6HWBaXRQEeeZHfDVLovSQg" name="Codigo Fonte" state="">
-        <linkedElement xmi:type="org.eclipse.epf.uma:WorkProductDescriptor" href="uma://_4Xt7YGfkEeeJroYH56TLOQ#_IoR_0mflEeeJroYH56TLOQ"/>
+        <linkedElement xmi:type="org.eclipse.epf.uma:WorkProductDescriptor" href="uma://_4Xt7YGfkEeeJroYH56TLOQ#_6Dlx4GflEeeJroYH56TLOQ_2zmjgGcDEeelx-d4QgVk5A"/>
       </nodes>
     </nodes>
     <nodes xmi:type="org.eclipse.epf.diagram.model:WorkProductComposite" xmi:id="_6HWBdnRQEeeZHfDVLovSQg" type="1">
@@ -501,7 +501,7 @@
       <linkedElement xmi:type="org.eclipse.epf.uma:TaskDescriptor" href="uma://_4Xt7YGfkEeeJroYH56TLOQ#_S8CuoGflEeeJroYH56TLOQ"/>
       <outgoingConnections xmi:type="org.eclipse.epf.diagram.model:Link" xmi:id="_6HfyFHRQEeeZHfDVLovSQg" target="_6HWBCnRQEeeZHfDVLovSQg"/>
       <nodes xmi:type="org.eclipse.epf.diagram.model:WorkProductDescriptorNode" xmi:id="_6HWBfXRQEeeZHfDVLovSQg" name="Codigo Fonte" state="">
-        <linkedElement xmi:type="org.eclipse.epf.uma:WorkProductDescriptor" href="uma://_4Xt7YGfkEeeJroYH56TLOQ#_IoR_0mflEeeJroYH56TLOQ"/>
+        <linkedElement xmi:type="org.eclipse.epf.uma:WorkProductDescriptor" href="uma://_4Xt7YGfkEeeJroYH56TLOQ#_6Dlx4GflEeeJroYH56TLOQ_2zmjgGcDEeelx-d4QgVk5A"/>
       </nodes>
       <nodes xmi:type="org.eclipse.epf.diagram.model:WorkProductDescriptorNode" xmi:id="_6HWBfnRQEeeZHfDVLovSQg" name="Roteiro de Testes" state="">
         <linkedElement xmi:type="org.eclipse.epf.uma:WorkProductDescriptor" href="uma://_4Xt7YGfkEeeJroYH56TLOQ#_SnW4EGflEeeJroYH56TLOQ"/>

@@ -8,15 +8,24 @@
     <refinedDescription>&lt;p>&#xD;
     A &lt;strong>arquitetura de software&lt;/strong> de um sistema consiste na definição dos componentes de software, suas&#xD;
     propriedades externas, e seus relacionamentos com outros softwares. O termo também se refere à documentação da&#xD;
-    arquitetura de software do sistema. A documentação da arquitetura do software facilita: a comunicação entre as partes&#xD;
-    interessadas, registra as decisões iniciais acerca do projeto de alto-nível, e permite o reúso de componentes e padrões&#xD;
-    entre projetos.&#xD;
-&lt;/p>&#xD;
-&lt;p>&#xD;
-    O Desenvolvedor deve criar o &lt;a class=&quot;elementLink&quot;&#xD;
+    arquitetura de software do sistema. O Desenvolvedor deve criar o &lt;a class=&quot;elementLink&quot;&#xD;
     href=&quot;./../../processo_agile/workproducts/modelo_arquitetura_4779B597.html&quot; guid=&quot;_9UCO0Gb8Eeelx-d4QgVk5A&quot;>Modelo de&#xD;
     Arquitetura&lt;/a> para registrar todas as definições da arquitetura.&#xD;
-&lt;/p></refinedDescription>
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    A documentação da arquitetura do software:&#xD;
+&lt;/p>&#xD;
+&lt;ol>&#xD;
+    &lt;li>&#xD;
+        Facilita a comunicação entre as partes interessadas;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Registra as decisões iniciais acerca do projeto de alto-nível;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        E permite o reúso de componentes e padrões entre projetos.&#xD;
+    &lt;/li>&#xD;
+&lt;/ol></refinedDescription>
   </org.eclipse.epf.uma:DescriptorDescription>
   <org.eclipse.epf.uma:DescriptorDescription xmi:id="-Ep7ub0z766ZkDwZO-_w1Yg" name="desenvolvedor,_04ssQGfjEeeJroYH56TLOQ" guid="-Ep7ub0z766ZkDwZO-_w1Yg">
     <keyConsiderations>&lt;ul>&#xD;
@@ -146,7 +155,7 @@ style=&quot;FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; 
 &lt;/p>&#xD;
 &lt;ul>&#xD;
     &lt;li>&#xD;
-        Deve auto-organizado e auto-gerido.&#xD;
+        Deve ser auto-organizado e auto-gerido.&#xD;
     &lt;/li>&#xD;
     &lt;li>&#xD;
         Deve ser Multifuncional;&#xD;
@@ -221,7 +230,7 @@ style=&quot;FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; 
 &lt;/p>&#xD;
 &lt;br />&#xD;
 &lt;p>&#xD;
-    &lt;img style=&quot;HEIGHT: 310px; WIDTH: 712px&quot; alt=&quot;&quot; src=&quot;./resources/quadro_tarefas.jpg&quot; width=&quot;600&quot; height=&quot;452&quot; />&#xD;
+    &lt;img style=&quot;HEIGHT: 310px; WIDTH: 712px&quot; alt=&quot;&quot; src=&quot;./../../processo_agile/workproducts/./resources/quadro_tarefas.jpg&quot; width=&quot;600&quot; height=&quot;452&quot; />&#xD;
 &lt;/p>&#xD;
 &lt;p>&#xD;
     Cada linha no Quadro de Tarefas é um item do Backlog de Produto (neste exemplo, histórias). Durante a Reunião de&#xD;
@@ -302,7 +311,7 @@ style=&quot;FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; 
   </org.eclipse.epf.uma:DescriptorDescription>
   <org.eclipse.epf.uma:DescriptorDescription xmi:id="-HuER9vGO1j7ErIJd7ee5uQ" name="revisar_plano,_ck6GUGflEeeJroYH56TLOQ" guid="-HuER9vGO1j7ErIJd7ee5uQ">
     <refinedDescription>É muito importante que o Time, antes de cada Sprint, faça uma revisão do Plano do Projeto, pois mudanças são intrinsecas no&#xD;
-desenvolvimento e novas necessiddes podem ter surgidas, as quais precisam ser priorizadas e estimadas. Prazos e custos&#xD;
+desenvolvimento e novas necessidades podem ter surgidas, as quais precisam ser priorizadas e estimadas. Prazos e custos&#xD;
 precisam ser revistos, etc.</refinedDescription>
   </org.eclipse.epf.uma:DescriptorDescription>
   <org.eclipse.epf.uma:DescriptorDescription xmi:id="-ba2D5_SssAS0n7u7YB6waA" name="backlog_produto,_ck6GUWflEeeJroYH56TLOQ" guid="-ba2D5_SssAS0n7u7YB6waA">
