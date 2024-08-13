@@ -459,15 +459,9 @@
     <nodes xmi:type="org.eclipse.epf.diagram.model:WorkProductComposite" xmi:id="__ztuP3RQEeeZHfDVLovSQg" type="1">
       <linkedElement xmi:type="org.eclipse.epf.uma:TaskDescriptor" href="uma://_x3M_QGflEeeJroYH56TLOQ#_UhcJsGfmEeeJroYH56TLOQ"/>
       <outgoingConnections xmi:type="org.eclipse.epf.diagram.model:Link" xmi:id="__ztuXnRQEeeZHfDVLovSQg" target="__ztt9nRQEeeZHfDVLovSQg"/>
-      <nodes xmi:type="org.eclipse.epf.diagram.model:WorkProductDescriptorNode" xmi:id="__ztuQHRQEeeZHfDVLovSQg" name="Requisição de Mudanças" state="">
-        <linkedElement xmi:type="org.eclipse.epf.uma:WorkProductDescriptor" href="uma://_x3M_QGflEeeJroYH56TLOQ#_UhcJsWfmEeeJroYH56TLOQ"/>
-      </nodes>
     </nodes>
     <nodes xmi:type="org.eclipse.epf.diagram.model:WorkProductComposite" xmi:id="__ztuQXRQEeeZHfDVLovSQg" incomingConnections="__ztuX3RQEeeZHfDVLovSQg" type="2">
       <linkedElement xmi:type="org.eclipse.epf.uma:TaskDescriptor" href="uma://_x3M_QGflEeeJroYH56TLOQ#_UhcJsGfmEeeJroYH56TLOQ"/>
-      <nodes xmi:type="org.eclipse.epf.diagram.model:WorkProductDescriptorNode" xmi:id="__ztuQnRQEeeZHfDVLovSQg" name="Requisição de Mudanças" state="">
-        <linkedElement xmi:type="org.eclipse.epf.uma:WorkProductDescriptor" href="uma://_x3M_QGflEeeJroYH56TLOQ#_UhcJsWfmEeeJroYH56TLOQ"/>
-      </nodes>
       <nodes xmi:type="org.eclipse.epf.diagram.model:WorkProductDescriptorNode" xmi:id="__ztuQ3RQEeeZHfDVLovSQg" name="Planilha de Planejamento e Controle do Projeto" state="">
         <linkedElement xmi:type="org.eclipse.epf.uma:WorkProductDescriptor" href="uma://_x3M_QGflEeeJroYH56TLOQ#_A5MXwmfmEeeJroYH56TLOQ"/>
       </nodes>
@@ -1181,14 +1175,6 @@
       <layoutConstraint xmi:type="notation:Bounds" xmi:id="__z3fk3RQEeeZHfDVLovSQg" x="688" y="1999" width="112" height="95"/>
     </children>
     <children xmi:type="notation:Node" xmi:id="__z3flHRQEeeZHfDVLovSQg" type="1002" element="__ztuP3RQEeeZHfDVLovSQg">
-      <children xmi:type="notation:Node" xmi:id="__0wPzXRQEeeZHfDVLovSQg" type="2003" element="__ztuQHRQEeeZHfDVLovSQg">
-        <children xmi:type="notation:Node" xmi:id="__0wP03RQEeeZHfDVLovSQg" type="4003"/>
-        <styles xmi:type="notation:FontStyle" xmi:id="__0wPznRQEeeZHfDVLovSQg" fontName="Segoe UI"/>
-        <styles xmi:type="notation:DescriptionStyle" xmi:id="__0wPz3RQEeeZHfDVLovSQg"/>
-        <styles xmi:type="notation:FillStyle" xmi:id="__0wP0HRQEeeZHfDVLovSQg"/>
-        <styles xmi:type="notation:LineStyle" xmi:id="__0wP0XRQEeeZHfDVLovSQg"/>
-        <layoutConstraint xmi:type="notation:Bounds" xmi:id="__0wP0nRQEeeZHfDVLovSQg" x="829" y="1821" width="75"/>
-      </children>
       <styles xmi:type="notation:FontStyle" xmi:id="__z3flXRQEeeZHfDVLovSQg" fontName="Segoe UI"/>
       <styles xmi:type="notation:DescriptionStyle" xmi:id="__z3flnRQEeeZHfDVLovSQg"/>
       <styles xmi:type="notation:FillStyle" xmi:id="__z3fl3RQEeeZHfDVLovSQg"/>
@@ -1196,14 +1182,6 @@
       <layoutConstraint xmi:type="notation:Bounds" xmi:id="__z3fmXRQEeeZHfDVLovSQg" x="819" y="1811" width="95" height="67"/>
     </children>
     <children xmi:type="notation:Node" xmi:id="__z3fmnRQEeeZHfDVLovSQg" type="1002" element="__ztuQXRQEeeZHfDVLovSQg">
-      <children xmi:type="notation:Node" xmi:id="__0wP1HRQEeeZHfDVLovSQg" type="2003" element="__ztuQnRQEeeZHfDVLovSQg">
-        <children xmi:type="notation:Node" xmi:id="__0wP2nRQEeeZHfDVLovSQg" type="4003"/>
-        <styles xmi:type="notation:FontStyle" xmi:id="__0wP1XRQEeeZHfDVLovSQg" fontName="Segoe UI"/>
-        <styles xmi:type="notation:DescriptionStyle" xmi:id="__0wP1nRQEeeZHfDVLovSQg"/>
-        <styles xmi:type="notation:FillStyle" xmi:id="__0wP13RQEeeZHfDVLovSQg"/>
-        <styles xmi:type="notation:LineStyle" xmi:id="__0wP2HRQEeeZHfDVLovSQg"/>
-        <layoutConstraint xmi:type="notation:Bounds" xmi:id="__0wP2XRQEeeZHfDVLovSQg" x="820" y="2009" width="92"/>
-      </children>
       <children xmi:type="notation:Node" xmi:id="__0wP23RQEeeZHfDVLovSQg" type="2003" element="__ztuQ3RQEeeZHfDVLovSQg">
         <children xmi:type="notation:Node" xmi:id="__0wP4XRQEeeZHfDVLovSQg" type="4003"/>
         <styles xmi:type="notation:FontStyle" xmi:id="__0wP3HRQEeeZHfDVLovSQg" fontName="Segoe UI"/>
