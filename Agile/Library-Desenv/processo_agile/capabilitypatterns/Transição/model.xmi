@@ -84,7 +84,7 @@
       <Task href="uma://_p8a8ME0ZEeeZC78fRt21fQ#_mqnfAGcJEeelx-d4QgVk5A"/>
       <selectedSteps href="uma://-8EpR-TAycjHVObm-XYUUsA#_mqnfAWcJEeelx-d4QgVk5A"/>
     </processElements>
-    <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_D5GecWfmEeeJroYH56TLOQ" name="desenvolvedor" guid="_D5GecWfmEeeJroYH56TLOQ" presentationName="Desenvolvedor" briefDescription="Responsável pelo desenvolvimento dos incrementos do produto desde os requisitos até a implantação." isPlanned="false" superActivities="_x3M_QWflEeeJroYH56TLOQ" modifies="_EeMvl2fmEeeJroYH56TLOQ _EeMvmWfmEeeJroYH56TLOQ _MzEIwWfmEeeJroYH56TLOQ _MzEv0WfmEeeJroYH56TLOQ _A5MXxGfmEeeJroYH56TLOQ _A5MXwmfmEeeJroYH56TLOQ _UhcJsWfmEeeJroYH56TLOQ _D5GedWfmEeeJroYH56TLOQ">
+    <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_D5GecWfmEeeJroYH56TLOQ" name="desenvolvedor" guid="_D5GecWfmEeeJroYH56TLOQ" presentationName="Desenvolvedor" briefDescription="Responsável pelo desenvolvimento dos incrementos do produto desde os requisitos até a implantação." isPlanned="false" superActivities="_x3M_QWflEeeJroYH56TLOQ" modifies="_EeMvl2fmEeeJroYH56TLOQ _EeMvmWfmEeeJroYH56TLOQ _MzEIwWfmEeeJroYH56TLOQ _MzEv0WfmEeeJroYH56TLOQ _A5MXxGfmEeeJroYH56TLOQ _D5GedWfmEeeJroYH56TLOQ">
       <methodElementProperty xmi:id="_D5GecmfmEeeJroYH56TLOQ" name="descriptor_createdByReference" value="true"/>
       <methodElementProperty xmi:id="_D5NMIWfmEeeJroYH56TLOQ" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
       <presentation xmi:id="-gQeZAY_FnhIyCCtfWwyNEg" href="uma://-T9myYCQlu0YrgEt-p9gqiQ#-gQeZAY_FnhIyCCtfWwyNEg"/>
@@ -133,10 +133,12 @@
     <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_MzEIwGfmEeeJroYH56TLOQ" name="projetar_testes" guid="_MzEIwGfmEeeJroYH56TLOQ" presentationName="Projetar Testes" briefDescription="O projeto de testes consiste na especificação dos instrumentos utilizados para a execução de testes funcionais e não funcionais." superActivities="_x3M_QWflEeeJroYH56TLOQ" mandatoryInput="_EeMvkWfmEeeJroYH56TLOQ" output="_MzEIwWfmEeeJroYH56TLOQ _MzEv0WfmEeeJroYH56TLOQ" performedPrimarilyBy="_D5GecWfmEeeJroYH56TLOQ">
       <methodElementProperty xmi:id="_MzV1kGfmEeeJroYH56TLOQ" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
       <methodElementProperty xmi:id="_N0288WfmEeeJroYH56TLOQ" name="wbe_GlobalPresentedAfter" value="_F5nksGfmEeeJroYH56TLOQ"/>
-      <examples href="uma://_p8a8ME0ZEeeZC78fRt21fQ#_hmRiwGcGEeelx-d4QgVk5A"/>
+      <guidelines href="uma://_p8a8ME0ZEeeZC78fRt21fQ#_k__YkCeLEe-sxbsop-TqYA"/>
+      <guidelines href="uma://_p8a8ME0ZEeeZC78fRt21fQ#_JAlkICIJEe-3jqmFtf6CwA"/>
       <Task href="uma://_p8a8ME0ZEeeZC78fRt21fQ#_xeVnoGcGEeelx-d4QgVk5A"/>
       <selectedSteps href="uma://-gIlOyZAUGDY8eDEUj1e9qg#_xeVnomcGEeelx-d4QgVk5A"/>
       <selectedSteps href="uma://-gIlOyZAUGDY8eDEUj1e9qg#_xeVnoWcGEeelx-d4QgVk5A"/>
+      <selectedSteps href="uma://-gIlOyZAUGDY8eDEUj1e9qg#_-B8PEC2qEe-YINqSzxMvJQ"/>
     </processElements>
     <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_MzEIwWfmEeeJroYH56TLOQ" name="roteiro_testes" guid="_MzEIwWfmEeeJroYH56TLOQ" presentationName="Roteiro de Testes" briefDescription="Roteiro de Testes" isPlanned="false" superActivities="_x3M_QWflEeeJroYH56TLOQ">
       <methodElementProperty xmi:id="_MzEv0GfmEeeJroYH56TLOQ" name="descriptor_createdByReference" value="true"/>
@@ -152,36 +154,31 @@
     <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_NTGTsGfmEeeJroYH56TLOQ" name="executar_testes" guid="_NTGTsGfmEeeJroYH56TLOQ" presentationName="Executar Testes" briefDescription="Consiste em executar os testes no produto de software." superActivities="_x3M_QWflEeeJroYH56TLOQ" mandatoryInput="_EeMvlWfmEeeJroYH56TLOQ _MzEIwWfmEeeJroYH56TLOQ" output="_MzEIwWfmEeeJroYH56TLOQ _A5MXxGfmEeeJroYH56TLOQ" performedPrimarilyBy="_D5GecWfmEeeJroYH56TLOQ">
       <methodElementProperty xmi:id="_NTYnkGfmEeeJroYH56TLOQ" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
       <methodElementProperty xmi:id="_N0288GfmEeeJroYH56TLOQ" name="wbe_GlobalPresentedAfter" value="_EeMvkGfmEeeJroYH56TLOQ"/>
-      <examples href="uma://_p8a8ME0ZEeeZC78fRt21fQ#_hmRiwGcGEeelx-d4QgVk5A"/>
+      <guidelines href="uma://_p8a8ME0ZEeeZC78fRt21fQ#_k__YkCeLEe-sxbsop-TqYA"/>
+      <guidelines href="uma://_p8a8ME0ZEeeZC78fRt21fQ#_JAlkICIJEe-3jqmFtf6CwA"/>
       <Task href="uma://_p8a8ME0ZEeeZC78fRt21fQ#_2C70MGcGEeelx-d4QgVk5A"/>
       <selectedSteps href="uma://-P-_CmNcm3TT1UsQQC9ji4Q#_2C70MWcGEeelx-d4QgVk5A"/>
+      <selectedSteps href="uma://-P-_CmNcm3TT1UsQQC9ji4Q#_14ipkC2rEe-YINqSzxMvJQ"/>
       <selectedSteps href="uma://-P-_CmNcm3TT1UsQQC9ji4Q#_7hD-4GcIEeelx-d4QgVk5A"/>
     </processElements>
-    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_UICyQGfmEeeJroYH56TLOQ" name="controlar_itens_configuracao" guid="_UICyQGfmEeeJroYH56TLOQ" presentationName="Controlar Itens de Configuração (IC)" briefDescription="Itens de configuração são todos os artefatos produzidos durante o projeto que devem compor uma configuração base, portanto devem ser controladas suas versões." superActivities="_x3M_QWflEeeJroYH56TLOQ" output="_A5MXwmfmEeeJroYH56TLOQ" performedPrimarilyBy="_D5GecWfmEeeJroYH56TLOQ">
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_UICyQGfmEeeJroYH56TLOQ" name="controlar_itens_configuracao" guid="_UICyQGfmEeeJroYH56TLOQ" presentationName="Controlar Itens de Configuração (IC)" briefDescription="Itens de configuração são todos os artefatos produzidos durante o projeto que devem compor uma configuração base, portanto devem ser controladas suas versões." superActivities="_x3M_QWflEeeJroYH56TLOQ" performedPrimarilyBy="_D5GecWfmEeeJroYH56TLOQ">
       <methodElementProperty xmi:id="_UIZ-oGfmEeeJroYH56TLOQ" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
       <methodElementProperty xmi:id="_V5oEoGfmEeeJroYH56TLOQ" name="wbe_GlobalPresentedAfter" value="_E7o5gGfmEeeJroYH56TLOQ"/>
       <presentation xmi:id="-9wXPNTMVJ0slkkrSsmjeYQ" href="uma://-T9myYCQlu0YrgEt-p9gqiQ#-9wXPNTMVJ0slkkrSsmjeYQ"/>
       <examples href="uma://_p8a8ME0ZEeeZC78fRt21fQ#_SLKUEGcQEeelx-d4QgVk5A"/>
-      <examples href="uma://_p8a8ME0ZEeeZC78fRt21fQ#_SLKUEmcQEeelx-d4QgVk5A"/>
       <guidelines href="uma://_p8a8ME0ZEeeZC78fRt21fQ#_kivfQKdcEeq1ProniyDKWg"/>
+      <guidelines href="uma://_p8a8ME0ZEeeZC78fRt21fQ#_2HQHICM7Ee-5BoBWlxDHwg"/>
       <toolmentor href="uma://_p8a8ME0ZEeeZC78fRt21fQ#_cZf1IKc5EeqVVcbyjZLpiA"/>
       <Task href="uma://_p8a8ME0ZEeeZC78fRt21fQ#_NHZfQGcQEeelx-d4QgVk5A"/>
       <selectedSteps href="uma://-6-unkCM7z8sv9ExA0HgTVw#_12zIYKdZEeq1ProniyDKWg"/>
       <selectedSteps href="uma://-6-unkCM7z8sv9ExA0HgTVw#_tt214KdaEeq1ProniyDKWg"/>
     </processElements>
-    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_UhcJsGfmEeeJroYH56TLOQ" name="controlar_mudanca" guid="_UhcJsGfmEeeJroYH56TLOQ" presentationName="Controlar Mudanças no Sistema" briefDescription="Controlar Mudanças no Sistema" superActivities="_x3M_QWflEeeJroYH56TLOQ" additionallyPerformedBy="_A5LJoWfmEeeJroYH56TLOQ" mandatoryInput="_UhcJsWfmEeeJroYH56TLOQ" output="_UhcJsWfmEeeJroYH56TLOQ _A5MXwmfmEeeJroYH56TLOQ" performedPrimarilyBy="_D5GecWfmEeeJroYH56TLOQ">
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_UhcJsGfmEeeJroYH56TLOQ" name="controlar_mudanca" guid="_UhcJsGfmEeeJroYH56TLOQ" presentationName="Controlar Mudanças no Sistema" briefDescription="Controlar Mudanças no Sistema" superActivities="_x3M_QWflEeeJroYH56TLOQ" additionallyPerformedBy="_A5LJoWfmEeeJroYH56TLOQ" performedPrimarilyBy="_D5GecWfmEeeJroYH56TLOQ">
       <methodElementProperty xmi:id="_UhraQGfmEeeJroYH56TLOQ" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
       <methodElementProperty xmi:id="_Wg5gAGfmEeeJroYH56TLOQ" name="wbe_GlobalPresentedAfter" value="_UICyQGfmEeeJroYH56TLOQ"/>
       <Task href="uma://_p8a8ME0ZEeeZC78fRt21fQ#_PqTZgGcTEeelx-d4QgVk5A"/>
       <selectedSteps href="uma://-_qfPyXeToXlV9yJk8pfD1g#_VW8zQGcTEeelx-d4QgVk5A"/>
-      <selectedSteps href="uma://-_qfPyXeToXlV9yJk8pfD1g#_3TMPQGcTEeelx-d4QgVk5A"/>
       <selectedSteps href="uma://-_qfPyXeToXlV9yJk8pfD1g#_mg7L8GcTEeelx-d4QgVk5A"/>
-    </processElements>
-    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_UhcJsWfmEeeJroYH56TLOQ" name="rm" guid="_UhcJsWfmEeeJroYH56TLOQ" presentationName="Requisição de Mudanças" briefDescription="Requisição de Mudanças, pode ser pelo template ou por e-mail, porém deve haver análise de impacto." isPlanned="false" superActivities="_x3M_QWflEeeJroYH56TLOQ">
-      <methodElementProperty xmi:id="_UhcJsmfmEeeJroYH56TLOQ" name="descriptor_createdByReference" value="true"/>
-      <methodElementProperty xmi:id="_UhsoYGfmEeeJroYH56TLOQ" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
-      <templates href="uma://_p8a8ME0ZEeeZC78fRt21fQ#_5B4qAGf1EeeJroYH56TLOQ"/>
-      <WorkProduct href="uma://_p8a8ME0ZEeeZC78fRt21fQ#_I3MuAGcTEeelx-d4QgVk5A"/>
     </processElements>
     <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_anzrAGfmEeeJroYH56TLOQ" name="reuniao_revisao_sprint" guid="_anzrAGfmEeeJroYH56TLOQ" presentationName="Reunião de Revisão do Sprint (Sprint Retrospective)" briefDescription="Reunião para verificar a qualidade do produto e do processo. " superActivities="_x3M_QWflEeeJroYH56TLOQ" mandatoryInput="_an0SEGfmEeeJroYH56TLOQ" output="_anzrAGfmEeeJroYH56TLOQ_LKKrgGiaEeeubPDbByZ39Q _anzrAGfmEeeJroYH56TLOQ_A6CUQAXyEeixob1xXf1D3w" performedPrimarilyBy="_A5LwsGfmEeeJroYH56TLOQ _A5LwsmfmEeeJroYH56TLOQ _A5LJoWfmEeeJroYH56TLOQ">
       <methodElementProperty xmi:id="_aoC7kGfmEeeJroYH56TLOQ" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
@@ -214,7 +211,7 @@
       <templates href="uma://_p8a8ME0ZEeeZC78fRt21fQ#_LY-A8Gf0EeeJroYH56TLOQ"/>
       <WorkProduct href="uma://_p8a8ME0ZEeeZC78fRt21fQ#_9UCO0Gb8Eeelx-d4QgVk5A"/>
     </processElements>
-    <process xsi:type="org.eclipse.epf.uma:CapabilityPattern" xmi:id="_x3M_QWflEeeJroYH56TLOQ" name="Transição" guid="_x3M_QWflEeeJroYH56TLOQ" presentationName="Transição" breakdownElements="_A5LJoGfmEeeJroYH56TLOQ _A5LJoWfmEeeJroYH56TLOQ _A5LwsGfmEeeJroYH56TLOQ _A5LwsmfmEeeJroYH56TLOQ _A5MXwGfmEeeJroYH56TLOQ _A5MXwmfmEeeJroYH56TLOQ _A5MXxGfmEeeJroYH56TLOQ _A5MXxmfmEeeJroYH56TLOQ _BRx24GfmEeeJroYH56TLOQ _MzEIwGfmEeeJroYH56TLOQ _D5GecGfmEeeJroYH56TLOQ _D5GecWfmEeeJroYH56TLOQ _D5GedWfmEeeJroYH56TLOQ _EeMvkGfmEeeJroYH56TLOQ _EeMvkWfmEeeJroYH56TLOQ _EeMvlWfmEeeJroYH56TLOQ _EeMvl2fmEeeJroYH56TLOQ _EeMvmWfmEeeJroYH56TLOQ _NTGTsGfmEeeJroYH56TLOQ _MzEIwWfmEeeJroYH56TLOQ _MzEv0WfmEeeJroYH56TLOQ _E7o5gGfmEeeJroYH56TLOQ _UICyQGfmEeeJroYH56TLOQ _UhcJsGfmEeeJroYH56TLOQ _UhcJsWfmEeeJroYH56TLOQ _anzrAGfmEeeJroYH56TLOQ _an0SEGfmEeeJroYH56TLOQ _anzrAGfmEeeJroYH56TLOQ_LKKrgGiaEeeubPDbByZ39Q _anzrAGfmEeeJroYH56TLOQ_A6CUQAXyEeixob1xXf1D3w _D5GecGfmEeeJroYH56TLOQ_9UCO0Gb8Eeelx-d4QgVk5A">
+    <process xsi:type="org.eclipse.epf.uma:CapabilityPattern" xmi:id="_x3M_QWflEeeJroYH56TLOQ" name="Transição" guid="_x3M_QWflEeeJroYH56TLOQ" presentationName="Transição" breakdownElements="_A5LJoGfmEeeJroYH56TLOQ _A5LJoWfmEeeJroYH56TLOQ _A5LwsGfmEeeJroYH56TLOQ _A5LwsmfmEeeJroYH56TLOQ _A5MXwGfmEeeJroYH56TLOQ _A5MXwmfmEeeJroYH56TLOQ _A5MXxGfmEeeJroYH56TLOQ _A5MXxmfmEeeJroYH56TLOQ _BRx24GfmEeeJroYH56TLOQ _MzEIwGfmEeeJroYH56TLOQ _D5GecGfmEeeJroYH56TLOQ _D5GecWfmEeeJroYH56TLOQ _D5GedWfmEeeJroYH56TLOQ _EeMvkGfmEeeJroYH56TLOQ _EeMvkWfmEeeJroYH56TLOQ _EeMvlWfmEeeJroYH56TLOQ _EeMvl2fmEeeJroYH56TLOQ _EeMvmWfmEeeJroYH56TLOQ _NTGTsGfmEeeJroYH56TLOQ _MzEIwWfmEeeJroYH56TLOQ _MzEv0WfmEeeJroYH56TLOQ _E7o5gGfmEeeJroYH56TLOQ _UICyQGfmEeeJroYH56TLOQ _UhcJsGfmEeeJroYH56TLOQ _anzrAGfmEeeJroYH56TLOQ _an0SEGfmEeeJroYH56TLOQ _anzrAGfmEeeJroYH56TLOQ_LKKrgGiaEeeubPDbByZ39Q _anzrAGfmEeeJroYH56TLOQ_A6CUQAXyEeixob1xXf1D3w _D5GecGfmEeeJroYH56TLOQ_9UCO0Gb8Eeelx-d4QgVk5A">
       <presentation xmi:id="-T9myYCQlu0YrgEt-p9gqiQ" href="uma://-T9myYCQlu0YrgEt-p9gqiQ#-T9myYCQlu0YrgEt-p9gqiQ"/>
     </process>
   </org.eclipse.epf.uma:ProcessComponent>
