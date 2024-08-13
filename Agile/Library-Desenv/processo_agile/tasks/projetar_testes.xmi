@@ -5,9 +5,13 @@
     Para testes &lt;strong>funcionais e não funcionais&lt;/strong>, o &lt;a class=&quot;elementLink&quot;&#xD;
     href=&quot;./../../processo_agile/roles/desenvolvedor_137361E8.html&quot; guid=&quot;_jg34QE0dEeeZC78fRt21fQ&quot;>Desenvolvedor&lt;/a>&#xD;
     elabora o&amp;nbsp;&lt;strong>&lt;a class=&quot;elementLink&quot; href=&quot;./../../processo_agile/workproducts/roteiro_testes_8FC8C567.html&quot;&#xD;
-    guid=&quot;_4mDRMGcGEeelx-d4QgVk5A&quot;>Roteiro de Testes&lt;/a>&lt;/strong>&amp;nbsp;baseado na &lt;strong>Especificação de Caso de&#xD;
-    Uso&lt;/strong>. A maioria ou a totalidade dos casos de teste já foram identificados e documentados nas especificações&#xD;
-    porém, neste momento pode ser acrescentado mais casos de teste se assim o Desenvolvedor achar necessário.&#xD;
+    guid=&quot;_4mDRMGcGEeelx-d4QgVk5A&quot;>Roteiro de Testes&lt;/a>&lt;/strong>&amp;nbsp;baseado na &lt;strong>&lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../processo_agile/workproducts/historia_de_usuario_5EA87AAC.html&quot; guid=&quot;_piM8YOhWEeqpRpaT9ayfbA&quot;>Historia de&#xD;
+    Usuário&lt;/a>&lt;/strong> e no &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../processo_agile/guidances/guidelines/guia_abordagens_de_testes_de_software_AD43A45A.html&quot;&#xD;
+    guid=&quot;_k__YkCeLEe-sxbsop-TqYA&quot;>Guia - Abordagens de Testes de Software&lt;/a>. A maioria ou a totalidade dos casos de&#xD;
+    teste já foram identificados e documentados nas especificações porém, neste momento pode ser acrescentado mais casos de&#xD;
+    teste.&#xD;
 &lt;/p>&#xD;
 &lt;p>&#xD;
     O Desenvolvedor deve também criar a &lt;strong>&lt;a class=&quot;elementLink&quot;&#xD;

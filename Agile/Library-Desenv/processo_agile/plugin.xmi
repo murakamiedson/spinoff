@@ -61,7 +61,6 @@
     <resourceDescriptors xmi:id="_Y5dKcGf0EeeJroYH56TLOQ" id="-ZSzrdEkMy9lQj_mMVXgzJw" uri="guidances/templates/template_visao.xmi"/>
     <resourceDescriptors xmi:id="_haCEYGf0EeeJroYH56TLOQ" id="-7ETteD40X36kzOqWkn5PBg" uri="guidances/templates/template_roteiro_teste.xmi"/>
     <resourceDescriptors xmi:id="_s0ShMGf0EeeJroYH56TLOQ" id="-2vq6qBNwBWRiD1Mf0pI8tg" uri="guidances/templates/template_estrutura_projeto.xmi"/>
-    <resourceDescriptors xmi:id="_8jAAUGf1EeeJroYH56TLOQ" id="-8hiUXeF9qv7ZWFElB7jnrA" uri="guidances/templates/template_rm.xmi"/>
     <resourceDescriptors xmi:id="_KhEdsGf2EeeJroYH56TLOQ" id="-tn45BwsxZikRU-_6YNLWVg" uri="guidances/templates/template_tap.xmi"/>
     <resourceDescriptors xmi:id="_Y91pQGf2EeeJroYH56TLOQ" id="-ZmRf4CNOeyXzEzLdNwK7LQ" uri="guidances/templates/template_pcp.xmi"/>
     <resourceDescriptors xmi:id="_QUn8oHH6EeeNG_oM-1Xh7g" id="-oFUACQ325nHipXZJnwrRSw" uri="guidances/templates/template_quetionario_kano.xmi"/>
@@ -79,21 +78,19 @@
     <resourceDescriptors xmi:id="_TgprcMLgEeqz5tEf5BYCAA" id="-pBwKq_YSj2jInD_fuc7leA" uri="guidances/examples/guia_kanban_scrum.xmi"/>
     <resourceDescriptors xmi:id="_yCD24OhREeqpRpaT9ayfbA" id="-B8hFfug1nzF0gQJA1Yz7ng" uri="guidances/templates/template_caso_de_desenvolvimento.xmi"/>
     <resourceDescriptors xmi:id="_nPFDMOhWEeqpRpaT9ayfbA" id="-dsncKOA_4CFeRD_w4ZIsng" uri="guidances/templates/template_historia_de_usuario.xmi"/>
-
     <resourceDescriptors xmi:id="_ofMcYCNDEe-5BoBWlxDHwg" id="-diGqa139I1UPirqu8p_GVw" uri="guidances/guidelines/guia_git.xmi"/>
     <resourceDescriptors xmi:id="_D-P20CaXEe-EAd-Gzipbhg" id="-g42J4VjLu7WrIQWXrOXaRA" uri="guidances/templates/template_issue.xmi"/>
     <resourceDescriptors xmi:id="_kBG54CaYEe-EAd-Gzipbhg" id="-DSDEbzTL361VqVps5PCOYQ" uri="guidances/templates/template_pr.xmi"/>
     <resourceDescriptors xmi:id="_cII1ECIPEe-3jqmFtf6CwA" id="-VbxP568r0ww5H9jRtQz7Iw" uri="guidances/guidelines/guia_selenium.xmi"/>
     <resourceDescriptors xmi:id="_sOZDgCeMEe-sxbsop-TqYA" id="-7-9zejiLZpm0QCoAjgFlTA" uri="guidances/guidelines/guia_abordagens_de_testes_de_software.xmi"/>
-
   </org.eclipse.epf.uma.resourcemanager:ResourceManager>
-  <org.eclipse.epf.uma:MethodPlugin xmi:id="_p8a8ME0ZEeeZC78fRt21fQ" name="processo_agile" guid="_p8a8ME0ZEeeZC78fRt21fQ" presentationName="Processo Agil ADS" briefDescription="Processo customizado para o curso de ADS, baseado em práticas de métodos ágeis." authors="Edson Murakami" changeDate="2017-06-09T11:45:57.957-0200" version="1.0">
+  <org.eclipse.epf.uma:MethodPlugin xmi:id="_p8a8ME0ZEeeZC78fRt21fQ" name="processo_agile" guid="_p8a8ME0ZEeeZC78fRt21fQ" presentationName="Processo Agil ADS" briefDescription="Processo customizado para o curso de ADS, baseado em práticas de métodos ágeis." authors="Edson Murakami" changeDate="2017-06-09T10:45:57.957-0300" version="1.0">
     <methodElementProperty xmi:id="_p9ZzoE0ZEeeZC78fRt21fQ" name="plugin_synFree" value="true"/>
     <methodElementProperty xmi:id="_CZKX4E0aEeeZC78fRt21fQ" name="me_edited" value="true"/>
     <methodPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_p8a8MU0ZEeeZC78fRt21fQ" name="Content" guid="_p8a8MU0ZEeeZC78fRt21fQ">
       <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_p8a8Mk0ZEeeZC78fRt21fQ" name="Categories" guid="_p8a8Mk0ZEeeZC78fRt21fQ">
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_p8a8M00ZEeeZC78fRt21fQ" name="Domains" guid="_p8a8M00ZEeeZC78fRt21fQ">
-          <contentElements xsi:type="org.eclipse.epf.uma:Domain" xmi:id="_72g6UGfgEeeJroYH56TLOQ" name="artefatos" guid="_72g6UGfgEeeJroYH56TLOQ" presentationName="Artefatos" briefDescription="Artefatos (produtos de trabalho)" guidelines="_enS8EGb5Eeelx-d4QgVk5A _cN2YcGb5Eeelx-d4QgVk5A _97ZYwLWCEeqIE8PTmZnm3A _7QQV8KDuEeqZReOXvi3sdQ _gxAakGb5Eeelx-d4QgVk5A _kivfQKdcEeq1ProniyDKWg _St8QALZGEeqfZPEi8_DfSQ _q0JkQI40EeqPTOk8qo7S2Q" examples="_7tCiMGcEEeelx-d4QgVk5A _RopCYGb7Eeelx-d4QgVk5A _Qu2JAGe-Eee98KTxJdQ4aA _hmRiwGcGEeelx-d4QgVk5A _SLKUEGcQEeelx-d4QgVk5A _SLKUEmcQEeelx-d4QgVk5A _QDMZYGe9Eee98KTxJdQ4aA _2Z4JkMLfEeqz5tEf5BYCAA _YkMKEGe9Eee98KTxJdQ4aA _1CfX4GfXEee98KTxJdQ4aA" workProducts="_LKKrgGiaEeeubPDbByZ39Q _7UTzAGZdEee1huV63HakZg _GfkJgGZpEee1huV63HakZg _7wCiMGZcEee1huV63HakZg _nxoHIGfJEee98KTxJdQ4aA _SHQv8GZqEee1huV63HakZg _vlXKQGb6Eeelx-d4QgVk5A _9UCO0Gb8Eeelx-d4QgVk5A _9TMOYGcJEeelx-d4QgVk5A _HOIYEGcLEeelx-d4QgVk5A _B85SgGcMEeelx-d4QgVk5A _2zmjgGcDEeelx-d4QgVk5A _sC0tEGb5Eeelx-d4QgVk5A _PAGkwGb5Eeelx-d4QgVk5A _WZzmkGaTEeeSdMzcHvBvqg _piM8YOhWEeqpRpaT9ayfbA _6v8CYIkrEeiXk-0tNEdcvA _cWdAoGaSEeeSdMzcHvBvqg _2SgXoGe-Eee98KTxJdQ4aA _hjKj0GaXEeeSdMzcHvBvqg _RgU6wHH6EeeNG_oM-1Xh7g _XenvAGaSEeeSdMzcHvBvqg _qywrAGcHEeelx-d4QgVk5A _4mDRMGcGEeelx-d4QgVk5A _uYnrgGcUEee6Z8sC_73hQw _I3MuAGcTEeelx-d4QgVk5A _hQ6N4OhREeqpRpaT9ayfbA _A6CUQAXyEeixob1xXf1D3w _U0xmcGZnEee1huV63HakZg _4myakGcSEeelx-d4QgVk5A">
+          <contentElements xsi:type="org.eclipse.epf.uma:Domain" xmi:id="_72g6UGfgEeeJroYH56TLOQ" name="artefatos" guid="_72g6UGfgEeeJroYH56TLOQ" presentationName="Artefatos" briefDescription="Artefatos (produtos de trabalho)" guidelines="_enS8EGb5Eeelx-d4QgVk5A _cN2YcGb5Eeelx-d4QgVk5A _97ZYwLWCEeqIE8PTmZnm3A _7QQV8KDuEeqZReOXvi3sdQ _gxAakGb5Eeelx-d4QgVk5A _kivfQKdcEeq1ProniyDKWg _St8QALZGEeqfZPEi8_DfSQ _q0JkQI40EeqPTOk8qo7S2Q _k__YkCeLEe-sxbsop-TqYA _JAlkICIJEe-3jqmFtf6CwA _2HQHICM7Ee-5BoBWlxDHwg" examples="_7tCiMGcEEeelx-d4QgVk5A _RopCYGb7Eeelx-d4QgVk5A _Qu2JAGe-Eee98KTxJdQ4aA _hmRiwGcGEeelx-d4QgVk5A _SLKUEGcQEeelx-d4QgVk5A _SLKUEmcQEeelx-d4QgVk5A _QDMZYGe9Eee98KTxJdQ4aA _2Z4JkMLfEeqz5tEf5BYCAA _YkMKEGe9Eee98KTxJdQ4aA _1CfX4GfXEee98KTxJdQ4aA" workProducts="_LKKrgGiaEeeubPDbByZ39Q _7UTzAGZdEee1huV63HakZg _GfkJgGZpEee1huV63HakZg _7wCiMGZcEee1huV63HakZg _nxoHIGfJEee98KTxJdQ4aA _SHQv8GZqEee1huV63HakZg _vlXKQGb6Eeelx-d4QgVk5A _9UCO0Gb8Eeelx-d4QgVk5A _9TMOYGcJEeelx-d4QgVk5A _HOIYEGcLEeelx-d4QgVk5A _B85SgGcMEeelx-d4QgVk5A _2zmjgGcDEeelx-d4QgVk5A _sC0tEGb5Eeelx-d4QgVk5A _PAGkwGb5Eeelx-d4QgVk5A _WZzmkGaTEeeSdMzcHvBvqg _piM8YOhWEeqpRpaT9ayfbA _6v8CYIkrEeiXk-0tNEdcvA _cWdAoGaSEeeSdMzcHvBvqg _2SgXoGe-Eee98KTxJdQ4aA _hjKj0GaXEeeSdMzcHvBvqg _RgU6wHH6EeeNG_oM-1Xh7g _XenvAGaSEeeSdMzcHvBvqg _qywrAGcHEeelx-d4QgVk5A _4mDRMGcGEeelx-d4QgVk5A _uYnrgGcUEee6Z8sC_73hQw _hQ6N4OhREeqpRpaT9ayfbA _A6CUQAXyEeixob1xXf1D3w _U0xmcGZnEee1huV63HakZg _4myakGcSEeelx-d4QgVk5A">
             <methodElementProperty xmi:id="__o2jgGfgEeeJroYH56TLOQ" name="me_edited" value="true"/>
             <methodElementProperty xmi:id="_qt2YIGf_EeeJroYH56TLOQ" name="CategoryElementsSortType" value="Alphabetic"/>
           </contentElements>
@@ -308,10 +305,7 @@
             <methodElementProperty xmi:id="_TYWDcGcREeelx-d4QgVk5A" name="me_edited" value="true"/>
             <presentation xmi:id="-X2Mekdr5MSsDxN-Td-6wWw" href="uma://-X2Mekdr5MSsDxN-Td-6wWw#-X2Mekdr5MSsDxN-Td-6wWw"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_I3MuAGcTEeelx-d4QgVk5A" name="rm" guid="_I3MuAGcTEeelx-d4QgVk5A" presentationName="Requisição de Mudanças" briefDescription="Requisição de Mudanças, deve ser pelo template de Issue e deve haver análise de impacto. A resolução deve ser feita através do template de Pull Request e deve haver revisão." templates="_qZqCQCaWEe-EAd-Gzipbhg _X5VPwCaYEe-EAd-Gzipbhg">
-            <methodElementProperty xmi:id="_LoNdEGcTEeelx-d4QgVk5A" name="me_edited" value="true"/>
-          </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_PqTZgGcTEeelx-d4QgVk5A" name="controlar_mudanca" guid="_PqTZgGcTEeelx-d4QgVk5A" presentationName="Controlar Mudanças no Sistema" briefDescription="Controlar Mudanças no Sistema" performedBy="_jg34QE0dEeeZC78fRt21fQ" mandatoryInput="_I3MuAGcTEeelx-d4QgVk5A" output="_I3MuAGcTEeelx-d4QgVk5A" additionallyPerformedBy="_0sP_IE0dEeeZC78fRt21fQ">
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_PqTZgGcTEeelx-d4QgVk5A" name="controlar_mudanca" guid="_PqTZgGcTEeelx-d4QgVk5A" presentationName="Controlar Mudanças no Sistema" briefDescription="Controlar Mudanças no Sistema" guidelines="_2HQHICM7Ee-5BoBWlxDHwg" performedBy="_jg34QE0dEeeZC78fRt21fQ" additionallyPerformedBy="_0sP_IE0dEeeZC78fRt21fQ">
             <methodElementProperty xmi:id="_UYdxwGcTEeelx-d4QgVk5A" name="me_edited" value="true"/>
             <presentation xmi:id="-_qfPyXeToXlV9yJk8pfD1g" href="uma://-_qfPyXeToXlV9yJk8pfD1g#-_qfPyXeToXlV9yJk8pfD1g"/>
           </contentElements>
@@ -321,10 +315,6 @@
           <contentElements xsi:type="org.eclipse.epf.uma:Template" xmi:id="_nQzDcGf0EeeJroYH56TLOQ" name="template_estrutura_projeto" guid="_nQzDcGf0EeeJroYH56TLOQ" presentationName="Template da Estrutura de Projetos">
             <methodElementProperty xmi:id="_s0Pd4Gf0EeeJroYH56TLOQ" name="me_edited" value="true"/>
             <presentation xmi:id="-2vq6qBNwBWRiD1Mf0pI8tg" href="uma://-2vq6qBNwBWRiD1Mf0pI8tg#-2vq6qBNwBWRiD1Mf0pI8tg"/>
-          </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Template" xmi:id="_5B4qAGf1EeeJroYH56TLOQ" name="template_rm" guid="_5B4qAGf1EeeJroYH56TLOQ" presentationName="Template da Requisição de Mudança">
-            <methodElementProperty xmi:id="_8i7H0Gf1EeeJroYH56TLOQ" name="me_edited" value="true"/>
-            <presentation xmi:id="-8hiUXeF9qv7ZWFElB7jnrA" href="uma://-8hiUXeF9qv7ZWFElB7jnrA#-8hiUXeF9qv7ZWFElB7jnrA"/>
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_cZf1IKc5EeqVVcbyjZLpiA" name="git" guid="_cZf1IKc5EeqVVcbyjZLpiA" presentationName="Git" briefDescription="Ferramenta cliente do Git para controle de versões.">
             <methodElementProperty xmi:id="_1b3tcKc5EeqVVcbyjZLpiA" name="me_edited" value="true"/>
