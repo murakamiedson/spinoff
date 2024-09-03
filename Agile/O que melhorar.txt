@@ -1,5 +1,0 @@
-SpinOff
-
-1. Trocar figura da pagina inicial. Só fazer nova geração.
-2. Criar uma aba planilha para gestão de riscos do projeto
-3. criar planilha de estimativa apf

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-yyCRItrba49E_xijeF72Vw" name="selenium,_aI9gcKc6EeqVVcbyjZLpiA" guid="-yyCRItrba49E_xijeF72Vw" changeDate="2024-08-13T17:39:26.562-0300">
+  <mainDescription>&lt;p>&#xD;
+    &lt;font size=&quot;2&quot;>Selenium WebDriver é uma ferramenta para automação de testes de aplicações web.&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;font size=&quot;2&quot;>Faça download em clicando &lt;a  href=&quot;https://www.selenium.dev/downloads/&quot; target=&quot;_blank&quot; >aqui&lt;/a>.&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>
